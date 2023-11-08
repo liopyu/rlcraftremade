@@ -1,0 +1,34 @@
+{
+    "pools": [
+      {
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:netherite_scrap"
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "doom:invisiblesphere"
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "doom:megasphere"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "name": "iter_rpg:chests/iterdungeon"
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "doom:daisy"
+          }
+        ]
+      }
+    ]
+  }
+  

@@ -1,0 +1,31 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "hexfortress:blaze_key",
+          "functions": [
+            {
+              "function": "minecraft:set_name",
+              "entity": "this",
+              "name": "﴾T̤̈Ḧ̤R̤̈Ë̤S̤̈Ḧ̤Ë̤R̤̈S̤̈﴿ ﴾K̤̈Ë̤Ÿ̤﴿"
+            },
+            {
+              "function": "minecraft:set_lore",
+              "entity": "this",
+              "lore": [
+                {
+                  "text": "ʜᴇ ᴡᴀꜱ ʙᴀᴅ ᴛᴏ ᴛʜᴇ ʙᴏɴᴇ..",
+                  "bold": false,
+                  "italic": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

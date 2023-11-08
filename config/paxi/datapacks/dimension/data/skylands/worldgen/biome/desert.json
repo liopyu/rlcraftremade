@@ -1,0 +1,210 @@
+{
+  "carvers": {
+    "air": [
+      "minecraft:cave",
+      "minecraft:cave_extra_underground",
+      "minecraft:canyon"
+    ]
+  },
+  "downfall": 0.0,
+  "effects": {
+    "fog_color": 12638463,
+    "mood_sound": {
+      "block_search_extent": 8,
+      "offset": 2.0,
+      "sound": "minecraft:ambient.cave",
+      "tick_delay": 6000
+    },
+    "sky_color": 8103167,
+    "water_color": 4445678,
+    "water_fog_color": 270131
+  },
+  "features": [
+    [
+	  "skylands:ocean_floor/deepslate",
+	  "skylands:ocean_floor/bedrock",
+	  "skylands:ocean_floor/base_stone",
+      "skylands:ocean_floor/surface_stone"
+    ],
+    [
+      "minecraft:lake_lava_underground",
+      "minecraft:lake_lava_surface",
+	  "skylands:ocean_floor/pocket_water"
+    ],
+    [
+      "skylands:amethyst_geode"
+    ],
+    [
+      "minecraft:fossil_upper",
+      "skylands:fossil_lower",
+      "minecraft:monster_room",
+      "skylands:monster_room_deep"
+    ],
+    [
+      "minecraft:desert_well"
+    ],
+    [],
+    [
+      "skylands:ore_dirt",
+      "minecraft:ore_gravel",
+      "skylands:ore_granite_upper",
+      "skylands:ore_granite_lower",
+      "skylands:ore_diorite_upper",
+      "skylands:ore_diorite_lower",
+      "skylands:ore_andesite_upper",
+      "skylands:ore_andesite_lower",
+      "skylands:ore_tuff",
+      "skylands:ore_coal_upper",
+      "skylands:ore_coal_lower",
+      "skylands:ore_iron_upper",
+      "skylands:ore_iron_middle",
+      "skylands:ore_iron_small",
+      "skylands:ore_gold",
+      "skylands:ore_gold_lower",
+      "skylands:ore_redstone",
+      "skylands:ore_redstone_lower",
+      "skylands:ore_diamond",
+      "skylands:ore_diamond_large",
+      "skylands:ore_diamond_buried",
+      "skylands:ore_lapis",
+      "skylands:ore_lapis_buried",
+      "skylands:ore_copper",
+      "minecraft:underwater_magma",
+      "skylands:disk_sand",
+      "skylands:disk_clay",
+      "skylands:disk_gravel",
+	  "skylands:ore_emerald"
+    ],
+    [
+	  "skylands:ore_infested"
+	],
+    [
+      "minecraft:spring_water",
+      "minecraft:spring_lava"
+    ],
+    [
+      "minecraft:glow_lichen",
+      "minecraft:flower_default",
+      "minecraft:patch_grass_badlands",
+      "minecraft:patch_dead_bush_2",
+      "minecraft:brown_mushroom_normal",
+      "minecraft:red_mushroom_normal",
+      "minecraft:patch_sugar_cane_desert",
+      "minecraft:patch_pumpkin",
+      "minecraft:patch_cactus_desert",
+	  "skylands:warm_ocean_vegetation",
+      "skylands:seagrass_warm",
+      "skylands:sea_pickle",
+	  "skylands:sand_top_dirt",
+	  "skylands:sand_top_stone"
+    ],
+    [
+      "minecraft:freeze_top_layer"
+    ]
+  ],
+  "precipitation": "none",
+  "spawn_costs": {},
+  "spawners": {
+    "ambient": [
+      {
+        "type": "minecraft:bat",
+        "maxCount": 8,
+        "minCount": 8,
+        "weight": 10
+      }
+    ],
+    "axolotls": [],
+    "creature": [
+      {
+        "type": "minecraft:rabbit",
+        "maxCount": 3,
+        "minCount": 2,
+        "weight": 4
+      },
+      {
+        "type": "minecraft:turtle",
+        "weight": 5,
+        "minCount": 2,
+        "maxCount": 5
+      }
+    ],
+    "misc": [],
+    "monster": [
+      {
+        "type": "minecraft:spider",
+        "maxCount": 4,
+        "minCount": 4,
+        "weight": 100
+      },
+      {
+        "type": "minecraft:zombie",
+        "maxCount": 4,
+        "minCount": 4,
+        "weight": 19
+      },
+      {
+        "type": "minecraft:zombie_villager",
+        "maxCount": 1,
+        "minCount": 1,
+        "weight": 1
+      },
+      {
+        "type": "minecraft:skeleton",
+        "maxCount": 4,
+        "minCount": 4,
+        "weight": 100
+      },
+      {
+        "type": "minecraft:creeper",
+        "maxCount": 4,
+        "minCount": 4,
+        "weight": 100
+      },
+      {
+        "type": "minecraft:slime",
+        "maxCount": 4,
+        "minCount": 4,
+        "weight": 100
+      },
+      {
+        "type": "minecraft:enderman",
+        "maxCount": 4,
+        "minCount": 1,
+        "weight": 10
+      },
+      {
+        "type": "minecraft:witch",
+        "maxCount": 1,
+        "minCount": 1,
+        "weight": 5
+      },
+      {
+        "type": "minecraft:husk",
+        "maxCount": 4,
+        "minCount": 4,
+        "weight": 80
+      },
+      {
+        "type": "minecraft:drowned",
+        "maxCount": 1,
+        "minCount": 1,
+        "weight": 5
+      }
+    ],
+    "underground_water_creature": [
+      
+    ],
+    "water_ambient": [
+      
+    ],
+    "water_creature": [
+      {
+        "type": "minecraft:dolphin",
+        "maxCount": 2,
+        "minCount": 1,
+        "weight": 2
+      }
+    ]
+  },
+  "temperature": 2.0
+}

@@ -1,0 +1,28 @@
+{
+    "replace": false,
+    "values": [
+        "skylands:badlands",
+        "skylands:birch_forest",
+        "skylands:crystal_forest",
+        "skylands:dark_forest",
+        "skylands:desert",
+        "skylands:flower_forest",
+        "skylands:forest",
+        "skylands:jungle",
+        "skylands:mangrove_swamp",
+        "skylands:meadow",
+        "skylands:old_growth_taiga",
+        "skylands:plains",
+        "skylands:prismarine_forest",
+        "skylands:savanna",
+        "skylands:snowy_plains",
+        "skylands:snowy_taiga",
+        "skylands:sparse_jungle",
+        "skylands:sunflower_plains",
+        "skylands:swamp",
+        "skylands:taiga",
+        "skylands:windswept_forest",
+        "skylands:windswept_plains",
+        "skylands:wooded_badlands"
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "pools": [
+      {
+        "rolls": 1,
+        "entries": [
+            {
+              "type": "minecraft:loot_table",
+              "name": "iter_rpg:chests/iterdungeon"
+            },
+          {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "doom:invisiblesphere"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "name": "artifacts:artifact"
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "doom:powersphere"
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "doom:daisy"
+          }
+        ]
+      }
+    ]
+  }
+  

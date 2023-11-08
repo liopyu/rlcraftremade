@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "better_katanas:obsidian_katana"
+  },
+  "addition": {
+    "item": "tetra:stonecutter"
+  },
+  "result": {
+    "item": "better_katanas:netherite_katana"
+  }
+}

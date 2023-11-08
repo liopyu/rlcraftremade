@@ -1,0 +1,2104 @@
+{
+  "type": "wabworldgen:tutorial",
+  "generator": {
+    "type": "minecraft:noise",
+    "settings": "skylands:skylands",
+    "biome_source": {
+      "type": "minecraft:multi_noise",
+      "biomes": [
+
+
+
+        {
+          "biome": "skylands:frozen_wastes",
+          "parameters": {
+            "temperature": [-1.0,-0.64],
+            "humidity": [-1.0,-0.48],
+            "erosion": 0,
+            "continentalness": 0,
+            "weirdness": [-0.4,0.4],
+            "depth": 0,
+            "offset": 0
+          }
+        },
+        {
+          "biome": "skylands:snowy_plains",
+          "parameters": {
+            "temperature": [-1.0,-0.64],
+            "humidity": [-0.48,0.0],
+            "erosion": 0,
+            "continentalness": 0,
+            "weirdness": [-0.4,0.4],
+            "depth": 0,
+            "offset": 0
+          }
+        },
+        {
+          "biome": "skylands:snowy_taiga",
+          "parameters": {
+            "temperature": [-1.0,-0.64],
+            "humidity": [0.0,0.48],
+            "erosion": 0,
+            "continentalness": 0,
+            "weirdness": [-0.4,0.4],
+            "depth": 0,
+            "offset": 0
+          }
+        },
+        {
+          "biome": "skylands:grove",
+          "parameters": {
+            "temperature": [-1.0,-0.64],
+            "humidity": [0.48,1.0],
+            "erosion": 0,
+            "continentalness": 0,
+            "weirdness": [-0.4,0.4],
+            "depth": 0,
+            "offset": 0
+          }
+        },
+
+
+
+        {
+          "biome": "skylands:stony_wastes",
+          "parameters": {
+            "temperature": [-0.64,-0.3],
+            "humidity": [-1.0,-0.48],
+            "erosion": 0,
+            "continentalness": 0,
+            "weirdness": [-1.0,1.0],
+            "depth": 0,
+            "offset": 0
+          }
+        },
+        {
+          "biome": "skylands:windswept_plains",
+          "parameters": {
+            "temperature": [-0.64,-0.3],
+            "humidity": [-0.48,0.0],
+            "erosion": 0,
+            "continentalness": 0,
+            "weirdness": [-1.0,1.0],
+            "depth": 0,
+            "offset": 0
+          }
+        },
+        {
+          "biome": "skylands:taiga",
+          "parameters": {
+            "temperature": [-0.64,-0.3],
+            "humidity": [0.0,0.48],
+            "erosion": 0,
+            "continentalness": 0,
+            "weirdness": [-1.0,1.0],
+            "depth": 0,
+            "offset": 0
+          }
+        },
+        {
+          "biome": "skylands:old_growth_taiga",
+          "parameters": {
+            "temperature": [-0.64,-0.3],
+            "humidity": [0.48,1.0],
+            "erosion": 0,
+            "continentalness": 0,
+            "weirdness": [-1.0,1.0],
+            "depth": 0,
+            "offset": 0
+          }
+        },
+
+
+
+        {
+          "biome": "skylands:windswept_forest",
+          "parameters": {
+            "temperature": [-0.3,0.0],
+            "humidity": [-1.0,-0.48],
+            "erosion": 0,
+            "continentalness": 0,
+            "weirdness": [-1.0,0.4],
+            "depth": 0,
+            "offset": 0
+          }
+        },
+        {
+          "biome": "skylands:forest",
+          "parameters": {
+            "temperature": [-0.3,0.0],
+            "humidity": [-0.48,0.0],
+            "erosion": 0,
+            "continentalness": 0,
+            "weirdness": [-1.0,0.4],
+            "depth": 0,
+            "offset": 0
+          }
+        },
+        {
+          "biome": "skylands:flower_forest",
+          "parameters": {
+            "temperature": [-0.3,0.0],
+            "humidity": [0.0,0.48],
+            "erosion": 0,
+            "continentalness": 0,
+            "weirdness": [-1.0,0.4],
+            "depth": 0,
+            "offset": 0
+          }
+        },
+        {
+          "biome": "skylands:swamp",
+          "parameters": {
+            "temperature": [-0.3,0.0],
+            "humidity": [0.48,1.0],
+            "erosion": 0,
+            "continentalness": 0,
+            "weirdness": [-1.0,0.4],
+            "depth": 0,
+            "offset": 0
+          }
+        },
+
+
+
+        {
+          "biome": "skylands:birch_forest",
+          "parameters": {
+            "temperature": [0.0,0.3],
+            "humidity": [-1.0,-0.48],
+            "erosion": 0,
+            "continentalness": 0,
+            "weirdness": [-0.4,1.0],
+            "depth": 0,
+            "offset": 0
+          }
+        },
+        {
+          "biome": "skylands:meadow",
+          "parameters": {
+            "temperature": [0.0,0.3],
+            "humidity": [-0.48,0.0],
+            "erosion": 0,
+            "continentalness": 0,
+            "weirdness": [-0.4,1.0],
+            "depth": 0,
+            "offset": 0
+          }
+        },
+        {
+          "biome": "skylands:dark_forest",
+          "parameters": {
+            "temperature": [0.0,0.3],
+            "humidity": [0.0,0.48],
+            "erosion": 0,
+            "continentalness": 0,
+            "weirdness": [-0.4,1.0],
+            "depth": 0,
+            "offset": 0
+          }
+        },
+        {
+          "biome": "skylands:mangrove_swamp",
+          "parameters": {
+            "temperature": [0.0,0.3],
+            "humidity": [0.48,1.0],
+            "erosion": 0,
+            "continentalness": 0,
+            "weirdness": [-0.4,1.0],
+            "depth": 0,
+            "offset": 0
+          }
+        },
+
+
+
+        {
+          "biome": "skylands:plains",
+          "parameters": {
+            "temperature": [0.3,0.64],
+            "humidity": [-1.0,-0.48],
+            "erosion": 0,
+            "continentalness": 0,
+            "weirdness": [-0.4,0.4],
+            "depth": 0,
+            "offset": 0
+          }
+        },
+        {
+          "biome": "skylands:sunflower_plains",
+          "parameters": {
+            "temperature": [0.3,0.64],
+            "humidity": [-0.48,0.0],
+            "erosion": 0,
+            "continentalness": 0,
+            "weirdness": [-0.4,0.4],
+            "depth": 0,
+            "offset": 0
+          }
+        },
+        {
+          "biome": "skylands:sparse_jungle",
+          "parameters": {
+            "temperature": [0.3,0.64],
+            "humidity": [0.0,0.48],
+            "erosion": 0,
+            "continentalness": 0,
+            "weirdness": [-0.4,0.4],
+            "depth": 0,
+            "offset": 0
+          }
+        },
+        {
+          "biome": "skylands:jungle",
+          "parameters": {
+            "temperature": [0.3,0.64],
+            "humidity": [0.48,1.0],
+            "erosion": 0,
+            "continentalness": 0,
+            "weirdness": [-0.4,0.4],
+            "depth": 0,
+            "offset": 0
+          }
+        },
+
+
+
+        {
+          "biome": "skylands:desert",
+          "parameters": {
+            "temperature": [0.64,1.0],
+            "humidity": [-1.0,-0.48],
+            "erosion": 0,
+            "continentalness": 0,
+            "weirdness": [-0.4,1.0],
+            "depth": 0,
+            "offset": 0
+          }
+        },
+        {
+          "biome": "skylands:badlands",
+          "parameters": {
+            "temperature": [0.64,1.0],
+            "humidity": [-0.48,0.0],
+            "erosion": 0,
+            "continentalness": 0,
+            "weirdness": [-0.4,1.0],
+            "depth": 0,
+            "offset": 0
+          }
+        },
+        {
+          "biome": "skylands:wooded_badlands",
+          "parameters": {
+            "temperature": [0.64,1.0],
+            "humidity": [0.0,0.48],
+            "erosion": 0,
+            "continentalness": 0,
+            "weirdness": [-0.4,1.0],
+            "depth": 0,
+            "offset": 0
+          }
+        },
+        {
+          "biome": "skylands:savanna",
+          "parameters": {
+            "temperature": [0.64,1.0],
+            "humidity": [0.48,1.0],
+            "erosion": 0,
+            "continentalness": 0,
+            "weirdness": [-0.4,1.0],
+            "depth": 0,
+            "offset": 0
+          }
+        },
+		
+
+
+        {
+          "biome": "skylands:frozen_wastes",
+          "parameters": {
+            "temperature": [-1.0,-0.64],
+            "humidity": [-1.0,-0.32],
+            "erosion": 0,
+            "continentalness": 0,
+            "weirdness": [-1.0,-0.4],
+            "depth": 0,
+            "offset": 0
+          }
+        },
+        {
+          "biome": "skylands:grove",
+          "parameters": {
+            "temperature": [-1.0,-0.64],
+            "humidity": [0.32,1.0],
+            "erosion": 0,
+            "continentalness": 0,
+            "weirdness": [-1.0,-0.4],
+            "depth": 0,
+            "offset": 0
+          }
+        },
+		
+		
+		
+        {
+          "biome": "skylands:birch_forest",
+          "parameters": {
+            "temperature": [0.0,0.3],
+            "humidity": [-1.0,-0.32],
+            "erosion": 0,
+            "continentalness": 0,
+            "weirdness": [-1.0,-0.4],
+            "depth": 0,
+            "offset": 0
+          }
+        },
+        {
+          "biome": "skylands:mangrove_swamp",
+          "parameters": {
+            "temperature": [0.0,0.3],
+            "humidity": [0.32,1.0],
+            "erosion": 0,
+            "continentalness": 0,
+            "weirdness": [-1.0,-0.4],
+            "depth": 0,
+            "offset": 0
+          }
+        },
+        {
+          "biome": "skylands:desert",
+          "parameters": {
+            "temperature": [0.64,1.0],
+            "humidity": [-1.0,-0.32],
+            "erosion": 0,
+            "continentalness": 0,
+            "weirdness": [-1.0,-0.4],
+            "depth": 0,
+            "offset": 0
+          }
+        },
+        {
+          "biome": "skylands:savanna",
+          "parameters": {
+            "temperature": [0.64,1.0],
+            "humidity": [0.32,1.0],
+            "erosion": 0,
+            "continentalness": 0,
+            "weirdness": [-1.0,-0.4],
+            "depth": 0,
+            "offset": 0
+          }
+        },
+		
+
+
+        {
+          "biome": "skylands:frozen_wastes",
+          "parameters": {
+            "temperature": [-1.0,-0.64],
+            "humidity": [-1.0,-0.32],
+            "erosion": 0,
+            "continentalness": 0,
+            "weirdness": [0.4,1.0],
+            "depth": 0,
+            "offset": 0
+          }
+        },
+        {
+          "biome": "skylands:crystal_forest",
+          "parameters": {
+            "temperature": [-1.0,-0.64],
+            "humidity": [-0.32,0.32],
+            "erosion": 0,
+            "continentalness": 0,
+            "weirdness": [0.4,1.0],
+            "depth": 0,
+            "offset": 0
+          }
+        },
+        {
+          "biome": "skylands:grove",
+          "parameters": {
+            "temperature": [-1.0,-0.64],
+            "humidity": [0.32,1.0],
+            "erosion": 0,
+            "continentalness": 0,
+            "weirdness": [0.4,1.0],
+            "depth": 0,
+            "offset": 0
+          }
+        },
+		
+		
+		
+        {
+          "biome": "skylands:windswept_forest",
+          "parameters": {
+            "temperature": [-0.3,0.0],
+            "humidity": [-1.0,-0.32],
+            "erosion": 0,
+            "continentalness": 0,
+            "weirdness": [0.4,1.0],
+            "depth": 0,
+            "offset": 0
+          }
+        },
+        {
+          "biome": "skylands:prismarine_forest",
+          "parameters": {
+            "temperature": [-0.3,0.0],
+            "humidity": [-0.32,0.32],
+            "erosion": 0,
+            "continentalness": 0,
+            "weirdness": [0.4,1.0],
+            "depth": 0,
+            "offset": 0
+          }
+        },
+        {
+          "biome": "skylands:swamp",
+          "parameters": {
+            "temperature": [-0.3,0.0],
+            "humidity": [0.32,1.0],
+            "erosion": 0,
+            "continentalness": 0,
+            "weirdness": [0.4,1.0],
+            "depth": 0,
+            "offset": 0
+          }
+        },
+		
+		
+		
+        {
+          "biome": "skylands:plains",
+          "parameters": {
+            "temperature": [0.3,0.64],
+            "humidity": [-1.0,-0.32],
+            "erosion": 0,
+            "continentalness": 0,
+            "weirdness": [0.4,1.0],
+            "depth": 0,
+            "offset": 0
+          }
+        },
+        {
+          "biome": "skylands:mushroom_fields",
+          "parameters": {
+            "temperature": [0.3,0.64],
+            "humidity": [-0.32,0.32],
+            "erosion": 0,
+            "continentalness": 0,
+            "weirdness": [0.4,1.0],
+            "depth": 0,
+            "offset": 0
+          }
+        },
+        {
+          "biome": "skylands:jungle",
+          "parameters": {
+            "temperature": [0.3,0.64],
+            "humidity": [0.32,1.0],
+            "erosion": 0,
+            "continentalness": 0,
+            "weirdness": [0.4,1.0],
+            "depth": 0,
+            "offset": 0
+          }
+        },
+        {
+          "biome": "wythers:volcanic_crater",
+          "parameters": {
+            "temperature": [
+              -1.2,
+              1.2
+            ],
+            "humidity": [
+              -1,
+              1
+            ],
+            "continentalness": [
+              -1.2,
+              -1.12
+            ],
+            "erosion": [
+              -1,
+              1
+            ],
+            "weirdness": [
+              -1,
+              1
+            ],
+            "depth": [
+              -0.2,
+              0
+            ],
+            "offset": 0
+          }
+        },
+        {
+          "biome": "wythers:icy_volcano",
+          "parameters": {
+            "temperature": [
+              -1.2,
+              -0.45
+            ],
+            "humidity": [
+              -1,
+              1
+            ],
+            "continentalness": [
+              -1.12,
+              -1.05
+            ],
+            "erosion": [
+              -1,
+              1
+            ],
+            "weirdness": [
+              -1,
+              1
+            ],
+            "depth": [
+              -0.2,
+              0
+            ],
+            "offset": 0
+          }
+        },
+        {
+          "biome": "wythers:volcano",
+          "parameters": {
+            "temperature": [
+              -0.45,
+              0.55
+            ],
+            "humidity": [
+              -1,
+              1
+            ],
+            "continentalness": [
+              -1.12,
+              -1.05
+            ],
+            "erosion": [
+              -1,
+              1
+            ],
+            "weirdness": [
+              -1,
+              1
+            ],
+            "depth": [
+              -0.2,
+              0
+            ],
+            "offset": 0
+          }
+        },
+        {
+          "biome": "wythers:tropical_volcano",
+          "parameters": {
+            "temperature": [
+              0.55,
+              1.2
+            ],
+            "humidity": [
+              -1,
+              1
+            ],
+            "continentalness": [
+              -1.12,
+              -1.05
+            ],
+            "erosion": [
+              -1,
+              1
+            ],
+            "weirdness": [
+              -1,
+              1
+            ],
+            "depth": [
+              -0.2,
+              0
+            ],
+            "offset": 0
+          }
+        },
+        {
+          "biome": "wythers:frozen_island",
+          "parameters": {
+            "temperature": [
+              -1.2,
+              -1
+            ],
+            "humidity": [
+              -1,
+              1
+            ],
+            "continentalness": [
+              -1.05,
+              -0.9
+            ],
+            "erosion": [
+              -1,
+              1
+            ],
+            "weirdness": [
+              -1,
+              1
+            ],
+            "depth": [
+              -0.2,
+              0
+            ],
+            "offset": 0
+          }
+        },
+        {
+          "biome": "wythers:frozen_island",
+          "parameters": {
+            "temperature": [
+              -1,
+              -0.6
+            ],
+            "humidity": [
+              -1,
+              0.3
+            ],
+            "continentalness": [
+              -1.05,
+              -0.9
+            ],
+            "erosion": [
+              -1,
+              1
+            ],
+            "weirdness": [
+              -1,
+              1
+            ],
+            "depth": [
+              -0.2,
+              0
+            ],
+            "offset": 0
+          }
+        },
+        {
+          "biome": "wythers:frigid_island",
+          "parameters": {
+            "temperature": [
+              -1,
+              -0.45
+            ],
+            "humidity": [
+              0.3,
+              1
+            ],
+            "continentalness": [
+              -1.05,
+              -0.9
+            ],
+            "erosion": [
+              -1,
+              1
+            ],
+            "weirdness": [
+              -1,
+              1
+            ],
+            "depth": [
+              -0.2,
+              0
+            ],
+            "offset": 0
+          }
+        },
+        {
+          "biome": "wythers:frigid_island",
+          "parameters": {
+            "temperature": [
+              -0.6,
+              -0.45
+            ],
+            "humidity": [
+              -1,
+              1
+            ],
+            "continentalness": [
+              -1.05,
+              -0.9
+            ],
+            "erosion": [
+              -1,
+              1
+            ],
+            "weirdness": [
+              -1,
+              1
+            ],
+            "depth": [
+              -0.2,
+              0
+            ],
+            "offset": 0
+          }
+        },
+        {
+          "biome": "wythers:cold_island",
+          "parameters": {
+            "temperature": [
+              -0.45,
+              -0.13
+            ],
+            "humidity": [
+              -1,
+              1
+            ],
+            "continentalness": [
+              -1.05,
+              -0.9
+            ],
+            "erosion": [
+              -1,
+              1
+            ],
+            "weirdness": [
+              -1,
+              1
+            ],
+            "depth": [
+              -0.2,
+              0
+            ],
+            "offset": 0
+          }
+        },
+        {
+          "biome": "wythers:temperate_island",
+          "parameters": {
+            "temperature": [
+              -0.13,
+              0.1
+            ],
+            "humidity": [
+              -1,
+              1
+            ],
+            "continentalness": [
+              -1.05,
+              -0.9
+            ],
+            "erosion": [
+              -1,
+              1
+            ],
+            "weirdness": [
+              -1,
+              1
+            ],
+            "depth": [
+              -0.2,
+              0
+            ],
+            "offset": 0
+          }
+        },
+        {
+          "biome": "wythers:mediterranean_island_thermal_springs",
+          "parameters": {
+            "temperature": [
+              0.1,
+              0.42
+            ],
+            "humidity": [
+              -1,
+              1
+            ],
+            "continentalness": [
+              -1.05,
+              -0.9
+            ],
+            "erosion": [
+              -1,
+              1
+            ],
+            "weirdness": [
+              -1,
+              -0.93333334
+            ],
+            "depth": [
+              -0.2,
+              0
+            ],
+            "offset": 0
+          }
+        },
+        {
+          "biome": "wythers:desert_island",
+          "parameters": {
+            "temperature": [
+              0.42,
+              0.55
+            ],
+            "humidity": [
+              -1,
+              1
+            ],
+            "continentalness": [
+              -1.05,
+              -0.9
+            ],
+            "erosion": [
+              -1,
+              1
+            ],
+            "weirdness": [
+              -1,
+              1
+            ],
+            "depth": [
+              -0.2,
+              0
+            ],
+            "offset": 0
+          }
+        },
+        {
+          "biome": "wythers:jungle_island",
+          "parameters": {
+            "temperature": [
+              0.55,
+              0.59
+            ],
+            "humidity": [
+              -1,
+              1
+            ],
+            "continentalness": [
+              -1.05,
+              -0.9
+            ],
+            "erosion": [
+              -1,
+              1
+            ],
+            "weirdness": [
+              -1,
+              -0.26666668
+            ],
+            "depth": [
+              -0.2,
+              0
+            ],
+            "offset": 0
+          }
+        },
+        {
+          "biome": "wythers:jungle_island",
+          "parameters": {
+            "temperature": [
+              0.59,
+              0.62
+            ],
+            "humidity": [
+              -1,
+              0.1
+            ],
+            "continentalness": [
+              -1.05,
+              -0.9
+            ],
+            "erosion": [
+              -1,
+              1
+            ],
+            "weirdness": [
+              -1,
+              -0.26666668
+            ],
+            "depth": [
+              -0.2,
+              0
+            ],
+            "offset": 0
+          }
+        },
+        {
+          "biome": "wythers:mushroom_island",
+          "parameters": {
+            "temperature": [
+              0.59,
+              0.62
+            ],
+            "humidity": [
+              0.1,
+              1
+            ],
+            "continentalness": [
+              -1.05,
+              -0.9
+            ],
+            "erosion": [
+              -1,
+              1
+            ],
+            "weirdness": [
+              -1,
+              -0.26666668
+            ],
+            "depth": [
+              -0.2,
+              0
+            ],
+            "offset": 0
+          }
+        },
+        {
+          "biome": "wythers:mushroom_island",
+          "parameters": {
+            "temperature": [
+              0.62,
+              0.9
+            ],
+            "humidity": [
+              -1,
+              0.1
+            ],
+            "continentalness": [
+              -1.05,
+              -0.9
+            ],
+            "erosion": [
+              -1,
+              1
+            ],
+            "weirdness": [
+              -1,
+              -0.26666668
+            ],
+            "depth": [
+              -0.2,
+              0
+            ],
+            "offset": 0
+          }
+        },
+        {
+          "biome": "minecraft:mushroom_fields",
+          "parameters": {
+            "temperature": [
+              0.62,
+              1.2
+            ],
+            "humidity": [
+              0.1,
+              1
+            ],
+            "continentalness": [
+              -1.05,
+              -0.9
+            ],
+            "erosion": [
+              -1,
+              1
+            ],
+            "weirdness": [
+              -1,
+              -0.26666668
+            ],
+            "depth": [
+              -0.2,
+              0
+            ],
+            "offset": 0
+          }
+        },
+        {
+          "biome": "minecraft:mushroom_fields",
+          "parameters": {
+            "temperature": [
+              0.9,
+              1.2
+            ],
+            "humidity": [
+              -1,
+              1
+            ],
+            "continentalness": [
+              -1.05,
+              -0.9
+            ],
+            "erosion": [
+              -1,
+              1
+            ],
+            "weirdness": [
+              -1,
+              -0.26666668
+            ],
+            "depth": [
+              -0.2,
+              0
+            ],
+            "offset": 0
+          }
+        },
+        {
+          "biome": "wythers:frozen_island",
+          "parameters": {
+            "temperature": [
+              -1.2,
+              -1
+            ],
+            "humidity": [
+              -1,
+              1
+            ],
+            "continentalness": [
+              -0.9,
+              -0.8
+            ],
+            "erosion": [
+              -1,
+              1
+            ],
+            "weirdness": [
+              -1,
+              -0.05
+            ],
+            "depth": [
+              -0.2,
+              0
+            ],
+            "offset": 0
+          }
+        },
+        {
+          "biome": "wythers:frozen_island",
+          "parameters": {
+            "temperature": [
+              -1,
+              -0.6
+            ],
+            "humidity": [
+              -1,
+              0.3
+            ],
+            "continentalness": [
+              -0.9,
+              -0.8
+            ],
+            "erosion": [
+              -1,
+              1
+            ],
+            "weirdness": [
+              -1,
+              -0.05
+            ],
+            "depth": [
+              -0.2,
+              0
+            ],
+            "offset": 0
+          }
+        },
+        {
+          "biome": "wythers:frigid_island",
+          "parameters": {
+            "temperature": [
+              -1,
+              -0.45
+            ],
+            "humidity": [
+              0.3,
+              1
+            ],
+            "continentalness": [
+              -0.9,
+              -0.8
+            ],
+            "erosion": [
+              -1,
+              1
+            ],
+            "weirdness": [
+              -1,
+              -0.05
+            ],
+            "depth": [
+              -0.2,
+              0
+            ],
+            "offset": 0
+          }
+        },
+        {
+          "biome": "wythers:frigid_island",
+          "parameters": {
+            "temperature": [
+              -0.6,
+              -0.45
+            ],
+            "humidity": [
+              -1,
+              1
+            ],
+            "continentalness": [
+              -0.9,
+              -0.8
+            ],
+            "erosion": [
+              -1,
+              1
+            ],
+            "weirdness": [
+              -1,
+              -0.05
+            ],
+            "depth": [
+              -0.2,
+              0
+            ],
+            "offset": 0
+          }
+        },
+        {
+          "biome": "wythers:cold_island",
+          "parameters": {
+            "temperature": [
+              -0.45,
+              -0.13
+            ],
+            "humidity": [
+              -1,
+              1
+            ],
+            "continentalness": [
+              -0.9,
+              -0.8
+            ],
+            "erosion": [
+              -1,
+              1
+            ],
+            "weirdness": [
+              -1,
+              -0.05
+            ],
+            "depth": [
+              -0.2,
+              0
+            ],
+            "offset": 0
+          }
+        },
+        {
+          "biome": "wythers:temperate_island",
+          "parameters": {
+            "temperature": [
+              -0.13,
+              0.1
+            ],
+            "humidity": [
+              -1,
+              1
+            ],
+            "continentalness": [
+              -0.9,
+              -0.8
+            ],
+            "erosion": [
+              -1,
+              1
+            ],
+            "weirdness": [
+              -1,
+              -0.05
+            ],
+            "depth": [
+              -0.2,
+              0
+            ],
+            "offset": 0
+          }
+        },
+        {
+          "biome": "wythers:mediterranean_island",
+          "parameters": {
+            "temperature": [
+              0.1,
+              0.42
+            ],
+            "humidity": [
+              -1,
+              1
+            ],
+            "continentalness": [
+              -0.9,
+              -0.8
+            ],
+            "erosion": [
+              -1,
+              1
+            ],
+            "weirdness": [
+              -1,
+              -0.05
+            ],
+            "depth": [
+              -0.2,
+              0
+            ],
+            "offset": 0
+          }
+        },
+        {
+          "biome": "wythers:desert_island",
+          "parameters": {
+            "temperature": [
+              0.42,
+              0.55
+            ],
+            "humidity": [
+              -1,
+              1
+            ],
+            "continentalness": [
+              -0.9,
+              -0.8
+            ],
+            "erosion": [
+              -1,
+              1
+            ],
+            "weirdness": [
+              -1,
+              -0.05
+            ],
+            "depth": [
+              -0.2,
+              0
+            ],
+            "offset": 0
+          }
+        },
+        {
+          "biome": "wythers:tropical_island",
+          "parameters": {
+            "temperature": [
+              0.55,
+              0.59
+            ],
+            "humidity": [
+              -1,
+              1
+            ],
+            "continentalness": [
+              -0.9,
+              -0.8
+            ],
+            "erosion": [
+              -1,
+              1
+            ],
+            "weirdness": [
+              -1,
+              -0.05
+            ],
+            "depth": [
+              -0.2,
+              0
+            ],
+            "offset": 0
+          }
+        },
+        {
+          "biome": "wythers:tropical_island",
+          "parameters": {
+            "temperature": [
+              0.59,
+              0.62
+            ],
+            "humidity": [
+              -1,
+              0.075
+            ],
+            "continentalness": [
+              -0.9,
+              -0.8
+            ],
+            "erosion": [
+              -1,
+              1
+            ],
+            "weirdness": [
+              -1,
+              -0.05
+            ],
+            "depth": [
+              -0.2,
+              0
+            ],
+            "offset": 0
+          }
+        },
+        {
+          "biome": "wythers:jungle_island",
+          "parameters": {
+            "temperature": [
+              0.59,
+              0.62
+            ],
+            "humidity": [
+              0.075,
+              1
+            ],
+            "continentalness": [
+              -0.9,
+              -0.8
+            ],
+            "erosion": [
+              -1,
+              1
+            ],
+            "weirdness": [
+              -1,
+              -0.05
+            ],
+            "depth": [
+              -0.2,
+              0
+            ],
+            "offset": 0
+          }
+        },
+        {
+          "biome": "wythers:jungle_island",
+          "parameters": {
+            "temperature": [
+              0.62,
+              0.9
+            ],
+            "humidity": [
+              -1,
+              0.1
+            ],
+            "continentalness": [
+              -0.9,
+              -0.8
+            ],
+            "erosion": [
+              -1,
+              1
+            ],
+            "weirdness": [
+              -1,
+              -0.05
+            ],
+            "depth": [
+              -0.2,
+              0
+            ],
+            "offset": 0
+          }
+        },
+        {
+          "biome": "wythers:mushroom_island",
+          "parameters": {
+            "temperature": [
+              0.62,
+              1.2
+            ],
+            "humidity": [
+              0.1,
+              1
+            ],
+            "continentalness": [
+              -0.9,
+              -0.8
+            ],
+            "erosion": [
+              -1,
+              1
+            ],
+            "weirdness": [
+              -1,
+              -0.05
+            ],
+            "depth": [
+              -0.2,
+              0
+            ],
+            "offset": 0
+          }
+        },
+        {
+          "biome": "wythers:mushroom_island",
+          "parameters": {
+            "temperature": [
+              0.9,
+              1.2
+            ],
+            "humidity": [
+              -1,
+              1
+            ],
+            "continentalness": [
+              -0.9,
+              -0.8
+            ],
+            "erosion": [
+              -1,
+              1
+            ],
+            "weirdness": [
+              -1,
+              -0.05
+            ],
+            "depth": [
+              -0.2,
+              0
+            ],
+            "offset": 0
+          }
+        },
+        {
+          "biome": "minecraft:frozen_ocean",
+          "parameters": {
+            "temperature": [
+              -1.2,
+              -1
+            ],
+            "humidity": [
+              -1,
+              1
+            ],
+            "continentalness": [
+              -0.8,
+              -0.7000000000000001
+            ],
+            "erosion": [
+              -1,
+              1
+            ],
+            "weirdness": [
+              -1,
+              1
+            ],
+            "depth": [
+              -0.2,
+              0
+            ],
+            "offset": 0
+          }
+        },
+        {
+          "biome": "minecraft:frozen_ocean",
+          "parameters": {
+            "temperature": [
+              -1,
+              -0.6
+            ],
+            "humidity": [
+              -1,
+              0.3
+            ],
+            "continentalness": [
+              -0.8,
+              -0.7000000000000001
+            ],
+            "erosion": [
+              -1,
+              1
+            ],
+            "weirdness": [
+              -1,
+              1
+            ],
+            "depth": [
+              -0.2,
+              0
+            ],
+            "offset": 0
+          }
+        },
+        {
+          "biome": "wythers:icy_ocean",
+          "parameters": {
+            "temperature": [
+              -1,
+              -0.6
+            ],
+            "humidity": [
+              0.3,
+              1
+            ],
+            "continentalness": [
+              -0.8,
+              -0.7000000000000001
+            ],
+            "erosion": [
+              -1,
+              1
+            ],
+            "weirdness": [
+              -1,
+              1
+            ],
+            "depth": [
+              -0.2,
+              0
+            ],
+            "offset": 0
+          }
+        },
+        {
+          "biome": "wythers:icy_ocean",
+          "parameters": {
+            "temperature": [
+              -0.6,
+              -0.45
+            ],
+            "humidity": [
+              -1,
+              0.3
+            ],
+            "continentalness": [
+              -0.8,
+              -0.7000000000000001
+            ],
+            "erosion": [
+              -1,
+              1
+            ],
+            "weirdness": [
+              -1,
+              1
+            ],
+            "depth": [
+              -0.2,
+              0
+            ],
+            "offset": 0
+          }
+        },
+        {
+          "biome": "minecraft:cold_ocean",
+          "parameters": {
+            "temperature": [
+              -0.6,
+              -0.13
+            ],
+            "humidity": [
+              0.3,
+              1
+            ],
+            "continentalness": [
+              -0.8,
+              -0.7000000000000001
+            ],
+            "erosion": [
+              -1,
+              1
+            ],
+            "weirdness": [
+              -1,
+              1
+            ],
+            "depth": [
+              -0.2,
+              0
+            ],
+            "offset": 0
+          }
+        },
+        {
+          "biome": "minecraft:cold_ocean",
+          "parameters": {
+            "temperature": [
+              -0.45,
+              -0.13
+            ],
+            "humidity": [
+              -1,
+              1
+            ],
+            "continentalness": [
+              -0.8,
+              -0.7000000000000001
+            ],
+            "erosion": [
+              -1,
+              1
+            ],
+            "weirdness": [
+              -1,
+              1
+            ],
+            "depth": [
+              -0.2,
+              0
+            ],
+            "offset": 0
+          }
+        },
+        {
+          "biome": "minecraft:ocean",
+          "parameters": {
+            "temperature": [
+              -0.13,
+              0.2
+            ],
+            "humidity": [
+              -1,
+              1
+            ],
+            "continentalness": [
+              -0.8,
+              -0.7000000000000001
+            ],
+            "erosion": [
+              -1,
+              1
+            ],
+            "weirdness": [
+              -1,
+              1
+            ],
+            "depth": [
+              -0.2,
+              0
+            ],
+            "offset": 0
+          }
+        },
+        {
+          "biome": "minecraft:lukewarm_ocean",
+          "parameters": {
+            "temperature": [
+              0.2,
+              0.55
+            ],
+            "humidity": [
+              -1,
+              1
+            ],
+            "continentalness": [
+              -0.8,
+              -0.7000000000000001
+            ],
+            "erosion": [
+              -1,
+              1
+            ],
+            "weirdness": [
+              -1,
+              1
+            ],
+            "depth": [
+              -0.2,
+              0
+            ],
+            "offset": 0
+          }
+        },
+        {
+          "biome": "minecraft:warm_ocean",
+          "parameters": {
+            "temperature": [
+              0.55,
+              1.2
+            ],
+            "humidity": [
+              -1,
+              1
+            ],
+            "continentalness": [
+              -0.8,
+              -0.19
+            ],
+            "erosion": [
+              -1,
+              1
+            ],
+            "weirdness": [
+              -1,
+              1
+            ],
+            "depth": [
+              -0.2,
+              0
+            ],
+            "offset": 0
+          }
+        },
+        {
+          "biome": "minecraft:deep_frozen_ocean",
+          "parameters": {
+            "temperature": [
+              -1.2,
+              -1
+            ],
+            "humidity": [
+              -1,
+              1
+            ],
+            "continentalness": [
+              -0.7000000000000001,
+              -0.455
+            ],
+            "erosion": [
+              -1,
+              1
+            ],
+            "weirdness": [
+              -1,
+              1
+            ],
+            "depth": [
+              -0.2,
+              0
+            ],
+            "offset": 0
+          }
+        },
+        {
+          "biome": "minecraft:deep_frozen_ocean",
+          "parameters": {
+            "temperature": [
+              -1,
+              -0.6
+            ],
+            "humidity": [
+              -1,
+              0.3
+            ],
+            "continentalness": [
+              -0.7000000000000001,
+              -0.455
+            ],
+            "erosion": [
+              -1,
+              1
+            ],
+            "weirdness": [
+              -1,
+              1
+            ],
+            "depth": [
+              -0.2,
+              0
+            ],
+            "offset": 0
+          }
+        },
+        {
+          "biome": "wythers:deep_icy_ocean",
+          "parameters": {
+            "temperature": [
+              -1,
+              -0.45
+            ],
+            "humidity": [
+              0.3,
+              1
+            ],
+            "continentalness": [
+              -0.7000000000000001,
+              -0.455
+            ],
+            "erosion": [
+              -1,
+              1
+            ],
+            "weirdness": [
+              -1,
+              1
+            ],
+            "depth": [
+              -0.2,
+              0
+            ],
+            "offset": 0
+          }
+        },
+        {
+          "biome": "wythers:deep_icy_ocean",
+          "parameters": {
+            "temperature": [
+              -0.6,
+              -0.45
+            ],
+            "humidity": [
+              -1,
+              1
+            ],
+            "continentalness": [
+              -0.7000000000000001,
+              -0.455
+            ],
+            "erosion": [
+              -1,
+              1
+            ],
+            "weirdness": [
+              -1,
+              1
+            ],
+            "depth": [
+              -0.2,
+              0
+            ],
+            "offset": 0
+          }
+        },
+        {
+          "biome": "minecraft:deep_cold_ocean",
+          "parameters": {
+            "temperature": [
+              -0.45,
+              -0.13
+            ],
+            "humidity": [
+              -1,
+              1
+            ],
+            "continentalness": [
+              -0.7000000000000001,
+              -0.455
+            ],
+            "erosion": [
+              -1,
+              1
+            ],
+            "weirdness": [
+              -1,
+              1
+            ],
+            "depth": [
+              -0.2,
+              0
+            ],
+            "offset": 0
+          }
+        },
+        {
+          "biome": "minecraft:deep_ocean",
+          "parameters": {
+            "temperature": [
+              -0.13,
+              0.2
+            ],
+            "humidity": [
+              -1,
+              1
+            ],
+            "continentalness": [
+              -0.7000000000000001,
+              -0.455
+            ],
+            "erosion": [
+              -1,
+              1
+            ],
+            "weirdness": [
+              -1,
+              1
+            ],
+            "depth": [
+              -0.2,
+              0
+            ],
+            "offset": 0
+          }
+        },
+        {
+          "biome": "minecraft:deep_lukewarm_ocean",
+          "parameters": {
+            "temperature": [
+              0.2,
+              0.55
+            ],
+            "humidity": [
+              -1,
+              1
+            ],
+            "continentalness": [
+              -0.7000000000000001,
+              -0.455
+            ],
+            "erosion": [
+              -1,
+              1
+            ],
+            "weirdness": [
+              -1,
+              1
+            ],
+            "depth": [
+              -0.2,
+              0
+            ],
+            "offset": 0
+          }
+        },
+        {
+          "biome": "minecraft:frozen_ocean",
+          "parameters": {
+            "temperature": [
+              -1.2,
+              -1
+            ],
+            "humidity": [
+              -1,
+              1
+            ],
+            "continentalness": [
+              -0.455,
+              -0.19
+            ],
+            "erosion": [
+              -1,
+              1
+            ],
+            "weirdness": [
+              -1,
+              1
+            ],
+            "depth": [
+              -0.2,
+              0
+            ],
+            "offset": 0
+          }
+        },
+        {
+          "biome": "minecraft:frozen_ocean",
+          "parameters": {
+            "temperature": [
+              -1,
+              -0.6
+            ],
+            "humidity": [
+              -1,
+              0.3
+            ],
+            "continentalness": [
+              -0.455,
+              -0.19
+            ],
+            "erosion": [
+              -1,
+              1
+            ],
+            "weirdness": [
+              -1,
+              1
+            ],
+            "depth": [
+              -0.2,
+              0
+            ],
+            "offset": 0
+          }
+        },
+        {
+          "biome": "wythers:icy_ocean",
+          "parameters": {
+            "temperature": [
+              -1,
+              -0.6
+            ],
+            "humidity": [
+              0.3,
+              1
+            ],
+            "continentalness": [
+              -0.455,
+              -0.19
+            ],
+            "erosion": [
+              -1,
+              1
+            ],
+            "weirdness": [
+              -1,
+              1
+            ],
+            "depth": [
+              -0.2,
+              0
+            ],
+            "offset": 0
+          }
+        },
+        {
+          "biome": "wythers:icy_ocean",
+          "parameters": {
+            "temperature": [
+              -0.6,
+              -0.45
+            ],
+            "humidity": [
+              -1,
+              0.3
+            ],
+            "continentalness": [
+              -0.455,
+              -0.19
+            ],
+            "erosion": [
+              -1,
+              1
+            ],
+            "weirdness": [
+              -1,
+              1
+            ],
+            "depth": [
+              -0.2,
+              0
+            ],
+            "offset": 0
+          }
+        },
+        {
+          "biome": "minecraft:cold_ocean",
+          "parameters": {
+            "temperature": [
+              -0.6,
+              -0.13
+            ],
+            "humidity": [
+              0.3,
+              1
+            ],
+            "continentalness": [
+              -0.455,
+              -0.19
+            ],
+            "erosion": [
+              -1,
+              1
+            ],
+            "weirdness": [
+              -1,
+              1
+            ],
+            "depth": [
+              -0.2,
+              0
+            ],
+            "offset": 0
+          }
+        }
+        
+      ]
+    }
+  }
+}

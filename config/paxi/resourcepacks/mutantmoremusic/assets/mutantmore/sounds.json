@@ -1,0 +1,1270 @@
+{
+	"music.mutant_theme_1": {
+		"sounds": [
+			{
+				"name": "mutantmore:music/mutant1",
+				"stream": true
+			}
+		]
+	},
+	"music.mutant_theme_1_disc": {
+		"sounds": [
+			{
+				"name": "mutantmore:music/mutant_disc1",
+				"stream": true
+			}
+		]
+	},
+		"music.mutant_theme_2": {
+		"sounds": [
+			{
+				"name": "mutantmore:music/mutant2",
+				"stream": true
+			}
+		]
+	},
+	"music.mutant_theme_2_disc": {
+		"sounds": [
+			{
+				"name": "mutantmore:music/mutant_disc2",
+				"stream": true
+			}
+		]
+	},
+		"music.mutant_theme_3": {
+		"sounds": [
+			{
+				"name": "mutantmore:music/mutant3",
+				"stream": true
+			}
+		]
+	},
+		"music.mutant_theme_3_disc": {
+		"sounds": [
+			{
+				"name": "mutantmore:music/mutant_disc3",
+				"stream": true
+			}
+		]
+	},
+	
+	
+	
+	"entity.concoction_w.ambient": {
+		"subtitle": "subtitles.entity.concoction_w.ambient",
+		"sounds": [
+			{
+				"name": "mutantmore:entities/concoction_w/ambient1",
+				"stream": true
+			},
+			{
+				"name": "mutantmore:entities/concoction_w/ambient2",
+				"stream": true
+			},
+			{
+				"name": "mutantmore:entities/concoction_w/ambient3",
+				"stream": true
+			}
+		]
+	},
+	"entity.concoction_w.step": {
+		"sounds": [
+			{
+				"name": "mutantmore:entities/concoction_w/step1",
+				"stream": true
+			},
+			{
+				"name": "mutantmore:entities/concoction_w/step2",
+				"stream": true
+			}
+		]
+	},
+	
+	
+	
+	
+	
+	
+	"entity.mutant_shulker_trap.idle": {
+		"subtitle": "subtitles.entity.mutant_shulker_trap.idle",
+		"sounds": [
+			{
+				"name": "mutantmore:entities/mutant_shulker_trap/idle1",
+				"stream": true
+			},
+			{
+				"name": "mutantmore:entities/mutant_shulker_trap/idle2",
+				"stream": true
+			},
+			{
+				"name": "mutantmore:entities/mutant_shulker_trap/idle3",
+				"stream": true
+			}
+		]
+	},
+	"entity.mutant_shulker_trap.hurt": {
+		"subtitle": "subtitles.entity.mutant_shulker_trap.hurt",
+		"sounds": [
+			{
+				"name": "mutantmore:entities/mutant_shulker_trap/hurt1",
+				"stream": true
+			},
+			{
+				"name": "mutantmore:entities/mutant_shulker_trap/hurt2",
+				"stream": true
+			},
+			{
+				"name": "mutantmore:entities/mutant_shulker_trap/hurt3",
+				"stream": true
+			}
+		]
+	},
+	"entity.mutant_shulker_trap.death": {
+		"subtitle": "subtitles.entity.mutant_shulker_trap.death",
+		"sounds": [
+			{
+				"name": "mutantmore:entities/mutant_shulker_trap/death1",
+				"stream": true
+			},
+			{
+				"name": "mutantmore:entities/mutant_shulker_trap/death2",
+				"stream": true
+			}
+		]
+	},
+	"entity.mutant_shulker_trap.trap": {
+		"subtitle": "subtitles.entity.mutant_shulker_trap.trap",
+		"sounds": [
+			{
+				"name": "mutantmore:entities/mutant_shulker_trap/trap1",
+				"stream": true
+			},
+			{
+				"name": "mutantmore:entities/mutant_shulker_trap/trap2",
+				"stream": true
+			}
+		]
+	},
+	"entity.mutant_shulker_trap.vanish": {
+		"subtitle": "subtitles.entity.mutant_shulker_trap.vanish",
+		"sounds": [
+			{
+				"name": "mutantmore:entities/mutant_shulker_trap/vanish1",
+				"stream": true
+			},
+			{
+				"name": "mutantmore:entities/mutant_shulker_trap/vanish2",
+				"stream": true
+			},
+			{
+				"name": "mutantmore:entities/mutant_shulker_trap/vanish3",
+				"stream": true
+			}
+		]
+	},
+	
+	
+	
+	
+	
+	
+		"entity.mutant_shulker.idle": {
+		"subtitle": "subtitles.entity.mutant_shulker.idle",
+		"sounds": [
+			{
+				"name": "mutantmore:entities/mutant_shulker/idle1",
+				"stream": true
+			},
+			{
+				"name": "mutantmore:entities/mutant_shulker/idle2",
+				"stream": true
+			},
+			{
+				"name": "mutantmore:entities/mutant_shulker/idle3",
+				"stream": true
+			},
+			{
+				"name": "mutantmore:entities/mutant_shulker/idle3",
+				"stream": true
+			}
+		]
+	},
+			"entity.mutant_shulker.hurt": {
+		"subtitle": "subtitles.entity.mutant_shulker.hurt",
+		"sounds": [
+			{
+				"name": "mutantmore:entities/mutant_shulker/hurt1",
+				"stream": true
+			},
+			{
+				"name": "mutantmore:entities/mutant_shulker/hurt2",
+				"stream": true
+			},
+			{
+				"name": "mutantmore:entities/mutant_shulker/hurt3",
+				"stream": true
+			}
+		]
+	},
+			"entity.mutant_shulker.death": {
+		"subtitle": "subtitles.entity.mutant_shulker.death",
+		"sounds": [
+			{
+				"name": "mutantmore:entities/mutant_shulker/death",
+				"stream": true
+			}
+		]
+	},
+				"entity.mutant_shulker.bite": {
+		"subtitle": "subtitles.entity.mutant_shulker.bite",
+		"sounds": [
+			{
+				"name": "mutantmore:entities/mutant_shulker/bite",
+				"stream": true
+			}
+		]
+	},
+				"entity.mutant_shulker.close": {
+		"subtitle": "subtitles.entity.mutant_shulker.close",
+		"sounds": [
+			{
+				"name": "mutantmore:entities/mutant_shulker/close",
+				"stream": true
+			}
+		]
+	},
+				"entity.mutant_shulker.open": {
+		"subtitle": "subtitles.entity.mutant_shulker.open",
+		"sounds": [
+			{
+				"name": "mutantmore:entities/mutant_shulker/open",
+				"stream": true
+			}
+		]
+	},
+					"entity.mutant_shulker.anvil_crush": {
+		"subtitle": "subtitles.entity.mutant_shulker.anvil_crush",
+		"sounds": [
+			{
+				"name": "mutantmore:entities/mutant_shulker/anvil_crush",
+				"stream": true
+			}
+		]
+	},
+						"entity.mutant_shulker.prepare_flight": {
+		"subtitle": "subtitles.entity.mutant_shulker.prepare_flight",
+		"sounds": [
+			{
+				"name": "mutantmore:entities/mutant_shulker/prepare_flight",
+				"stream": true
+			}
+		]
+	},
+						"entity.mutant_shulker.roar": {
+		"subtitle": "subtitles.entity.mutant_shulker.roar",
+		"sounds": [
+			{
+				"name": "mutantmore:entities/mutant_shulker/roar",
+				"stream": true
+			}
+		]
+	},
+						"entity.mutant_shulker.teleport": {
+		"subtitle": "subtitles.entity.mutant_shulker.teleport",
+		"sounds": [
+			{
+				"name": "mutantmore:entities/mutant_shulker/teleport1",
+				"stream": true
+			},
+			{
+				"name": "mutantmore:entities/mutant_shulker/teleport2",
+				"stream": true
+			}
+		]
+	},
+						"entity.mutant_shulker.shoot": {
+		"subtitle": "subtitles.entity.mutant_shulker.shoot",
+		"sounds": [
+			{
+				"name": "mutantmore:entities/mutant_shulker/shoot1",
+				"stream": true
+			},
+			{
+				"name": "mutantmore:entities/mutant_shulker/shoot2",
+				"stream": true
+			},
+			{
+				"name": "mutantmore:entities/mutant_shulker/shoot3",
+				"stream": true
+			}
+		]
+	},
+						"entity.mutant_shulker.projectile_loop": {
+		"sounds": [
+			{
+				"name": "mutantmore:entities/mutant_shulker/projectile_loop",
+				"stream": true
+			}
+		]
+	},
+						"entity.mutant_shulker.projectile_impact": {
+		"subtitle": "subtitles.entity.mutant_shulker.projectile_impact",
+		"sounds": [
+			{
+				"name": "mutantmore:entities/mutant_shulker/projectile_impact1",
+				"stream": true
+			},
+			{
+				"name": "mutantmore:entities/mutant_shulker/projectile_impact2",
+				"stream": true
+			}
+		]
+	},
+						"entity.mutant_shulker.shoot_trap": {
+		"subtitle": "subtitles.entity.mutant_shulker.shoot_trap",
+		"sounds": [
+			{
+				"name": "mutantmore:entities/mutant_shulker/shoot_trap1",
+				"stream": true
+			},
+			{
+				"name": "mutantmore:entities/mutant_shulker/shoot_trap2",
+				"stream": true
+			},
+			{
+				"name": "mutantmore:entities/mutant_shulker/shoot_trap3",
+				"stream": true
+			}
+		]
+	},
+						"entity.mutant_shulker.step": {
+		"subtitle": "subtitles.entity.mutant_shulker.step",
+		"sounds": [
+			{
+				"name": "mutantmore:entities/mutant_shulker/step1",
+				"stream": true
+			},
+			{
+				"name": "mutantmore:entities/mutant_shulker/step2",
+				"stream": true
+			},
+			{
+				"name": "mutantmore:entities/mutant_shulker/step3",
+				"stream": true
+			}
+		]
+	},
+	
+	
+	
+	
+	
+	"item.mutant_shulker_shield.shoot": {
+		"subtitle": "subtitles.item.mutant_shulker_shield.shoot",
+		"sounds": [
+			{
+				"name": "mutantmore:items/mutant_shulker_shield/shoot",
+				"stream": true
+			}
+		]
+	},
+	
+	
+	
+	
+	
+	
+		"entity.mutant_wither_skeleton.attack": {
+		"subtitle": "subtitles.entity.mutant_wither_skeleton.attack",
+		"sounds": [
+			{
+				"name": "mutantmore:entities/mutant_wither_skeleton/attack1",
+				"stream": true
+			},
+			{
+				"name": "mutantmore:entities/mutant_wither_skeleton/attack2",
+				"stream": true
+			},
+			{
+				"name": "mutantmore:entities/mutant_wither_skeleton/attack3",
+				"stream": true
+			}
+		]
+	},
+	"entity.mutant_wither_skeleton.bigjump_lava": {
+		"subtitle": "subtitles.entity.mutant_wither_skeleton.bigjump_lava",
+		"sounds": [
+			{
+				"name": "mutantmore:entities/mutant_wither_skeleton/bigjump_lava",
+				"stream": true
+			}
+		]
+	},
+	"entity.mutant_wither_skeleton.bigjump": {
+		"subtitle": "subtitles.entity.mutant_wither_skeleton.bigjump",
+		"sounds": [
+			{
+				"name": "mutantmore:entities/mutant_wither_skeleton/bigjump",
+				"stream": true
+			}
+		]
+	},
+	"entity.mutant_wither_skeleton.bigland_lava": {
+		"sounds": [
+			{
+				"name": "mutantmore:entities/mutant_wither_skeleton/bigland_lava",
+				"stream": true
+			}
+		]
+	},
+	"entity.mutant_wither_skeleton.bigland": {
+		"subtitle": "subtitles.entity.mutant_wither_skeleton.bigland",
+		"sounds": [
+			{
+				"name": "mutantmore:entities/mutant_wither_skeleton/bigland",
+				"stream": true
+			}
+		]
+	},
+	"entity.mutant_wither_skeleton.death": {
+		"subtitle": "subtitles.entity.mutant_wither_skeleton.death",
+		"sounds": [
+			{
+				"name": "mutantmore:entities/mutant_wither_skeleton/death",
+				"stream": true
+			}
+		]
+	},
+	"entity.mutant_wither_skeleton.doubleattack": {
+		"subtitle": "subtitles.entity.mutant_wither_skeleton.doubleattack",
+		"sounds": [
+			{
+				"name": "mutantmore:entities/mutant_wither_skeleton/doubleattack",
+				"stream": true
+			}
+		]
+	},
+	"entity.mutant_wither_skeleton.doublesword": {
+		"sounds": [
+			{
+				"name": "mutantmore:entities/mutant_wither_skeleton/doublesword",
+				"stream": true
+			}
+		]
+	},
+	"entity.mutant_wither_skeleton.fire_slash_loop": {
+		"sounds": [
+			{
+				"name": "mutantmore:entities/mutant_wither_skeleton/fire_slash_loop",
+				"stream": true
+			}
+		]
+	},
+	"entity.mutant_wither_skeleton.fire_slash": {
+		"subtitle": "subtitles.entity.mutant_wither_skeleton.fire_slash",
+		"sounds": [
+			{
+				"name": "mutantmore:entities/mutant_wither_skeleton/fire_slash1",
+				"stream": true
+			},
+			{
+				"name": "mutantmore:entities/mutant_wither_skeleton/fire_slash2",
+				"stream": true
+			}
+		]
+	},
+	"entity.mutant_wither_skeleton.hurt": {
+		"subtitle": "subtitles.entity.mutant_wither_skeleton.hurt",
+		"sounds": [
+			{
+				"name": "mutantmore:entities/mutant_wither_skeleton/hurt1",
+				"stream": true
+			},
+			{
+				"name": "mutantmore:entities/mutant_wither_skeleton/hurt2",
+				"stream": true
+			},
+			{
+				"name": "mutantmore:entities/mutant_wither_skeleton/hurt3",
+				"stream": true
+			},
+			{
+				"name": "mutantmore:entities/mutant_wither_skeleton/hurt4",
+				"stream": true
+			}
+		]
+	},
+	"entity.mutant_wither_skeleton.idle": {
+		"subtitle": "subtitles.entity.mutant_wither_skeleton.idle",
+		"sounds": [
+			{
+				"name": "mutantmore:entities/mutant_wither_skeleton/idle1",
+				"stream": true
+			},
+			{
+				"name": "mutantmore:entities/mutant_wither_skeleton/idle2",
+				"stream": true
+			},
+			{
+				"name": "mutantmore:entities/mutant_wither_skeleton/idle3",
+				"stream": true
+			}
+		]
+	},
+	"entity.mutant_wither_skeleton.land_hit": {
+		"subtitle": "subtitles.entity.mutant_wither_skeleton.land_hit",
+		"sounds": [
+			{
+				"name": "mutantmore:entities/mutant_wither_skeleton/land_hit1",
+				"stream": true
+			},
+			{
+				"name": "mutantmore:entities/mutant_wither_skeleton/land_hit2",
+				"stream": true
+			},
+			{
+				"name": "mutantmore:entities/mutant_wither_skeleton/land_hit3",
+				"stream": true
+			}
+		]
+	},
+	"entity.mutant_wither_skeleton.look": {
+		"subtitle": "subtitles.entity.mutant_wither_skeleton.look",
+		"sounds": [
+			{
+				"name": "mutantmore:entities/mutant_wither_skeleton/look1",
+				"stream": true
+			},
+			{
+				"name": "mutantmore:entities/mutant_wither_skeleton/look2",
+				"stream": true
+			}
+		]
+	},
+	"entity.mutant_wither_skeleton.ribcrush": {
+		"subtitle": "subtitles.entity.mutant_wither_skeleton.ribcrush",
+		"sounds": [
+			{
+				"name": "mutantmore:entities/mutant_wither_skeleton/ribcrush",
+				"stream": true
+			}
+		]
+	},
+	"entity.mutant_wither_skeleton.roar_short": {
+		"subtitle": "subtitles.entity.mutant_wither_skeleton.roar_short",
+		"sounds": [
+			{
+				"name": "mutantmore:entities/mutant_wither_skeleton/roar_short",
+				"stream": true
+			}
+		]
+	},
+	"entity.mutant_wither_skeleton.roar": {
+		"subtitle": "subtitles.entity.mutant_wither_skeleton.roar",
+		"sounds": [
+			{
+				"name": "mutantmore:entities/mutant_wither_skeleton/roar",
+				"stream": true
+			}
+		]
+	},
+	"entity.mutant_wither_skeleton.step_lava": {
+		"subtitle": "subtitles.entity.mutant_wither_skeleton.step_lava",
+		"sounds": [
+			{
+				"name": "mutantmore:entities/mutant_wither_skeleton/step_lava1",
+				"stream": true
+			},
+			{
+				"name": "mutantmore:entities/mutant_wither_skeleton/step_lava2",
+				"stream": true
+			},
+			{
+				"name": "mutantmore:entities/mutant_wither_skeleton/step_lava3",
+				"stream": true
+			},
+			{
+				"name": "mutantmore:entities/mutant_wither_skeleton/step_lava4",
+				"stream": true
+			}
+		]
+	},
+	"entity.mutant_wither_skeleton.step": {
+		"subtitle": "subtitles.entity.mutant_wither_skeleton.step",
+		"sounds": [
+			{
+				"name": "mutantmore:entities/mutant_wither_skeleton/step1",
+				"stream": true
+			},
+			{
+				"name": "mutantmore:entities/mutant_wither_skeleton/step2",
+				"stream": true
+			},
+			{
+				"name": "mutantmore:entities/mutant_wither_skeleton/step3",
+				"stream": true
+			},
+			{
+				"name": "mutantmore:entities/mutant_wither_skeleton/step4",
+				"stream": true
+			}
+		]
+	},
+	"entity.mutant_wither_skeleton.swoosh": {
+		"sounds": [
+			{
+				"name": "mutantmore:entities/mutant_wither_skeleton/swoosh",
+				"stream": true
+			}
+		]
+	},
+	"entity.mutant_wither_skeleton.sword": {
+		"sounds": [
+			{
+				"name": "mutantmore:entities/mutant_wither_skeleton/sword1",
+				"stream": true
+			},
+			{
+				"name": "mutantmore:entities/mutant_wither_skeleton/sword2",
+				"stream": true
+			},
+			{
+				"name": "mutantmore:entities/mutant_wither_skeleton/sword3",
+				"stream": true
+			}
+		]
+	},
+	
+	
+	
+	
+	
+	
+	
+	
+	"item.mutant_wither_skeleton_armour.equip": {
+		"subtitle": "subtitles.item.mutant_wither_skeleton_armour.equip",
+		"sounds": [
+			{
+				"name": "mutantmore:items/mutant_wither_skeleton_armour/equip1",
+				"stream": true
+			},
+			{
+				"name": "mutantmore:items/mutant_wither_skeleton_armour/equip2",
+				"stream": true
+			},
+			{
+				"name": "mutantmore:items/mutant_wither_skeleton_armour/equip3",
+				"stream": true
+			},
+			{
+				"name": "mutantmore:items/mutant_wither_skeleton_armour/equip4",
+				"stream": true
+			},
+			{
+				"name": "mutantmore:items/mutant_wither_skeleton_armour/equip5",
+				"stream": true
+			},
+			{
+				"name": "mutantmore:items/mutant_wither_skeleton_armour/equip6",
+				"stream": true
+			}
+		]
+	},
+	
+	
+	
+	
+	
+	
+	
+	
+	"item.wither_bomb.deploy": {
+		"subtitle": "subtitles.item.wither_bomb.deploy",
+		"sounds": [
+			{
+				"name": "mutantmore:items/wither_bomb/deploy",
+				"stream": true
+			}
+		]
+	},
+	"item.wither_bomb.open": {
+		"subtitle": "subtitles.item.wither_bomb.open",
+		"sounds": [
+			{
+				"name": "mutantmore:items/wither_bomb/open",
+				"stream": true
+			}
+		]
+	},
+	"item.wither_bomb.throw": {
+		"subtitle": "subtitles.item.wither_bomb.throw",
+		"sounds": [
+			{
+				"name": "mutantmore:items/wither_bomb/throw1",
+				"stream": true
+			},
+			{
+				"name": "mutantmore:items/wither_bomb/throw2",
+				"stream": true
+			},
+			{
+				"name": "mutantmore:items/wither_bomb/throw3",
+				"stream": true
+			}
+		]
+	},
+	
+	
+	
+	
+	
+	
+	
+	
+	"entity.mutant_blaze.idle": {
+		"subtitle": "subtitles.entity.mutant_blaze.idle",
+		"sounds": [
+			{
+				"name": "mutantmore:entities/mutant_blaze/idle1",
+				"stream": true
+			},
+			{
+				"name": "mutantmore:entities/mutant_blaze/idle2",
+				"stream": true
+			},
+			{
+				"name": "mutantmore:entities/mutant_blaze/idle3",
+				"stream": true
+			},
+			{
+				"name": "mutantmore:entities/mutant_blaze/idle4",
+				"stream": true
+			}
+		]
+	},
+	"entity.mutant_blaze.hurt": {
+		"subtitle": "subtitles.entity.mutant_blaze.hurt",
+		"sounds": [
+			{
+				"name": "mutantmore:entities/mutant_blaze/hurt1",
+				"stream": true
+			},
+			{
+				"name": "mutantmore:entities/mutant_blaze/hurt2",
+				"stream": true
+			},
+			{
+				"name": "mutantmore:entities/mutant_blaze/hurt3",
+				"stream": true
+			},
+			{
+				"name": "mutantmore:entities/mutant_blaze/hurt4",
+				"stream": true
+			}
+		]
+	},
+	"entity.mutant_blaze.shieldbreak": {
+		"subtitle": "subtitles.entity.mutant_blaze.shieldbreak",
+		"sounds": [
+			{
+				"name": "mutantmore:entities/mutant_blaze/shieldbreak1",
+				"stream": true
+			},
+			{
+				"name": "mutantmore:entities/mutant_blaze/shieldbreak2",
+				"stream": true
+			},
+			{
+				"name": "mutantmore:entities/mutant_blaze/shieldbreak3",
+				"stream": true
+			}
+		]
+	},
+	"entity.mutant_blaze.reshield": {
+		"subtitle": "subtitles.entity.mutant_blaze.reshield",
+		"sounds": [
+			{
+				"name": "mutantmore:entities/mutant_blaze/reshield1",
+				"stream": true
+			},
+			{
+				"name": "mutantmore:entities/mutant_blaze/reshield2",
+				"stream": true
+			}
+		]
+	},
+	"entity.mutant_blaze.loop": {
+		"sounds": [
+			{
+				"name": "mutantmore:entities/mutant_blaze/loop",
+				"stream": true
+			}
+		]
+	},
+	"entity.mutant_blaze.pre_death": {
+		"subtitle": "subtitles.entity.mutant_blaze.pre_death",
+		"sounds": [
+			{
+				"name": "mutantmore:entities/mutant_blaze/pre_death",
+				"stream": true
+			}
+		]
+	},
+	"entity.mutant_blaze.death": {
+		"subtitle": "subtitles.entity.mutant_blaze.death",
+		"sounds": [
+			{
+				"name": "mutantmore:entities/mutant_blaze/death",
+				"stream": true
+			}
+		]
+	},
+	"entity.mutant_blaze.rodshot": {
+		"subtitle": "subtitles.entity.mutant_blaze.rodshot",
+		"sounds": [
+			{
+				"name": "mutantmore:entities/mutant_blaze/rodshot",
+				"stream": true
+			}
+		]
+	},
+	"entity.mutant_blaze.rod_impact": {
+		"subtitle": "subtitles.entity.mutant_blaze.rod_impact",
+		"sounds": [
+			{
+				"name": "mutantmore:entities/mutant_blaze/rod_impact1",
+				"stream": true
+			},
+			{
+				"name": "mutantmore:entities/mutant_blaze/rod_impact2",
+				"stream": true
+			},
+			{
+				"name": "mutantmore:entities/mutant_blaze/rod_impact3",
+				"stream": true
+			},
+			{
+				"name": "mutantmore:entities/mutant_blaze/rod_impact4",
+				"stream": true
+			}
+		]
+	},
+	"entity.mutant_blaze.start_flying": {
+		"subtitle": "subtitles.entity.mutant_blaze.start_flying",
+		"sounds": [
+			{
+				"name": "mutantmore:entities/mutant_blaze/start_flying",
+				"stream": true
+			}
+		]
+	},
+	"entity.mutant_blaze.stun_start": {
+		"subtitle": "subtitles.entity.mutant_blaze.stun_start",
+		"sounds": [
+			{
+				"name": "mutantmore:entities/mutant_blaze/stun_start",
+				"stream": true
+			}
+		]
+	},
+	"entity.mutant_blaze.stun_shields_break": {
+		"subtitle": "subtitles.entity.mutant_blaze.stun_shields_break",
+		"sounds": [
+			{
+				"name": "mutantmore:entities/mutant_blaze/stun_shields_break",
+				"stream": true
+			}
+		]
+	},
+	"entity.mutant_blaze.stun_end": {
+		"subtitle": "subtitles.entity.mutant_blaze.stun_end",
+		"sounds": [
+			{
+				"name": "mutantmore:entities/mutant_blaze/stun_end",
+				"stream": true
+			}
+		]
+	},
+	"entity.mutant_blaze.intro": {
+		"subtitle": "subtitles.entity.mutant_blaze.intro",
+		"sounds": [
+			{
+				"name": "mutantmore:entities/mutant_blaze/intro",
+				"stream": true
+			}
+		]
+	},
+	"entity.mutant_blaze.flare": {
+		"subtitle": "subtitles.entity.mutant_blaze.flare",
+		"sounds": [
+			{
+				"name": "mutantmore:entities/mutant_blaze/flare",
+				"stream": true
+			}
+		]
+	},
+	"entity.mutant_blaze.prepare_shoot": {
+		"subtitle": "subtitles.entity.mutant_blaze.prepare_shoot",
+		"sounds": [
+			{
+				"name": "mutantmore:entities/mutant_blaze/prepare_shoot",
+				"stream": true
+			}
+		]
+	},
+	"entity.mutant_blaze.shoot": {
+		"subtitle": "subtitles.entity.mutant_blaze.shoot",
+		"sounds": [
+			{
+				"name": "mutantmore:entities/mutant_blaze/shoot",
+				"stream": true
+			}
+		]
+	},
+	
+	
+	
+	
+	
+	
+	
+	"entity.mutant_shulker_turret.idle": {
+		"subtitle": "subtitles.entity.mutant_shulker_turret.idle",
+		"sounds": [
+			{
+				"name": "mutantmore:entities/mutant_shulker_turret/idle1",
+				"stream": true
+			},
+			{
+				"name": "mutantmore:entities/mutant_shulker_turret/idle2",
+				"stream": true
+			},
+			{
+				"name": "mutantmore:entities/mutant_shulker_turret/idle3",
+				"stream": true
+			},
+			{
+				"name": "mutantmore:entities/mutant_shulker_turret/idle4",
+				"stream": true
+			},
+			{
+				"name": "mutantmore:entities/mutant_shulker_turret/idle5",
+				"stream": true
+			}
+		]
+	},
+	"entity.mutant_shulker_turret.hurt": {
+		"subtitle": "subtitles.entity.mutant_shulker_turret.hurt",
+		"sounds": [
+			{
+				"name": "mutantmore:entities/mutant_shulker_turret/hurt1",
+				"stream": true
+			},
+			{
+				"name": "mutantmore:entities/mutant_shulker_turret/hurt2",
+				"stream": true
+			},
+			{
+				"name": "mutantmore:entities/mutant_shulker_turret/hurt3",
+				"stream": true
+			},
+			{
+				"name": "mutantmore:entities/mutant_shulker_turret/hurt4",
+				"stream": true
+			}
+		]
+	},
+	"entity.mutant_shulker_turret.death": {
+		"subtitle": "subtitles.entity.mutant_shulker_turret.death",
+		"sounds": [
+			{
+				"name": "mutantmore:entities/mutant_shulker_turret/death",
+				"stream": true
+			}
+		]
+	},
+	"entity.mutant_shulker_turret.deploy": {
+		"subtitle": "subtitles.entity.mutant_shulker_turret.deploy",
+		"sounds": [
+			{
+				"name": "mutantmore:entities/mutant_shulker_turret/deploy",
+				"stream": true
+			}
+		]
+	},
+	"entity.mutant_shulker_turret.crack": {
+		"subtitle": "subtitles.entity.mutant_shulker_turret.crack",
+		"sounds": [
+			{
+				"name": "mutantmore:entities/mutant_shulker_turret/crack1",
+				"stream": true
+			},
+			{
+				"name": "mutantmore:entities/mutant_shulker_turret/crack2",
+				"stream": true
+			}
+		]
+	},
+	"entity.mutant_shulker_turret.repair": {
+		"subtitle": "subtitles.entity.mutant_shulker_turret.repair",
+		"sounds": [
+			{
+				"name": "mutantmore:entities/mutant_shulker_turret/repair",
+				"stream": true
+			}
+		]
+	},
+	
+	
+	
+	
+	
+	"entity.rodling.idle": {
+		"subtitle": "subtitles.entity.rodling.idle",
+		"sounds": [
+			{
+				"name": "mutantmore:entities/rodling/idle1",
+				"stream": true
+			},
+			{
+				"name": "mutantmore:entities/rodling/idle2",
+				"stream": true
+			},
+			{
+				"name": "mutantmore:entities/rodling/idle3",
+				"stream": true
+			},
+			{
+				"name": "mutantmore:entities/rodling/idle4",
+				"stream": true
+			},
+			{
+				"name": "mutantmore:entities/rodling/idle5",
+				"stream": true
+			}
+		]
+	},
+	"entity.rodling.idle_hostile": {
+		"subtitle": "subtitles.entity.rodling.idle_hostile",
+		"sounds": [
+			{
+				"name": "mutantmore:entities/rodling/idle_hostile1",
+				"stream": true
+			},
+			{
+				"name": "mutantmore:entities/rodling/idle_hostile2",
+				"stream": true
+			},
+			{
+				"name": "mutantmore:entities/rodling/idle_hostile3",
+				"stream": true
+			}
+		]
+	},
+	"entity.rodling.hurt": {
+		"subtitle": "subtitles.entity.rodling.hurt",
+		"sounds": [
+			{
+				"name": "mutantmore:entities/rodling/hurt1",
+				"stream": true
+			},
+			{
+				"name": "mutantmore:entities/rodling/hurt2",
+				"stream": true
+			},
+			{
+				"name": "mutantmore:entities/rodling/hurt3",
+				"stream": true
+			},
+			{
+				"name": "mutantmore:entities/rodling/hurt4",
+				"stream": true
+			}
+		]
+	},
+	"entity.rodling.death": {
+		"subtitle": "subtitles.entity.rodling.death",
+		"sounds": [
+			{
+				"name": "mutantmore:entities/rodling/death",
+				"stream": true
+			}
+		]
+	},
+	"entity.rodling.charge_shot": {
+		"subtitle": "subtitles.entity.rodling.charge_shot",
+		"sounds": [
+			{
+				"name": "mutantmore:entities/rodling/charge_shot",
+				"stream": true
+			}
+		]
+	},
+	"entity.rodling.shoot": {
+		"subtitle": "subtitles.entity.rodling.shoot",
+		"sounds": [
+			{
+				"name": "mutantmore:entities/rodling/shoot",
+				"stream": true
+			}
+		]
+	},
+	"entity.rodling.heal": {
+		"subtitle": "subtitles.entity.rodling.heal",
+		"sounds": [
+			{
+				"name": "mutantmore:entities/rodling/heal",
+				"stream": true
+			}
+		]
+	},
+	"entity.rodling.transform_soul": {
+		"subtitle": "subtitles.entity.rodling.transform_soul",
+		"sounds": [
+			{
+				"name": "mutantmore:entities/rodling/transform_soul",
+				"stream": true
+			}
+		]
+	},
+	"entity.rodling.transform_blaze": {
+		"subtitle": "subtitles.entity.rodling.transform_blaze",
+		"sounds": [
+			{
+				"name": "mutantmore:entities/rodling/transform_blaze",
+				"stream": true
+			}
+		]
+	},
+	"entity.rodling.equip_armour": {
+		"subtitle": "subtitles.entity.rodling.equip_armour",
+		"sounds": [
+			{
+				"name": "mutantmore:entities/rodling/equip_armour",
+				"stream": true
+			}
+		]
+	},
+	"entity.rodling.equip_shields": {
+		"subtitle": "subtitles.entity.rodling.equip_shields",
+		"sounds": [
+			{
+				"name": "mutantmore:entities/rodling/equip_shields",
+				"stream": true
+			}
+		]
+	},
+	"entity.rodling.shield_break": {
+		"subtitle": "subtitles.entity.rodling.shield_break",
+		"sounds": [
+			{
+				"name": "mutantmore:entities/rodling/shield_break1",
+				"stream": true
+			},
+			{
+				"name": "mutantmore:entities/rodling/shield_break2",
+				"stream": true
+			},
+			{
+				"name": "mutantmore:entities/rodling/shield_break3",
+				"stream": true
+			}
+		]
+	},
+	"entity.rodling.regenerate_shield": {
+		"subtitle": "subtitles.entity.rodling.regenerate_shield",
+		"sounds": [
+			{
+				"name": "mutantmore:entities/rodling/regenerate_shield1",
+				"stream": true
+			},
+			{
+				"name": "mutantmore:entities/rodling/regenerate_shield2",
+				"stream": true
+			}
+		]
+	},
+	
+	
+	
+	
+	
+	
+	
+	"entity.mutant_blaze_shields.appear": {
+		"subtitle": "subtitles.entity.mutant_blaze_shields.appear",
+		"sounds": [
+			{
+				"name": "mutantmore:entities/mutant_blaze_shields/appear",
+				"stream": true
+			}
+		]
+	},
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	"entity.mutation_effect.successful_mutation": {
+		"subtitle": "subtitles.entity.mutation_effect.successful_mutation",
+		"sounds": [
+			{
+				"name": "mutantmore:entities/mutation_effect/successful_mutation",
+				"stream": true
+			}
+		]
+	},
+	"entity.mutation_effect.failed_mutation": {
+		"subtitle": "subtitles.entity.mutation_effect.failed_mutation",
+		"sounds": [
+			{
+				"name": "mutantmore:entities/mutation_effect/failed_mutation",
+				"stream": true
+			}
+		]
+	},
+	"entity.mutation_effect.loop": {
+		"sounds": [
+			{
+				"name": "mutantmore:entities/mutation_effect/loop",
+				"stream": true
+			}
+		]
+	},
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	"item.formula_y.land": {
+	"subtitle": "subtitles.item.formula_y.land",
+		"sounds": [
+			{
+				"name": "mutantmore:items/formula_y/land",
+				"stream": true
+			}
+		]
+	},
+	
+	
+	
+	"item.compound_z.land": {
+	"subtitle": "subtitles.item.compound_z.land",
+		"sounds": [
+			{
+				"name": "mutantmore:items/compound_z/land",
+				"stream": true
+			}
+		]
+	}
+}

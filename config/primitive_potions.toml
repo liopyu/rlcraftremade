@@ -1,0 +1,15 @@
+
+["Enable/Disable Effects"]
+	"Is Combustion Enabled" = true
+	"Is Confusion Enabled" = true
+	"Is Cure Enabled" = true
+	"Is Diamond Skin Enabled" = true
+	"Is Dispel Enabled" = true
+	"Is Drowning Enabled" = true
+	"Is Iron Skin Enabled" = true
+	"Is Photosynthesis Enabled" = true
+	"Is Reaching Enabled" = true
+	"Is Repairing Enabled" = true
+	"Is Revival Enabled" = true
+	"Is Solidity Enabled" = true
+

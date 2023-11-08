@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "iter_rpg:demonbone"
+    },
+    "2": {
+      "item": "iter_rpg:demonbone"
+    },
+    "3": {
+      "item": "iter_rpg:demonbone"
+    },
+    "4": {
+      "item": "iter_rpg:magmanum_chunk"
+    },
+    "5": {
+      "item": "iter_rpg:demonbone"
+    },
+    "6": {
+      "item": "iter_rpg:magmanum_chunk"
+    },
+    "7": {
+      "item": "iter_rpg:magmanum_block"
+    },
+    "8": {
+      "item": "iter_rpg:magmanum_chunk"
+    }
+  },
+  "result": {
+    "item": "iter_rpg:mark_of_tepes",
+    "count": 1
+  }
+}

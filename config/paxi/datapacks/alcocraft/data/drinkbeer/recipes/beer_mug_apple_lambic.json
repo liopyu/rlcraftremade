@@ -1,0 +1,35 @@
+{
+  "type": "drinkbeer:brewing",
+  "ingredients": [
+    
+      {
+        "item": "alcocraftplus:hop"
+      },
+    
+    
+    
+    
+      {
+        "item": "alcocraftplus:dry_seeds"
+      },
+    
+    
+    
+      {
+        "item": "iter_rpg:earth_fragment"
+      },
+    
+    {
+      "item": "minecraft:prismarine_crystals"
+    }
+  ],
+  "cup": {
+    "item": "alcocraftplus:mug_empty",
+    "count": 3
+  },
+  "brewing_time": 2400,
+  "result": {
+    "item": "alcocraftplus:mug_of_digger_bitter",
+    "count": 3
+  }
+}

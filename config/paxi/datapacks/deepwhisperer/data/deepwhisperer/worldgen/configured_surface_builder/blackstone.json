@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:default",
+    "config": {
+        "top_material": {
+            "Name": "minecraft:blackstone",
+            "Properties": {}
+        },
+        "under_material": {
+            "Name": "minecraft:blackstone"
+        },
+        "underwater_material": {
+            "Name": "minecraft:gravel",
+            "Properties": {}
+        }
+    }
+}

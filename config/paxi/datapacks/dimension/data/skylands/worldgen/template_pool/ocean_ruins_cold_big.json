@@ -1,0 +1,123 @@
+{
+  "name": "skylands:ocean_ruins_cold_big",
+  "fallback": "minecraft:empty",
+  "elements": [
+    { 
+      "weight": 1,
+      "element": {
+        "location": "skylands:underwater_ruin/big_brick_1",
+        "processors": "skylands:brick",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    { 
+      "weight": 1,
+      "element": {
+        "location": "skylands:underwater_ruin/big_brick_2",
+        "processors": "skylands:brick",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    { 
+      "weight": 1,
+      "element": {
+        "location": "skylands:underwater_ruin/big_brick_3",
+        "processors": "skylands:brick",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    { 
+      "weight": 1,
+      "element": {
+        "location": "skylands:underwater_ruin/big_brick_8",
+        "processors": "skylands:brick",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    { 
+      "weight": 1,
+      "element": {
+        "location": "skylands:underwater_ruin/big_cracked_1",
+        "processors": "skylands:cracked",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    { 
+      "weight": 1,
+      "element": {
+        "location": "skylands:underwater_ruin/big_cracked_2",
+        "processors": "skylands:cracked",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    { 
+      "weight": 1,
+      "element": {
+        "location": "skylands:underwater_ruin/big_cracked_3",
+        "processors": "skylands:cracked",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    { 
+      "weight": 1,
+      "element": {
+        "location": "skylands:underwater_ruin/big_cracked_8",
+        "processors": "skylands:cracked",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    { 
+      "weight": 1,
+      "element": {
+        "location": "skylands:underwater_ruin/big_mossy_1",
+        "processors": "skylands:mossy",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    { 
+      "weight": 1,
+      "element": {
+        "location": "skylands:underwater_ruin/big_mossy_2",
+        "processors": "skylands:mossy",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    { 
+      "weight": 1,
+      "element": {
+        "location": "skylands:underwater_ruin/big_mossy_3",
+        "processors": "skylands:mossy",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    { 
+      "weight": 1,
+      "element": {
+        "location": "skylands:underwater_ruin/big_mossy_8",
+        "processors": "skylands:mossy",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    { 
+      "weight": 6,
+      "element": {
+        "location": "skylands:underwater_ruin/big_brick_null",
+        "processors": "minecraft:empty",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    }
+  ]
+}

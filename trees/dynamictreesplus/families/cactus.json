@@ -1,0 +1,8 @@
+{
+  "type": "dynamictreesplus:cactus",
+  "common_leaves": "bare",
+  "common_species": "dynamictreesplus:pipe_cactus",
+  "primitive_log": "cactus",
+  "stick": "air",
+  "generate_stripped_branch": false
+}

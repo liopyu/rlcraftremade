@@ -1,0 +1,31 @@
+{
+  "type": "sophisticatedbackpacks:backpack_upgrade",
+  "conditions": [
+    {
+      "itemRegistryName": "sophisticatedbackpacks:gold_backpack",
+      "type": "sophisticatedcore:item_enabled"
+    }
+  ],
+  "pattern": [
+    "B B",
+    "ACA",
+    "DAD"
+  ],
+  "key": {
+    "A": {
+      "item": "forbidden_arcanus:deorum_ingot"
+    },
+    "C": {
+      "item": "sophisticatedbackpacks:iron_backpack"
+    },
+    "D": {
+      "item": "toolbelt:pouch"
+    },
+    "B": {
+      "item": "forbidden_arcanus:cloth"
+    }
+  },
+  "result": {
+    "item": "sophisticatedbackpacks:gold_backpack"
+  }
+}

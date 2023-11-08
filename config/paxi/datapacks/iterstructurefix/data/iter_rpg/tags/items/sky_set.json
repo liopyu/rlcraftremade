@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+    "iter_rpg:sky_hoe",
+    "iter_rpg:sky_axe",
+    "iter_rpg:sky_flail",
+    "iter_rpg:sky_sword",
+    "iter_rpg:sky_shovel",
+    "iter_rpg:sky_scythe",
+    "iter_rpg:sky_pickaxe"
+  ]
+}

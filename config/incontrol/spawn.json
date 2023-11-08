@@ -1,0 +1,2391 @@
+[
+  {
+    
+    "mob": [
+      "minecraft:pillager",
+      "minecraft:vindicator"
+
+    ],
+    "structure": [
+        "minecraft:pillager_outpost"
+],
+    
+    "dimension": [
+      
+      "tectonicworld:tectonic",
+      "minecraft:overworld",
+      "wabworldgen:tutorial",
+      "deepwhisperer:deep_space"
+  ],
+  "result": "allow"
+  },
+  {
+    
+    "mob": [
+      "minecraft:pillager",
+      "minecraft:vindicator"
+
+    ],
+    "structure": [
+        "minecraft:mansion"
+],
+    
+    "dimension": [
+      
+      "tectonicworld:tectonic",
+      "minecraft:overworld",
+      "wabworldgen:tutorial",
+      "deepwhisperer:deep_space"
+  ],
+  "result": "allow"
+  },
+  {
+    "biome":[
+      "minecraft:lukewarm_ocean",
+      "minecraft:deep_ocean",
+      "minecraft:warm_ocean",
+      "skylands:badlands",
+      "skylands:desert",
+      "skylands:jungle",
+      "skylands:mangrove_swamp",
+      "skylands:savanna",
+      "skylands:sparse_jungle",
+      "skylands:swamp",
+      "skylands:wooded_badlands",
+      "wythers:berry_bog",
+      "wythers:fen",
+      "wythers:flooded_temperate_rainforest",
+      "wythers:old_growth_taiga_swamp",
+      "wythers:phantasmal_swamp",
+      "wythers:ancient_oak_swamp",
+      "wythers:birch_swamp",
+      "wythers:autumnal_swamp",
+      "wythers:marsh",
+      "wythers:bayou",
+      "wythers:waterlily_swamp",
+      "wythers:ancient_mossy_swamp",
+      "wythers:dripleaf_swamp",
+      "wythers:bamboo_swamp",
+      "wythers:bamboo_jungle_swamp",
+      "wythers:flooded_jungle",
+      "wythers:flooded_rainforest",
+      "wythers:tangled_forest",
+      "wythers:flooded_savanna",
+      "wythers:mud_pools",
+      "wythers:is_swamp"
+      
+    ],
+    
+    "result": "allow",
+    "mob": [
+      "panthalassa:mosasaurus"
+
+    ],
+    "minlight": 0,
+    "maxlight": 7,
+    "mintime": 11000,
+    "maxtime": 23999,
+    "healthmultiply": 0.5,
+    "damagemultiply": 0.3,
+    "dimension": [
+      "wabworldgen:tutorial"
+  ]
+  },
+  
+  {
+    
+   
+    "result": "allow",
+    "mob": [
+      "panthalassa:kronosaurus"
+    ],      
+    "minlight": 0,
+    "maxlight": 7,
+    "mintime": 10000,
+    "maxtime": 23999,
+    "healthmultiply": 0.5,
+    "damagemultiply": 0.3,
+    "dimension": [
+      "wabworldgen:tutorial"
+  ]
+  },
+  {
+    
+    
+    "result": "allow",
+    "mob": [
+      "panthalassa:thalassomedon",
+      "panthalassa:giant_orthocone" 
+    ],      
+    "minlight": 0,
+    "maxlight": 7,
+    "mintime": 12000,
+    "maxtime": 23999,
+    "healthmultiply": 0.25,
+    "damagemultiply": 0.2,
+    "dimension": [
+      "wabworldgen:tutorial"
+  ]
+  },
+  {
+    
+    
+    "result": "allow",
+    "healthmultiply": 0.15,
+    "mob": [
+      "panthalassa:anomalocaris", 
+      "panthalassa:acrolepis",
+      "panthalassa:coelacanth",
+      "panthalassa:ceratodus",
+      "panthalassa:archelon",
+      "panthalassa:basilosaurus",
+      "minecraft:pufferfish",
+      "alexsmobs:lobster"
+    ],      
+    "dimension": [
+      "wabworldgen:tutorial"
+  ]
+  },
+  {
+    
+    
+    "result": "allow",
+    "healthmultiply": 0.15,
+    "mob": [
+      "panthalassa:anomalocaris", 
+      "panthalassa:acrolepis",
+      "panthalassa:coelacanth",
+      "panthalassa:ceratodus",
+      "panthalassa:archelon",
+      "panthalassa:basilosaurus",
+      "minecraft:pufferfish",
+      "alexsmobs:lobster"
+    ],      
+    "dimension": [
+      "wabworldgen:tutorial"
+  ]
+  },
+  {
+    
+    
+    "result": "allow",
+    "mod": [
+      "panthalassa"
+
+    ],
+    "structure": [
+        "betteroceanmonuments:ocean_monument"
+],
+    "minlight": 0,
+    "maxlight": 7,
+
+    "mintime": 0,
+    "maxtime": 23999,
+    "healthmultiply": 0.7,
+    "damagemultiply": 0.3,
+    
+    "dimension": [
+      
+      "tectonicworld:tectonic",
+      "minecraft:overworld",
+      "wabworldgen:tutorial",
+      "deepwhisperer:deep_space"
+  ]
+  },
+  
+  {
+    
+    
+    "result": "allow",
+    "mod": [
+      "panthalassa"
+
+    ],
+    "structure": [
+        "seafaring:oceandungeon"
+],
+    "minlight": 0,
+    "maxlight": 7,
+
+    "mintime": 0,
+    "maxtime": 23999,
+    "healthmultiply": 0.7,
+    "damagemultiply": 0.3,
+    
+    "dimension": [
+      
+      "tectonicworld:tectonic",
+      "minecraft:overworld",
+      "wabworldgen:tutorial",
+      "deepwhisperer:deep_space"
+  ]
+  },
+  {
+    
+    
+    "result": "allow",
+    "healthmultiply": 0.15,
+    "mob": [
+      "panthalassa:anomalocaris", 
+      "panthalassa:acrolepis",
+      "panthalassa:coelacanth",
+      "panthalassa:ceratodus",
+      "panthalassa:archelon",
+      "panthalassa:basilosaurus",
+      "minecraft:pufferfish",
+      "alexsmobs:lobster"
+    ],      
+    "dimension": [
+      "wabworldgen:tutorial"
+  ]
+  },
+  {
+    
+    
+    "result": "allow",
+    "mod": [
+      "panthalassa"
+
+    ],
+    "structure": [
+        "seafaring:oceandungeon2"
+],
+    "minlight": 0,
+    "maxlight": 7,
+
+    "mintime": 0,
+    "maxtime": 23999,
+    "healthmultiply": 0.7,
+    "damagemultiply": 0.3,
+    
+    "dimension": [
+      
+      "tectonicworld:tectonic",
+      "minecraft:overworld",
+      "wabworldgen:tutorial",
+      "deepwhisperer:deep_space"
+  ]
+  },
+  {
+      
+    
+    "result": "allow",
+    "mob": [
+      
+      "panthalassa:anglerfish"
+    ],      
+    "minlight": 0,
+    "maxlight": 7,
+    "mintime": 0,
+    "maxtime": 23999,
+    "healthmultiply": 0.5,
+    "damagemultiply": 0.2,
+    "dimension": [
+      "wabworldgen:tutorial"
+  ]
+  },
+  {
+    
+    "biometags": [
+      
+      "forge:is_icy"
+
+    ],
+    "result": "allow",
+    "mob": [
+      "alexsmobs:froststalker"
+
+    ],
+    "minlight": 0,
+    "maxlight": 9,
+
+    "mintime": 0,
+    "maxtime": 23999,
+    "healthmultiply": 1,
+    "damagemultiply": 1,
+    
+    "dimension": [
+      
+      "tectonicworld:tectonic",
+      "minecraft:overworld",
+      "wabworldgen:tutorial"
+  ]
+  },
+  {
+    
+    "biometags": [
+      
+      "tectonic:all_tectonic_biomes",
+      "wythers:is_america",
+      "wythers:is_asia",
+      "wythers:is_australia",
+      "wythers:is_dark_forest",
+      "wythers:is_desert",
+      "cavernous:is_caves",
+      "minecraft:is_overworld"
+
+
+    ],
+    "result": "allow",
+    "mob": [
+      "gothic:warg",
+      "gothic:scavenger",
+      "gothic:gothic_wolf"
+
+    ],
+    "minlight": 0,
+    "maxlight": 7,
+
+    "mintime": 13000,
+    "maxtime": 23999,
+    "healthmultiply": 0.7,
+    "damagemultiply": 0.3,
+    
+    "dimension": [
+      
+      "tectonicworld:tectonic",
+      "minecraft:overworld",
+      "wabworldgen:tutorial"
+  ]
+  },
+  {
+    
+    
+    "result": "allow",
+    "mod": [
+      "gothic"
+
+    ],
+    "structure": "seafaring:undergrounddungeon",
+    "minlight": 0,
+    "maxlight": 7,
+
+    "mintime": 0,
+    "maxtime": 23999,
+    "healthmultiply": 0.7,
+    "damagemultiply": 0.3,
+    
+    "dimension": [
+      
+      "tectonicworld:tectonic",
+      "minecraft:overworld",
+      "wabworldgen:tutorial",
+      "deepwhisperer:deep_space"
+  ]
+  },
+  {
+    
+    "biometags": [
+      
+      "forge:is_cold",
+      "tectonicworld:is_taiga",
+      "forge:is_snowy"
+
+
+    ],
+    "result": "allow",
+    "mob": [
+      "gothic:ice_wolf"
+
+    ],
+    "minlight": 0,
+    "maxlight": 7,
+
+    "mintime": 13000,
+    "maxtime": 23999,
+    "healthmultiply": 0.7,
+    "damagemultiply": 0.3,
+    
+    "dimension": [
+      
+      "tectonicworld:tectonic",
+      "minecraft:overworld",
+      "wabworldgen:tutorial"
+  ]
+  },
+  {
+    
+    "biometags": [
+      
+      "forge:is_mountain",
+      "minecraft:is_mountain",
+      "tectonic:is_oceanside_cliff"
+
+
+    ],
+    "result": "allow",
+    "mob": [
+      "tameablebeasts:quetzalcoatlus"
+
+    ],
+    "minlight": 7,
+    "maxlight": 16,
+
+    "mintime": 0,
+    "maxtime": 13000,
+    "healthmultiply": 3,
+    "damagemultiply": 1.5,
+    
+    "dimension": [
+      
+      "tectonicworld:tectonic",
+      "minecraft:overworld",
+      "wabworldgen:tutorial"
+  ]
+  },
+  {
+    
+    "biometags": [
+      
+      "minecraft:is_badlands",
+      "tectonicworld:is_badlands"
+
+
+    ],
+    "result": "allow",
+    "mob": [
+      "gothic:razor",
+      "gothic:snapper"
+
+    ],
+    "minlight": 0,
+    "maxlight": 7,
+
+    "mintime": 13000,
+    "maxtime": 23999,
+    "healthmultiply": 0.7,
+    "damagemultiply": 0.3,
+    
+    "dimension": [
+      
+      "tectonicworld:tectonic",
+      "minecraft:overworld",
+      "wabworldgen:tutorial"
+  ]
+  },
+  {
+    
+    "biometags": [
+      
+      
+      "cavernous:is_caves",
+      "forge:is_cave"
+
+
+    ],
+    "result": "allow",
+    "mob": [
+      "gothic:cave_molerat",
+      "gothic:molerat",
+      "gothic:molerat_young"
+
+    ],
+    "minlight": 0,
+    "maxlight": 7,
+
+    "mintime": 0,
+    "maxtime": 23999,
+    "healthmultiply": 0.5,
+    "damagemultiply": 0.3,
+    
+    "dimension": [
+      
+      "tectonicworld:tectonic",
+      "minecraft:overworld",
+      "wabworldgen:tutorial"
+  ]
+  },
+  {
+    
+    "biometags": [
+      
+      
+      "wythers:is_desert",
+      "minecraft:is_desert",
+      "tectonic:is_desert_dunes"
+
+
+    ],
+    "result": "allow",
+    "mob": [
+      "gothic:bloodfly_hornet",
+      "gothic:bloodfly",
+      "gothic:dragon_snapper"
+
+    ],
+    "minlight": 0,
+    "maxlight": 7,
+
+    "mintime": 13000,
+    "maxtime": 23999,
+    "healthmultiply": 0.7,
+    "damagemultiply": 0.4,
+    
+    "dimension": [
+      
+      "tectonicworld:tectonic",
+      "minecraft:overworld",
+      "wabworldgen:tutorial"
+  ]
+  },
+  {
+    
+    "biometags": [
+      
+      "minecraft:is_badlands",
+      "minecraft:is_savanna",
+      "minecraft:is_taiga",
+      "minecraft:is_overworld",
+      "tectonic:all_tectonic_biomes",
+      "cavernous:is_caves",
+      "minecraft:is_ocean",
+      "deepwhisperer:deep_whisper_biomes",
+      "skylands:skylands_biomes"
+
+    ],
+    "result": "allow",
+    "mob": [
+      "ars_nouveau:wilden_stalker",
+      "ars_nouveau:wilden_hunter"
+      
+
+    ],
+    
+    "mintime": 14000,
+    "maxtime": 23999,
+    "healthmultiply": 1,
+    "damagemultiply": 1,
+    
+    "dimension": [
+      
+      
+      "minecraft:overworld"
+  ]
+  },
+  {
+    
+    "biometags": [
+      
+      "minecraft:is_badlands",
+      "minecraft:is_savanna",
+      "minecraft:is_taiga",
+      "minecraft:is_overworld",
+      "skylands:skylands_biomes"
+
+    ],
+    "result": "allow",
+    "mob": [
+      "ars_nouveau:wilden_stalker",
+      "ars_nouveau:wilden_hunter"
+      
+
+    ],
+    "minlight": 0,
+    "maxlight": 7,
+
+    "mintime": 14000,
+    "maxtime": 23999,
+    "healthmultiply": 1,
+    "damagemultiply": 1.1,
+    
+    "dimension": [
+      
+      
+      "wabworldgen:tutorial"
+  ]
+  },
+  {
+    
+    "biometags": [
+      
+      "minecraft:is_badlands",
+      "minecraft:is_savanna",
+      "minecraft:is_taiga",
+      "skylands:skylands_biomes",
+      "minecraft:is_overworld"
+
+    ],
+    "result": "allow",
+    "mob": [
+      "ars_nouveau:wilden_stalker",
+      "ars_nouveau:wilden_hunter"
+      
+
+    ],
+    "minlight": 0,
+    "maxlight": 7,
+
+    "mintime": 14000,
+    "maxtime": 23999,
+    "healthmultiply": 1.5,
+    "damagemultiply": 1.2,
+    
+    "dimension": [
+      
+      
+      "tectonicworld:tectonic"
+  ]
+  },
+  {
+    
+    "biometags": [
+      
+      "minecraft:is_badlands",
+      "minecraft:is_savanna",
+      "minecraft:is_taiga",
+      "minecraft:is_overworld",
+      "tectonic:all_tectonic_biomes",
+      "cavernous:is_caves",
+      "minecraft:is_ocean",
+      "deepwhisperer:deep_whisper_biomes",
+      "skylands:skylands_biomes"
+
+    ],
+    "result": "allow",
+    "mob": [
+      "iter_rpg:air_elemental"
+      
+
+    ],
+    
+    "healthmultiply": 0.5,
+    "damagemultiply": 1,
+    "minlight": 0,
+    "maxlight": 16,
+    
+    "dimension": [
+      
+      
+      "minecraft:overworld"
+  ]
+  },
+  {
+    
+    "biometags": [
+      
+      "minecraft:is_badlands",
+      "minecraft:is_savanna",
+      "minecraft:is_taiga",
+      "minecraft:is_overworld",
+      "tectonic:all_tectonic_biomes",
+      "cavernous:is_caves",
+      "minecraft:is_ocean",
+      "deepwhisperer:deep_whisper_biomes",
+      "skylands:skylands_biomes"
+
+    ],
+    "result": "allow",
+    "mob": [
+      "minecraft:creeper",
+      "minecraft:zombie",
+      "minecraft:zombie_villager",
+      "minecraft:skeleton",
+      "minecraft:spider",
+      "minecraft:enderman",
+      "scorpions:brown_scorpion",
+      "scorpions:emperor"
+      
+
+    ],
+    
+    "healthmultiply": 1,
+    "damagemultiply": 1,
+    "minlight": 0,
+    "maxlight": 7,
+    
+    "dimension": [
+      
+      
+      "minecraft:overworld"
+  ]
+  },
+  {
+    
+    "biometags": [
+      
+      "minecraft:is_badlands",
+      "minecraft:is_savanna",
+      "minecraft:is_taiga",
+      "minecraft:is_overworld",
+      "skylands:skylands_biomes"
+
+    ],
+    "result": "allow",
+    "mob": [
+      "born_in_chaos_v1:baby_skeleton",
+      "mekanismadditions:baby_skeleton",
+      "born_in_chaos_v1:baby_skeleton_2",
+      "born_in_chaos_v1:baby_skeleton_minion",
+      "born_in_chaos_v1:bone_imp",
+      "born_in_chaos_v1:bone_imp_2",
+      "born_in_chaos_v1:bone_imp_minion",
+      "born_in_chaos_v1:bonescaller",
+      "born_in_chaos_v1:decaying_zombie",
+      "born_in_chaos_v1:decrepit_skeleton",
+      "born_in_chaos_v1:firelight",
+      "born_in_chaos_v1:seared_spirit",
+      "born_in_chaos_v1:skeleton_demoman",
+      "born_in_chaos_v1:wither_scuttler"
+      
+
+    ],
+    "minlight": 0,
+    "maxlight": 7,
+
+    "mintime": 0,
+    "maxtime": 23999,
+    "healthmultiply": 1,
+    "damagemultiply": 1,
+    
+    "dimension": [
+      
+      
+      "minecraft:overworld"
+  ]
+  },
+  {
+    
+    "biometags": [
+      
+      "minecraft:is_badlands",
+      "minecraft:is_savanna",
+      "minecraft:is_taiga",
+      "minecraft:is_overworld",
+      "skylands:skylands_biomes"
+
+    ],
+    "result": "allow",
+    "mob": [
+      "born_in_chaos_v1:baby_skeleton",
+      "mekanismadditions:baby_skeleton",
+      "born_in_chaos_v1:baby_skeleton_2",
+      "born_in_chaos_v1:baby_skeleton_minion",
+      "born_in_chaos_v1:bone_imp",
+      "born_in_chaos_v1:bone_imp_2",
+      "born_in_chaos_v1:bone_imp_minion",
+      "born_in_chaos_v1:bonescaller",
+      "born_in_chaos_v1:decaying_zombie",
+      "born_in_chaos_v1:decrepit_skeleton",
+      "born_in_chaos_v1:firelight",
+      "born_in_chaos_v1:seared_spirit",
+      "born_in_chaos_v1:skeleton_demoman",
+      "born_in_chaos_v1:wither_scuttler"
+      
+
+    ],
+    "minlight": 0,
+    "maxlight": 7,
+
+    "mintime": 0,
+    "maxtime": 23999,
+    "healthmultiply": 1,
+    "damagemultiply": 1.1,
+    
+    "dimension": [
+      
+      
+      "wabworldgen:tutorial"
+  ]
+  },
+  {
+    
+    "biometags": [
+      
+      "minecraft:is_badlands",
+      "minecraft:is_savanna",
+      "minecraft:is_taiga",
+      "skylands:skylands_biomes",
+      "minecraft:is_overworld"
+
+    ],
+    "result": "allow",
+    "mob": [
+      "born_in_chaos_v1:baby_skeleton",
+      "mekanismadditions:baby_skeleton",
+      "born_in_chaos_v1:baby_skeleton_2",
+      "born_in_chaos_v1:baby_skeleton_minion",
+      "born_in_chaos_v1:bone_imp",
+      "born_in_chaos_v1:bone_imp_2",
+      "born_in_chaos_v1:bone_imp_minion",
+      "born_in_chaos_v1:bonescaller",
+      "born_in_chaos_v1:decaying_zombie",
+      "born_in_chaos_v1:decrepit_skeleton",
+      "born_in_chaos_v1:firelight",
+      "born_in_chaos_v1:seared_spirit",
+      "born_in_chaos_v1:skeleton_demoman",
+      "born_in_chaos_v1:wither_scuttler"
+      
+
+    ],
+    "minlight": 0,
+    "maxlight": 7,
+
+    "mintime": 0,
+    "maxtime": 23999,
+    "healthmultiply": 1.5,
+    "damagemultiply": 1.3,
+    
+    "dimension": [
+      
+      
+      "tectonicworld:tectonic"
+  ]
+  },
+  {
+    
+    "biometags": [
+      
+      "minecraft:is_badlands",
+      "minecraft:is_savanna",
+      "minecraft:is_taiga",
+      "skylands:skylands_biomes",
+      "minecraft:is_overworld"
+
+    ],
+    "result": "allow",
+    "mob": [
+      
+      "born_in_chaos_v1:barrel_zombie",
+      
+      "born_in_chaos_v1:dark_vortex",
+      
+      "born_in_chaos_v1:door_knight",
+      "born_in_chaos_v1:dread_hound",
+      "born_in_chaos_v1:fallen_chaos_knight",
+      
+      "born_in_chaos_v1:nightmare_stalker",
+      "born_in_chaos_v1:restless_spirit",
+      "born_in_chaos_v1:scarlet_persecutor",
+      
+      "born_in_chaos_v1:sir_pumpkinhead",
+      
+      "born_in_chaos_v1:skeleton_thrasher",
+      
+      "born_in_chaos_v1:zombie_clown"
+      
+
+    ],
+    "minlight": 0,
+    "maxlight": 7,
+
+    "mintime": 0,
+    "maxtime": 23999,
+    "healthmultiply": 1,
+    "damagemultiply": 1,
+    
+    "dimension": [
+      
+      
+      "minecraft:overworld"
+  ]
+  },
+  {
+    
+    "biometags": [
+      
+      "minecraft:is_badlands",
+      "minecraft:is_savanna",
+      "minecraft:is_taiga",
+      "skylands:skylands_biomes",
+      "minecraft:is_overworld"
+
+    ],
+    "result": "allow",
+    "mob": [
+      "born_in_chaos_v1:barrel_zombie",
+      
+      "born_in_chaos_v1:dark_vortex",
+      
+      "born_in_chaos_v1:door_knight",
+      "born_in_chaos_v1:dread_hound",
+      "born_in_chaos_v1:fallen_chaos_knight",
+      
+      "born_in_chaos_v1:nightmare_stalker",
+      "born_in_chaos_v1:restless_spirit",
+      "born_in_chaos_v1:scarlet_persecutor",
+      
+      "born_in_chaos_v1:sir_pumpkinhead",
+      
+      "born_in_chaos_v1:skeleton_thrasher",
+      
+      "born_in_chaos_v1:zombie_clown"
+      
+
+    ],
+    "minlight": 0,
+    "maxlight": 7,
+
+    "mintime": 0,
+    "maxtime": 23999,
+    "healthmultiply": 1,
+    "damagemultiply": 1.3,
+    
+    "dimension": [
+      
+      
+      "wabworldgen:tutorial"
+  ]
+  },
+  {
+    
+    "biometags": [
+      
+      "minecraft:is_badlands",
+      "minecraft:is_savanna",
+      "minecraft:is_taiga",
+      "skylands:skylands_biomes",
+      "minecraft:is_overworld"
+
+    ],
+    "result": "allow",
+    "mob": [
+      "born_in_chaos_v1:barrel_zombie",
+      
+      "born_in_chaos_v1:dark_vortex",
+      
+      "born_in_chaos_v1:door_knight",
+      "born_in_chaos_v1:dread_hound",
+      "born_in_chaos_v1:fallen_chaos_knight",
+      
+      "born_in_chaos_v1:nightmare_stalker",
+      "born_in_chaos_v1:restless_spirit",
+      "born_in_chaos_v1:scarlet_persecutor",
+      
+      "born_in_chaos_v1:sir_pumpkinhead",
+      
+      "born_in_chaos_v1:skeleton_thrasher",
+      
+      "born_in_chaos_v1:zombie_clown"
+      
+
+    ],
+    "minlight": 0,
+    "maxlight": 7,
+
+    "mintime": 0,
+    "maxtime": 23999,
+    "healthmultiply": 1.5,
+    "damagemultiply": 1.5,
+    
+    "dimension": [
+      
+      
+      "tectonicworld:tectonic"
+  ]
+  },
+  {
+    
+    "biometags": [
+      
+      "minecraft:is_badlands",
+      "minecraft:is_savanna",
+      "minecraft:is_taiga",
+      "minecraft:is_overworld",
+      "tectonic:all_tectonic_biomes",
+      "cavernous:is_caves",
+      "skylands:skylands_biomes",
+      "minecraft:is_ocean"
+
+    ],
+    "result": "allow",
+    "mob": [
+      "minecraft:creeper",
+      "minecraft:zombie",
+      "minecraft:zombie_villager",
+      "minecraft:skeleton",
+      "minecraft:spider",
+      "minecraft:enderman",
+      "iter_rpg:air_elemental",
+      "scorpions:brown_scorpion",
+      "scorpions:emperor"
+      
+
+    ],
+    
+    "healthmultiply": 1.2,
+    "damagemultiply": 1.1,
+    
+    "dimension": [
+      
+      
+      "wabworldgen:tutorial"
+  ]
+  },
+  {
+    
+    "biometags": [
+      
+      "minecraft:is_badlands",
+      "minecraft:is_savanna",
+      "minecraft:is_taiga",
+      "minecraft:is_overworld",
+      "tectonic:all_tectonic_biomes",
+      "cavernous:is_caves",
+      "minecraft:is_ocean"
+
+    ],
+    "result": "allow",
+    "mob": [
+      "minecraft:creeper",
+      "minecraft:zombie",
+      "minecraft:zombie_villager",
+      "minecraft:skeleton",
+      "minecraft:spider",
+      "minecraft:enderman",
+      "iter_rpg:air_elemental",
+      "scorpions:brown_scorpion",
+      "scorpions:emperor"
+      
+
+    ],
+    
+    "healthmultiply": 1.5,
+    "damagemultiply": 1.3,
+    
+    "dimension": [
+      
+      "tectonicworld:tectonic"
+  ]
+  },
+  {
+    
+    
+    "result": "allow",
+    "mob": [
+      "minecraft:creeper",
+      "minecraft:zombie",
+      "minecraft:zombie_villager",
+      "minecraft:skeleton",
+      "minecraft:spider",
+      "minecraft:enderman",
+      "minecraft:vindicator",
+      "minecraft:witch"
+      
+
+    ],
+    "structure": 
+      "castle_dungeons:castle_illager_desert"
+    ,
+    
+    "healthmultiply": 1,
+    "damagemultiply": 1,
+    
+    "dimension": [
+      
+      
+      "minecraft:overworld"
+  ]
+  },
+  {
+    
+    
+    "result": "allow",
+    "mob": [
+      "minecraft:creeper",
+      "minecraft:zombie",
+      "minecraft:zombie_villager",
+      "minecraft:skeleton",
+      "minecraft:spider",
+      "minecraft:enderman",
+      "minecraft:witch",
+      "minecraft:vindicator"
+      
+
+    ],
+    "structure": 
+      "castle_dungeons:castle_illager_desert"
+    ,
+    
+    "healthmultiply": 1.2,
+    "damagemultiply": 1.1,
+    
+    "dimension": [
+      
+      
+      "wabworldgen:tutorial"
+  ]
+  },
+  {
+    
+    
+    "result": "allow",
+    "mob": [
+      "minecraft:creeper",
+      "minecraft:zombie",
+      "minecraft:zombie_villager",
+      "minecraft:skeleton",
+      "minecraft:spider",
+      "minecraft:enderman",
+      "minecraft:witch",
+      "minecraft:vindicator"
+      
+
+    ],
+    "structure": 
+      "castle_dungeons:castle_illager_desert"
+    ,
+    
+    "healthmultiply": 1.5,
+    "damagemultiply": 1.3,
+    
+    "dimension": [
+      
+      "tectonicworld:tectonic"
+  ]
+  },
+  {
+    
+    
+    "result": "allow",
+    "mob": [
+      "minecraft:creeper",
+      "minecraft:zombie",
+      "minecraft:zombie_villager",
+      "minecraft:skeleton",
+      "minecraft:spider",
+      "minecraft:enderman",
+      "minecraft:vindicator",
+      "minecraft:witch"
+      
+
+    ],
+    "structure": 
+      "castle_dungeons:castle_illager_plains"
+    ,
+    
+    "healthmultiply": 1,
+    "damagemultiply": 1,
+    
+    "dimension": [
+      
+      
+      "minecraft:overworld"
+  ]
+  },
+  {
+    
+    
+    "result": "allow",
+    "mob": [
+      "minecraft:creeper",
+      "minecraft:zombie",
+      "minecraft:zombie_villager",
+      "minecraft:skeleton",
+      "minecraft:spider",
+      "minecraft:enderman",
+      "minecraft:witch",
+      "minecraft:vindicator"
+      
+
+    ],
+    "structure": 
+      "castle_dungeons:castle_illager_plains"
+    ,
+    
+    "healthmultiply": 1.2,
+    "damagemultiply": 1.2,
+    
+    "dimension": [
+      
+      
+      "wabworldgen:tutorial"
+  ]
+  },
+  {
+    
+    
+    "result": "allow",
+    "mob": [
+      "minecraft:creeper",
+      "minecraft:zombie",
+      "minecraft:zombie_villager",
+      "minecraft:skeleton",
+      "minecraft:spider",
+      "minecraft:enderman",
+      "minecraft:witch",
+      "minecraft:vindicator"
+      
+
+    ],
+    "structure": 
+      "castle_dungeons:castle_illager_plains"
+    ,
+    
+    "healthmultiply": 1.5,
+    "damagemultiply": 1.5,
+    
+    "dimension": [
+      
+      "tectonicworld:tectonic"
+  ]
+  },
+  {
+    
+    
+    "result": "allow",
+    "mob": [
+      "iter_rpg:air_elemental"
+      
+
+    ],
+    "structure": 
+      "keebsz:cobblestone_battletower"
+    ,
+    
+    "healthmultiply": 1,
+    "damagemultiply": 1,
+    
+    "dimension": [
+      "minecraft:overworld",
+      "wabworldgen:tutorial",
+      "tectonicworld:tectonic"
+  ]
+  },
+  {
+    
+    "biome": [
+      
+      "minecraft:nether_wastes",
+      "minecraft:crimson_forest"
+
+    ],
+    "result": "allow",
+    "mob": [
+      
+      "minecraft:piglin_brute",
+      "minecraft:piglin",
+      "realmrpg_wyrms:red_wyrm"
+      
+      
+
+    ],
+    "minlight": 0,
+    "maxlight": 8,
+
+    "mintime": 0,
+    "maxtime": 23999,
+    "healthmultiply": 1.75,
+    "damagemultiply": 1.75,
+    
+    "dimension": [
+      
+      "minecraft:the_nether"
+  ]
+  },
+  {
+    
+    "biome": [
+      
+      "minecraft:crimson_forest"
+
+    ],
+    "result": "allow",
+    "mob": [
+      "minecraft:zoglin"
+      
+
+    ],
+    "minlight": 0,
+    "maxlight": 8,
+
+    "mintime": 0,
+    "maxtime": 23999,
+    "healthmultiply": 1.75,
+    "damagemultiply": 1.75,
+    
+    "dimension": [
+      
+      "minecraft:the_nether"
+  ]
+  },
+  {
+    
+    "biome": [
+      
+      "minecraft:basalt_deltas"
+
+    ],
+    "result": "allow",
+    "mob": [
+      
+      "netherskeletons:basalt_skeleton"
+      
+
+    ],
+    "minlight": 0,
+    "maxlight": 8,
+
+    "mintime": 0,
+    "maxtime": 23999,
+    "healthmultiply": 1.75,
+    "damagemultiply": 1.75,
+    
+    "dimension": [
+      
+      "minecraft:the_nether"
+  ]
+  },
+  {
+    
+    "biome": [
+      
+      "basalt_deltas",
+    "nether_wastes"
+
+    ],
+    "result": "allow",
+    "mob": [
+      "netherskeletons:charred_skeleton"
+      
+
+    ],
+    "minlight": 0,
+    "maxlight": 8,
+
+    "mintime": 0,
+    "maxtime": 23999,
+    "healthmultiply": 1.75,
+    "damagemultiply": 1.75,
+    
+    "dimension": [
+      
+      "minecraft:the_nether"
+  ]
+  },
+  {
+    
+    "biome": [
+      
+      "crimson_forest"
+
+    ],
+    "result": "allow",
+    "mob": [
+      "netherskeletons:crimson_skeleton"
+      
+
+    ],
+    "minlight": 0,
+    "maxlight": 8,
+
+    "mintime": 0,
+    "maxtime": 23999,
+    "healthmultiply": 1.75,
+    "damagemultiply": 1.75,
+    
+    "dimension": [
+      
+      "minecraft:the_nether"
+  ]
+  },
+  {
+    
+    "biome": [
+      
+      "soul_sand_valley",
+    "basalt_deltas"
+
+    ],
+    "result": "allow",
+    "mob": [
+      "netherskeletons:crying_obby_skeleton",
+      "scorpion:nether_scorpion"
+      
+
+    ],
+    "minlight": 0,
+    "maxlight": 8,
+
+    "mintime": 0,
+    "maxtime": 23999,
+    "healthmultiply": 1.75,
+    "damagemultiply": 1.75,
+    
+    "dimension": [
+      
+      "minecraft:the_nether"
+  ]
+  },
+  {
+    
+    "biome": [
+      
+      "nether_wastes"
+
+    ],
+    "result": "allow",
+    "mob": [
+      "netherskeletons:nether_skeleton",
+      "netherskeletons:skelly_ghast",
+      "netherskeletons:skelly_piglin"
+
+      
+
+    ],
+    "minlight": 0,
+    "maxlight": 8,
+
+    "mintime": 0,
+    "maxtime": 23999,
+    "healthmultiply": 1.75,
+    "damagemultiply": 1.75,
+    
+    "dimension": [
+      
+      "minecraft:the_nether"
+  ]
+  },
+  {
+    
+    "biome": [
+      
+      "soul_sand_valley"
+
+    ],
+    "result": "allow",
+    "mob": [
+      "netherskeletons:soul_skeleton"
+      
+
+    ],
+    "minlight": 0,
+    "maxlight": 8,
+
+    "mintime": 0,
+    "maxtime": 23999,
+    "healthmultiply": 1.75,
+    "damagemultiply": 1.75,
+    
+    "dimension": [
+      
+      "minecraft:the_nether"
+  ]
+  },
+
+  {
+    
+    "biome": [
+      
+      "warped_forest"
+
+    ],
+    "result": "allow",
+    "mob": [
+      "netherskeletons:warped_skeleton"
+      
+
+    ],
+    "minlight": 0,
+    "maxlight": 8,
+
+    "mintime": 0,
+    "maxtime": 23999,
+    "healthmultiply": 1.75,
+    "damagemultiply": 1.75,
+    
+    "dimension": [
+      
+      "minecraft:the_nether"
+  ]
+  },
+  {
+    
+    
+    "result": "allow",
+    "mob": [
+      "minecraft:wither_skeleton"
+      
+
+    ],
+    "minlight": 0,
+    "maxlight": 8,
+
+    "mintime": 0,
+    "maxtime": 23999,
+    "healthmultiply": 1.75,
+    "damagemultiply": 1.75,
+    
+    "dimension": [
+      
+      "minecraft:the_nether"
+  ]
+  },
+  
+  
+  {
+      "biome":[
+        
+        "panthalassa:primeval_expanse",
+        "panthalassa:abyssal_overgrowth",
+        "panthalassa:ancient_caverns",
+        "panthalassa:azure_depths"
+      ],
+      "result": "allow",
+      "mob": [
+        "panthalassa:helicoprion",
+        "panthalassa:mosasaurus",
+        "panthalassa:kronosaurus",
+        "panthalassa:megalodon"
+
+      ],
+      "minlight": 0,
+      "maxlight": 7,
+      "mintime": 0,
+      "maxtime": 23999,
+      "healthmultiply": 0.8,
+      "damagemultiply": 0.5,
+      
+      "dimension": [
+        
+        "panthalassa:panthalassa"
+    ]
+    },
+    {
+      "biome":[
+        
+        "panthalassa:primeval_expanse",
+        "panthalassa:abyssal_overgrowth",
+        "panthalassa:ancient_caverns",
+        "panthalassa:azure_depths"
+      ],
+      "result": "allow",
+      "mob": [
+        "panthalassa:anglerfish",
+        "panthalassa:giant_orthocone",
+        "panthalassa:thalassomedon"
+
+      ],
+      "minlight": 0,
+      "maxlight": 7,
+      "mintime": 0,
+      "maxtime": 23999,
+      "healthmultiply": 0.5,
+      "damagemultiply": 0.5,
+      
+      "dimension": [
+        
+        "panthalassa:panthalassa"
+    ]
+    },
+    {
+      "biome":[
+        
+        "panthalassa:primeval_expanse",
+        "panthalassa:abyssal_overgrowth",
+        "panthalassa:ancient_caverns",
+        "panthalassa:azure_depths"
+      ],
+      "result": "allow",
+      "mob": [
+        
+        "panthalassa:anomalocaris", 
+        "panthalassa:acrolepis",
+        "panthalassa:coelacanth",
+        "panthalassa:ceratodus",
+        "panthalassa:archelon",
+        "panthalassa:basilosaurus",
+        "minecraft:pufferfish",
+        "alexsmobs:lobster"
+
+      ],
+      "minlight": 0,
+      "maxlight": 7,
+      "mintime": 0,
+      "maxtime": 23999,
+      "healthmultiply": 0.3,
+      
+      "dimension": [
+        
+        "panthalassa:panthalassa"
+    ]
+    },
+    {
+      
+      "biometags": [
+        
+      "skylands:skylands_biomes",
+        "minecraft:is_ocean"
+
+      ],
+      "result": "allow",
+      "mob": [
+        
+        "panthalassa:helicoprion"
+
+      ],
+      "minlight": 0,
+      "maxlight": 7,
+      "mintime": 0,
+      "maxtime": 23999,
+      "healthmultiply": 0.8,
+      "damagemultiply": 0.5,
+      "weather": "thunder",
+      
+      "dimension": [
+        "wabworldgen:tutorial",
+        "tectonicworld:tectonic"
+    ]
+    },
+    
+    {
+      
+        
+      
+      "biometags": [
+        
+        "minecraft:is_badlands",
+        "minecraft:is_savanna",
+        "deepwhisperer:deep_whisper_biomes",
+        "minecraft:is_taiga"
+
+      ],
+      "result": "allow",
+      "mob": [
+        "mutantmonsters:mutant_creeper",
+        "mutantmonsters:mutant_zombie",
+        "mutantmonsters:mutant_skeleton"
+
+      ],
+      "minlight": 0,
+      "maxlight": 7,
+
+      "mintime": 0,
+      "maxtime": 23999,
+      "healthmultiply": 1,
+      "damagemultiply": 1.5,
+      
+      "dimension": [
+        
+        "tectonicworld:tectonic",
+        "deepwhisperer:deep_space"
+    ]
+    },
+    {
+      "biome":[
+        "minecraft:lukewarm_ocean",
+        "minecraft:deep_ocean",
+        "minecraft:warm_ocean",
+        "skylands:badlands",
+        "skylands:desert",
+        "skylands:jungle",
+        "skylands:mangrove_swamp",
+        "skylands:savanna",
+        "skylands:sparse_jungle",
+        "skylands:swamp",
+        "skylands:wooded_badlands",
+        "wythers:berry_bog",
+        "wythers:fen",
+        "wythers:flooded_temperate_rainforest",
+        "wythers:old_growth_taiga_swamp",
+        "wythers:phantasmal_swamp",
+        "wythers:ancient_oak_swamp",
+        "wythers:birch_swamp",
+        "wythers:autumnal_swamp",
+        "wythers:marsh",
+        "wythers:bayou",
+        "wythers:waterlily_swamp",
+        "wythers:ancient_mossy_swamp",
+        "wythers:dripleaf_swamp",
+        "wythers:bamboo_swamp",
+        "wythers:bamboo_jungle_swamp",
+        "wythers:flooded_jungle",
+        "wythers:flooded_rainforest",
+        "wythers:tangled_forest",
+        "wythers:flooded_savanna",
+        "wythers:mud_pools"
+        
+      ],
+      
+      "result": "allow",
+      "mob": [
+        "panthalassa:mosasaurus"
+
+      ],
+      "minlight": 0,
+      "maxlight": 11,
+      "mintime": 13000,
+      "maxtime": 23999,
+      "healthmultiply": 0.5,
+      "damagemultiply": 0.3,
+      "dimension": [
+        "tectonicworld:tectonic"
+    ]
+    },
+    {
+      
+      "biometags": [
+        
+      "skylands:skylands_biomes",
+        "minecraft:is_ocean"
+
+      ],
+      "result": "allow",
+      "mob": [
+        
+        "panthalassa:anglerfish",
+        "panthalassa:giant_orthocone"
+      ],      
+      "minlight": 0,
+      "maxlight": 11,
+      "mintime": 10000,
+      "maxtime": 23999,
+      "healthmultiply": 0.5,
+      "damagemultiply": 0.3,
+      "dimension": [
+        "tectonicworld:tectonic"
+    ]
+    },
+    {
+      "biometags": [
+        
+        "minecraft:is_river"
+
+      ],
+      "result": "allow",
+      "mob": [
+        
+        "panthalassa:anglerfish" 
+             
+      ],      
+      "minlight": 0,
+      "maxlight": 7,
+      "mintime": 13000,
+      "maxtime": 23999,
+      "healthmultiply": 0.1,
+      "damagemultiply": 0.3,
+      "dimension": [
+        
+        "tectonicworld:tectonic"
+    ]
+    },
+    {
+      
+      "biometags": [
+        
+      "skylands:skylands_biomes",
+        "minecraft:is_ocean"
+
+      ],
+      "result": "allow",
+      "mob": [
+        "panthalassa:kronosaurus"
+      ],      
+      "minlight": 0,
+      "maxlight": 11,
+      "mintime": 0,
+      "maxtime": 23999,
+      "healthmultiply": 0.5,
+      "damagemultiply": 0.3,
+      "dimension": [
+        "tectonicworld:tectonic"
+    ]
+    },
+    {
+      
+      "biometags": [
+        
+      "skylands:skylands_biomes",
+        "minecraft:is_ocean"
+
+      ],
+      "result": "allow",
+      "mob": [
+        "panthalassa:thalassomedon"
+      ],      
+      "minlight": 0,
+      "maxlight": 11,
+      "mintime": 0,
+      "maxtime": 23999,
+      "healthmultiply": 0.25,
+      "damagemultiply": 0.2,
+      "dimension": [
+        "tectonicworld:tectonic"
+    ]
+    },
+    {
+      
+      "biometags": [
+        
+      "skylands:skylands_biomes",
+        "minecraft:is_ocean"
+
+      ],
+      "result": "allow",
+      "healthmultiply": 0.15,
+      "mob": [
+        "panthalassa:anomalocaris", 
+        "panthalassa:acrolepis",
+        "panthalassa:coelacanth",
+        "panthalassa:ceratodus",
+        "panthalassa:archelon",
+        "panthalassa:basilosaurus",
+        "minecraft:pufferfish",
+        "alexsmobs:lobster"
+      ],      
+      "dimension": [
+        "tectonicworld:tectonic"
+    ]
+    },
+    {
+      
+      "biometags": [
+        
+      "skylands:skylands_biomes",
+        "minecraft:is_ocean"
+
+      ],
+      "result": "allow",
+      "mob": [
+        "iter_rpg:scallop"
+      ],      
+      "dimension": [
+        "wabworldgen:tutorial",
+        "tectonicworld:tectonic"
+    ]
+    },
+    {
+      "biometags": [
+        
+        "minecraft:is_overworld"
+
+      ],
+      "result": "allow",
+      "healthmultiply": 0.2,
+      "damagemultiply": 0.3,
+      "minlight": 0,
+      "maxlight": 7,
+      "mintime": 0,
+      "maxtime": 24000,
+      "mob": [
+        "panthalassa:thalassomedon",
+        "panthalassa:giant_orthocone",
+        "panthalassa:anglerfish",
+        "panthalassa:megalodon",
+        "panthalassa:mosasaurus",
+        "panthalassa:kronosaurus"
+
+      ],      
+      "dimension": [
+        "minecraft:overworld"
+    ]
+    },
+    {
+      "biome":[
+        "bro:saturated/cave/underground_jungle",
+        "desolation:charred_forest"
+      ],
+      
+      "result": "allow",
+      "mod": [
+        "bookwyrms"
+      ],      
+      "dimension": [
+        "tectonicworld:tectonic",
+        "wabworldgen:tutorial",
+        "minecraft:overworld"
+    ]
+    },
+    {
+      
+      "biometags": [
+        
+      "skylands:skylands_biomes",
+        "minecraft:is_ocean"
+
+      ],
+      "result": "allow",
+      "mob": [
+        "minecraft:tropical_fish"
+      ],      
+      "dimension": [
+        "wabworldgen:tutorial",
+        "minecraft:overworld",
+        "tectonicworld:tectonic"
+    ]
+    },
+    {
+      
+      "biometags": [
+        
+        "forge:is_cold",
+        "minecraft:is_overworld"
+
+      ],
+      "result": "allow",
+      "mob": [
+        "ylf_mod:ylf",
+        "alexsmobs:fly"
+      ],      
+      "dimension": [
+        "wabworldgen:tutorial",
+        "minecraft:overworld",
+        "tectonicworld:tectonic",
+        "deepwhisperer:deep_space"
+    ]
+    },
+    {
+      
+      "biometags": [
+        "minecraft:is_end"
+
+      ],
+      "result": "allow",
+      "healthmultiply": 1,
+      "damagemultiply": 1,
+      "minlight": 0,
+      "maxlight": 7,
+      "mintime": 0,
+      "maxtime": 24000,
+      "mob": [
+        "realmrpg_wyrms:ender_wyrm"
+      ],      
+      "dimension": [
+        "minecraft:the_end"
+    ]
+    },
+    {
+      
+      "biometags": [
+        "minecraft:is_nether"
+
+      ],
+      "result": "allow",
+      "healthmultiply": 1,
+      "damagemultiply": 1,
+      "minlight": 0,
+      "maxlight": 7,
+      "mintime": 0,
+      "maxtime": 24000,
+      "mob": [
+        "weirdmobs:nether_winged_serpent"
+      ],      
+      "dimension": [
+        "minecraft:the_nether"
+    ]
+    },
+    {
+      
+      "biometags": [
+        "minecraft:is_hill"
+
+      ],
+      "result": "allow",
+      "healthmultiply": 1,
+      "damagemultiply": 1,
+      "minlight": 0,
+      "maxlight": 7,
+      "mintime": 13000,
+      "maxtime": 24000,
+      "mob": [
+        "weirdmobs:membrane_winged_serpent"
+      ],      
+      "dimension": [
+        "minecraft:overworld"
+    ]
+    },
+    {
+      
+      "biometags": [
+        "minecraft:is_hill"
+
+      ],
+      "result": "allow",
+      "healthmultiply": 1.5,
+      "damagemultiply": 1.5,
+      "minlight": 0,
+      "maxlight": 7,
+      "mintime": 13000,
+      "maxtime": 24000,
+      "mob": [
+        "weirdmobs:membrane_winged_serpent"
+      ],      
+      "dimension": [
+        "wabworldgen:tutorial"
+    ]
+    },
+    {
+      
+      "biometags": [
+        "minecraft:is_hill"
+
+      ],
+      "result": "allow",
+      "healthmultiply": 1.8,
+      "damagemultiply": 1.8,
+      "minlight": 0,
+      "maxlight": 7,
+      "mintime": 13000,
+      "maxtime": 24000,
+      "mob": [
+        "weirdmobs:feathered_winged_serpent"
+      ],      
+      "dimension": [
+        "tectonicworld:tectonic"
+    ]
+    },
+    {
+      
+      "biometags": [
+        "minecraft:is_swamp"
+
+      ],
+      "result": "allow",
+      "healthmultiply": 1,
+      "damagemultiply": 1,
+      "minlight": 0,
+      "maxlight": 7,
+      "mintime": 13000,
+      "maxtime": 24000,
+      "mob": [
+        "weirdmobs:membrane_winged_serpent",
+        "weirdmobs:giant_mosquito"
+      ],      
+      "dimension": [
+        "minecraft:overworld"
+    ]
+    },
+    {
+      
+      "biometags": [
+        "minecraft:is_swamp"
+
+      ],
+      "result": "allow",
+      "healthmultiply": 1.5,
+      "damagemultiply": 1.5,
+      "minlight": 0,
+      "maxlight": 7,
+      "mintime": 13000,
+      "maxtime": 24000,
+      "mob": [
+        "weirdmobs:membrane_winged_serpent",
+        "weirdmobs:giant_mosquito"
+      ],      
+      "dimension": [
+        "wabworldgen:tutorial"
+    ]
+    },
+    {
+      
+      "biometags": [
+        "minecraft:is_swamp"
+
+      ],
+      "result": "allow",
+      "healthmultiply": 1.8,
+      "damagemultiply": 1.8,
+      "minlight": 0,
+      "maxlight": 7,
+      "mintime": 13000,
+      "maxtime": 24000,
+      "mob": [
+        "weirdmobs:membrane_winged_serpent",
+        "weirdmobs:giant_mosquito"
+      ],      
+      "dimension": [
+        "tectonicworld:tectonic"
+    ]
+    },
+    {
+      
+      
+      "result": "allow",
+      "mob": [
+        "mutationcraft:miter",
+        "mutationcraft:assimilated_villager",
+        "mutationcraft:assimilated_human",
+        "mutationcraft:assimilated_sheep",
+        "mutationcraft:developed_roamer",
+        "mutationcraft:assimilated_horse",
+        "mutationcraft:assimilated_roamer",
+        "mutationcraft:assimilated_cow",
+        "mutationcraft:assimilated_pig",
+        "mutationcraft:assimilated_piglin",
+        "mutationcraft:assimilated_enderman",
+        "mutationcraft:assimilated_witch",
+        "mutationcraft:assimilated_spider",
+        "mutationcraft:assimilated_jockey",
+        "mutationcraft:assimilated_pillager",
+        "mutationcraft:assimilated_wandering_trader",
+        "mutationcraft:human_stage_1",
+        "mutationcraft:human_stage_2",
+        "mutationcraft:human_stage_3",
+        "mutationcraft:necroptor",
+        "mutationcraft:reductor",
+        "mutationcraft:scientist",
+        "mutationcraft:assimilated_bear",
+        "mutationcraft:assimilated_donkey",
+        "mutationcraft:assimilated_evoker",
+        "mutationcraft:assimilated_fox",
+        "mutationcraft:assimilated_vex",
+        "mutationcraft:assimilated_wolf",
+        "mutationcraft:carnivorae",
+        "mutationcraft:hazmat_flamethrower",
+        "mutationcraft:hazmat_helicopter",
+        "mutationcraft:hazmat_leader",
+        "mutationcraft:hazmat_medic",
+        "mutationcraft:the_intoxicator"
+
+
+        
+
+      ],      
+      "dimension": [
+        "theabyss:the_abyss",
+        "deepwhisperer:deep_space"
+    ]
+    },
+    {
+      
+      "biometags": [
+        
+        "minecraft:is_forest",
+        "minecraft:is_hill"
+
+      ],
+      "result": "allow",
+      "mob": [
+        "alexsmobs:blue_jay"
+      ],      
+      "dimension": [
+        "wabworldgen:tutorial",
+        "minecraft:overworld",
+        "tectonicworld:tectonic"
+    ]
+    },
+    {
+      
+      "mob": [
+        "born_in_chaos_v1:skeleton_thrasher",
+        "minecraft:cod", 
+        "panthalassa:thalassomedon", 
+        "panthalassa:helicoprion",
+        "panthalassa:anomalocaris", 
+        "panthalassa:acrolepis",
+        "panthalassa:anglerfish",
+        "minecraft:tropical_fish",
+        "panthalassa:giant_orthocone",
+        "panthalassa:coelacanth",
+        "panthalassa:kronosaurus",
+        "panthalassa:mosasaurus",
+        "panthalassa:ceratodus",
+        "panthalassa:archelon",
+        "ars_nouveau:wilden_stalker",
+        "aquaculture:atlantic_herring",
+        "better_katanas:akame_boss",
+        "better_katanas:rimuru_tempest",
+        "better_katanas:sasuke_uchiha",
+        "better_katanas:soi_fon",
+        "better_katanas:yami_sukehiro",
+        "minecraft:phantom",
+        "aquaculture:atlantic_halibut",
+        "alexsmobs:blobfish",
+        "mutantmonsters:mutant_creeper",
+        "mutantmonsters:mutant_zombie",
+        "mutantmonsters:mutant_skeleton",
+        "iter_rpg:scallop",
+        "alexsmobs:blue_jay",
+        "minecraft:creeper",
+      "minecraft:zombie",
+      "minecraft:zombie_villager",
+      "minecraft:skeleton",
+      "minecraft:spider",
+      "alexsmobs:froststalker",
+      "mutationcraft:miter",
+        "mutationcraft:assimilated_villager",
+        "mutationcraft:assimilated_human",
+        "mutationcraft:assimilated_sheep",
+        "mutationcraft:developed_roamer",
+        "mutationcraft:assimilated_horse",
+        "mutationcraft:assimilated_roamer",
+        "mutationcraft:assimilated_cow",
+        "mutationcraft:assimilated_pig",
+        "mutationcraft:assimilated_piglin",
+        "mutationcraft:assimilated_enderman",
+        "mutationcraft:assimilated_witch",
+        "mutationcraft:assimilated_spider",
+        "mutationcraft:assimilated_jockey",
+        "mutationcraft:assimilated_pillager",
+        "mutationcraft:assimilated_wandering_trader",
+        "mutationcraft:human_stage_1",
+        "mutationcraft:human_stage_2",
+        "mutationcraft:human_stage_3",
+        "mutationcraft:necroptor",
+        "mutationcraft:reductor",
+        "mutationcraft:hazmat_guard",
+        "mutationcraft:scientist",
+        "mutationcraft:assimilated_bear",
+        "mutationcraft:assimilated_donkey",
+        "mutationcraft:assimilated_evoker",
+        "mutationcraft:assimilated_fox",
+        "mutationcraft:assimilated_vex",
+        "mutationcraft:assimilated_wolf",
+        "mutationcraft:carnivorae",
+        "mutationcraft:hazmat_flamethrower",
+        "mutationcraft:hazmat_helicopter",
+        "mutationcraft:hazmat_leader",
+        "mutationcraft:hazmat_medic",
+        "mutationcraft:the_intoxicator",
+        "minecraft:salmon",
+        "iter_rpg:air_elemental",
+        "minecraft:enderman",
+        "ars_nouveau:wilden_hunter",
+        "ylf_mod:ylf",
+        "born_in_chaos_v1:baby_skeleton",
+        "mekanismadditions:baby_skeleton",
+        "born_in_chaos_v1:baby_skeleton_2",
+        "born_in_chaos_v1:baby_skeleton_minion",
+        "minecraft:witch",
+        "minecraft:drowned",
+        "minecraft:glow_squid",
+        "alexsmobs:frilled_shark",
+        "alexsmobs:giant_squid",
+        "alexsmobs:cockroach",
+        "minecraft:pufferfish",
+        "alexsmobs:fly",
+        "vinery:wandering_winemaker",
+        "minecraft:pillager",
+        "minecraft:vindicator",
+        "alexsmobs:lobster",
+        "alexsmobs:cachalot_whale"
+      ],
+
+      "result": "deny"
+    },
+    {
+      "mod": [
+
+      "gothic",
+      "tameablebeasts",
+      "bookwyrms",
+      "weirdmobs",
+      "realmrpg_wyrms",
+      "aquaculture"
+      
+      ],
+      
+      "result": "deny"
+    },
+    {
+      "dimension": [
+        "wabworldgen:tutorial",
+        "minecraft:overworld",
+        "panthalassa:panthalassa",
+        "tectonicworld:tectonic"
+
+      ],
+      "mod": [
+        "panthalassa"
+      ],
+      "mincount": {
+        "amount": 40,
+        "mod": "panthalassa",
+        "perchunk": true
+      },
+      "result": "deny"
+    },
+    {
+      "dimension": [
+        "wabworldgen:tutorial",
+        "minecraft:overworld",
+        "panthalassa:panthalassa",
+        "tectonicworld:tectonic"
+
+      ],
+      "mod": [
+        "medieval_craft_weapons"
+      ],
+      "mincount": {
+        "amount": 40,
+        "mod": "medieval_craft_weapons",
+        "perchunk": true
+      },
+      "result": "deny"
+    },
+    
+    {
+      "dimension": [
+        "theabyss:the_abyss",
+        "deepwhisperer:deep_space"
+
+
+      ],
+      "mincount": {
+        "amount": 30,
+        "mod": "mutationcraft",
+        "perchunk": true
+      },
+      "mod": [
+        "mutationcraft"
+      ],
+      "result": "deny"
+    },
+    {
+      "dimension": [
+        "theabyss:the_abyss"
+
+
+      ],
+      "mincount": {
+        "amount": 30,
+        "mod": "theabyss",
+        "perchunk": true
+      },
+      "mod": [
+        "mutationcraft"
+      ],
+      "result": "deny"
+    },
+    {
+      "dimension": [
+        "wabworldgen:tutorial",
+        "minecraft:overworld",
+        "panthalassa:panthalassa",
+        "tectonicworld:tectonic"
+
+      ],
+      "mob": [
+        "mutantmonsters:mutant_enderman"
+      ],
+      "result": "deny"
+    },
+    {
+      "dimension": [
+        "wabworldgen:tutorial",
+        "minecraft:overworld",
+        "tectonicworld:tectonic"
+
+
+      ],
+      "mincount": {
+        "amount": 70,
+        "mod": "minecraft",
+        "perchunk": true
+      },
+      "mod": [
+        "minecraft"
+      ],
+      "result": "deny"
+    },
+    {
+    
+      "mincount": {
+        "amount": 10,
+        "mod": "minecraft",
+        "perchunk": true
+      },
+      "structure": [
+          "minecraft:pillager_outpost"
+  ],
+      
+      "dimension": [
+        
+        "tectonicworld:tectonic",
+        "minecraft:overworld",
+        "wabworldgen:tutorial",
+        "deepwhisperer:deep_space"
+    ],
+    "result": "deny"
+    }
+
+  ]

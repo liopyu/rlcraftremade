@@ -1,0 +1,28 @@
+{
+    "structures": [
+      {
+        "structure": "seafaring:oceandungeon",
+        "weight": 1
+      },
+      {
+        "structure": "seafaring:oceandungeon2",
+        "weight": 1
+      }
+    ],
+    "placement": {
+      "type": "minecraft:random_spread",
+      "spacing": 80,
+      "separation": 50,
+      "salt": 118394738,
+      "exclusion_zone":{
+    "chunk_count":16,
+    "other_set":[
+    "seafaring:treevillage",
+    "keebsz:cobblestone_battletower",
+    "betteroceanmonuments:ocean_monument",
+    "seafaring:newmoonport",
+    "seafaring:pub_island"
+    ]
+    }
+    }
+  }

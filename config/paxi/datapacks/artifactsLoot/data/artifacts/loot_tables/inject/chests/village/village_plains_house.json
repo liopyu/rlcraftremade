@@ -1,0 +1,21 @@
+{
+  "type": "artifacts:roll_loot_table",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "conditions": [
+        {
+          "condition": "artifacts:configurable_random_chance",
+          "default_probability": 0.02
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "artifacts:villager_hat"
+        }
+      ],
+      "rolls": 0.0
+    }
+  ]
+}

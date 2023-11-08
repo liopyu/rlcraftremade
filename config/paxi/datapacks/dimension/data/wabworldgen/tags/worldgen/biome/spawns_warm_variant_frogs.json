@@ -1,0 +1,26 @@
+{
+  "values": [
+    "minecraft:desert",
+    "minecraft:warm_ocean",
+    "#minecraft:is_jungle",
+    "#minecraft:is_savanna",
+    "#minecraft:is_nether",
+    "#minecraft:is_badlands",
+    "minecraft:mangrove_swamp",
+	"skylands:badlands",
+	"skylands:desert",
+	"skylands:faux_basalt_deltas",
+	"skylands:faux_crimson_forest",
+	"skylands:faux_nether_wastes",
+	"skylands:faux_soul_sand_valley",
+	"skylands:faux_warped_forest",
+	"skylands:jungle",
+	"skylands:mangrove_swamp",
+	"skylands:mushroom_fields",
+    "skylands:plains",
+	"skylands:savanna",
+	"skylands:sparse_jungle",
+	"skylands:sunflower_plains",
+	"skylands:wooded_badlands"	
+  ]
+}

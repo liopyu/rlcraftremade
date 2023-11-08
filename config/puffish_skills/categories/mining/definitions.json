@@ -1,0 +1,156 @@
+{
+	"fortune+0.1": {
+		"title": "+0.1 Fortune",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "diamond"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.fortune",
+					"value": 0.1,
+					"operation": "addition"
+				}
+			}
+		]
+	},
+	"rootfortune+0.1": {
+		"title": "Lucky!",
+		"frame": "challenge",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "artifacts:lucky_scarf"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.fortune",
+					"value": 0.1,
+					"operation": "addition"
+				}
+			},
+			{
+				"type": "puffish_skills:command",
+				"data": {
+					"command": "execute at @s run execute as @s run advancement grant @s only minecraft:story/theseskillsaremine"
+				}
+			}
+		]
+	},
+	"mining_speed+1%": {
+		"title": "+3% Mining Speed",
+		"icon": {
+			"type": "effect",
+			"data": {
+				"effect": "haste"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.mining_speed",
+					"value": 0.03,
+					"operation": "multiply_base"
+				}
+			}
+		]
+	},
+	"reach": {
+		"title": "+0.5 Reach Distance",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "theabyss:crystal_hand"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "forge:reach_distance",
+					"value": 0.5,
+					"operation": "addition"
+				}
+			}
+		]
+	},
+	"rootreach": {
+		"title": "Long Arms",
+		"frame": "challenge",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "quark:forgotten_hat"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "forge:reach_distance",
+					"value": 1,
+					"operation": "addition"
+				}
+			},
+			{
+				"type": "puffish_skills:command",
+				"data": {
+					"command": "execute at @s run execute as @s run advancement grant @s only minecraft:story/theseskillsaremine"
+				}
+			}
+		]
+	},
+	"+25%experiencegained": {
+		"title": "+10% Xp Gained",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "minecraft:experience_bottle"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "apotheosis:experience_gained",
+					"value": 0.1,
+					"operation": "addition"
+				}
+			}
+		]
+	},
+	"root+25%experiencegained": {
+		"title": "Experienced",
+		"frame": "challenge",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "create:experience_nugget"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "apotheosis:experience_gained",
+					"value": 0.125,
+					"operation": "addition"
+				}
+			},
+			{
+				"type": "puffish_skills:command",
+				"data": {
+					"command": "execute at @s run execute as @s run advancement grant @s only minecraft:story/theseskillsaremine"
+				}
+			}
+		]
+	}
+}

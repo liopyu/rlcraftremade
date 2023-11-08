@@ -1,0 +1,87 @@
+{
+  "name": "skylands:ocean_ruins_warm_small",
+  "fallback": "minecraft:empty",
+  "elements": [
+    { 
+      "weight": 8,
+      "element": {
+        "location": "skylands:underwater_ruin/warm_null",
+        "processors": "minecraft:empty",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    { 
+      "weight": 1,
+      "element": {
+        "location": "skylands:underwater_ruin/warm_1",
+        "processors": "minecraft:empty",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    { 
+      "weight": 1,
+      "element": {
+        "location": "skylands:underwater_ruin/warm_2",
+        "processors": "minecraft:empty",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    { 
+      "weight": 1,
+      "element": {
+        "location": "skylands:underwater_ruin/warm_3",
+        "processors": "minecraft:empty",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    { 
+      "weight": 1,
+      "element": {
+        "location": "skylands:underwater_ruin/warm_4",
+        "processors": "minecraft:empty",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    { 
+      "weight": 1,
+      "element": {
+        "location": "skylands:underwater_ruin/warm_5",
+        "processors": "minecraft:empty",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    { 
+      "weight": 1,
+      "element": {
+        "location": "skylands:underwater_ruin/warm_6",
+        "processors": "minecraft:empty",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    { 
+      "weight": 1,
+      "element": {
+        "location": "skylands:underwater_ruin/warm_7",
+        "processors": "minecraft:empty",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    { 
+      "weight": 1,
+      "element": {
+        "location": "skylands:underwater_ruin/warm_8",
+        "processors": "minecraft:empty",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    }
+  ]
+}

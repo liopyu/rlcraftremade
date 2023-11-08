@@ -1,0 +1,15 @@
+{
+    "values": [
+        "minecraft:stone",
+        "minecraft:coal_ore",
+        "minecraft:iron_ore",
+        "minecraft:lapis_ore",
+        "minecraft:copper_ore",
+        "minecraft:cobblestone",
+        "minecraft:blackstone",
+        "minecraft:blackstone_wall",
+        "minecraft:blackstone_slab",
+        "minecraft:blackstone_stairs",
+        "minecraft:diamond_ore"
+    ]
+}

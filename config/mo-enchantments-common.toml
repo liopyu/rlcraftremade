@@ -1,0 +1,88 @@
+
+["Disable Enchants"]
+	"Allow Jumper" = true
+	"Allow Pain Power" = true
+	"Allow Curse of Demolition" = true
+	"Allow Ice Aspect" = true
+	"Allow Lightness" = true
+	"Allow Reach" = true
+	"Allow Floating" = true
+	"Allow Bait" = true
+	"Allow Blocking" = true
+	"Allow Boosting" = true
+	"Allow Lava Walker" = true
+	"Allow Spikes" = true
+	"Allow Reflection" = true
+	"Allow Acceleration" = true
+	"Allow Enhancement" = true
+	"Allow Lenght" = true
+	"Allow Blaze Guard" = true
+	"Allow Soring" = true
+	"Allow Chill Guard" = true
+
+[Execution]
+	#Determines the mininmum amount of health to execute a target. The operation is (this number x execution leve)
+	"Min health threshold" = 2.5
+	#Determines wether execution should work on bosses
+	"Can execute bosses" = true
+	#Should Execution exist?
+	"Allow Execution" = true
+
+[Wave]
+	#Determines wether the wave enchantment should show particles
+	"Show Wave" = true
+	#Determines how much knockback wave should apply
+	"Wave kb" = 0.9
+	#Should Wave exist?
+	"Allow Wave" = true
+
+["Poison Aspect"]
+	#Determines the amount of ticks Poison Aspect should poison for
+	"Poison Ticks" = 120.0
+	#Should Poison Aspect exist?
+	"Allow Poison Aspect" = true
+
+["Auto Smelting"]
+	#Should Auto Smelting drop additional xp? (Not much)
+	"Drop extra xp" = true
+	#Should Auto-Smelting exist?
+	"Allow Auto Smelting" = true
+
+[Rebirth]
+	#How much damage should Rebirth do to a shield?
+	"Rebirth Damage" = 50.0
+	#Should Rebirth exist?
+	"Allow Rebirth" = true
+
+[Stunning]
+	#How many ticks should Stunning slow for? (set to 0 to disable its slow effect)
+	SlownessTicks = 60.0
+	#How many ticks should Stunning weaken the enemy for?
+	"Weakness Ticks" = 60.0
+	#Should Stunning exist?
+	"Allow Stunning" = true
+
+[Agility]
+	#This value determines the percentage of speed that Agility should add
+	"Speed Percentage" = 15.0
+	#Should Agility exist?
+	"Allow Agility" = true
+
+["Curse of Slowness"]
+	#This value determines the percentage of speed that Curse of Slowness should remove
+	"Slowness percentage" = 15.0
+	#Should Curse of Slowness exist?
+	"Allow Curse of Slowness" = true
+
+["Blood Blade"]
+	#Determines the amount of HP divided by 3 that Blood Blade will recuperate each level
+	"HP recuperated" = 2.0
+	#Should Blood Blade exist?
+	"Allow Blood Blade" = true
+
+["Sunlight's Blessing"]
+	#Determines the amount of seconds Sunlight's Blessing takes to repair a single use of an item
+	"Sunlight Seconds" = 5.0
+	#Should Sunlight's Blessing exist?
+	"Allow Sunlight's Blessing" = true
+

@@ -1,0 +1,24 @@
+{
+  "values": [
+    "minecraft:desert",
+    "minecraft:plains",
+    "minecraft:savanna",
+    "minecraft:snowy_plains",
+    "minecraft:taiga",
+    "#minecraft:is_mountain",
+    "minecraft:grove",
+    "skylands:badlands",
+    "skylands:desert",
+	"skylands:meadow",
+	"skylands:plains",
+	"skylands:savanna",
+	"skylands:snowy_plains",
+	"skylands:taiga",
+	"skylands:frozen_wastes",
+	"skylands:grove",
+	"skylands:stony_wastes",
+	"skylands:windswept_forest",
+	"skylands:windswept_plains",
+	"skylands:wooded_badlands"
+  ]
+}

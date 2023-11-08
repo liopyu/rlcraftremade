@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    "#tectonic:all_tectonic_biomes",
+    "#cavernous:is_caves_not_deep_dark"
+  ]
+}

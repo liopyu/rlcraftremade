@@ -1,0 +1,27 @@
+{
+  "values": [
+    "#minecraft:is_beach",
+    "#minecraft:is_river",
+    "#minecraft:is_taiga",
+    "#minecraft:is_forest",
+    "minecraft:mushroom_fields",
+    "minecraft:ice_spikes",
+    "minecraft:dripstone_caves",
+    "minecraft:lush_caves",
+    "minecraft:savanna",
+    "minecraft:snowy_plains",
+    "minecraft:plains",
+    "minecraft:sunflower_plains",
+    "skylands:birch_forest",
+	"skylands:dark_forest",
+    "skylands:flower_forest",
+    "skylands:forest",
+    "skylands:old_growth_taiga",
+	"skylands:plains",
+	"skylands:savanna",
+	"skylands:snowy_plains",
+	"skylands:snowy_taiga",
+	"skylands:sunflower_plains",
+	"skylands:taiga"
+  ]
+}

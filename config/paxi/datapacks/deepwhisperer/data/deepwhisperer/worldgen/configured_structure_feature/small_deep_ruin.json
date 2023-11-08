@@ -1,0 +1,13 @@
+{
+    "type": "minecraft:village",
+    "biomes": [
+        "deepwhisperer:deep_wastes",
+        "deepwhisperer:sparse_coals"
+    ],
+    "adapt_noise": true,
+    "spawn_overrides": {},
+    "config": {
+        "start_pool": "deepwhisperer:deep_ruin/small_deep_ruin",
+        "size": 7
+    }
+}

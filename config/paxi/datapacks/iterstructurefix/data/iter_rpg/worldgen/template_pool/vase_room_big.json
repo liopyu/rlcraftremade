@@ -1,0 +1,36 @@
+{
+    "name": "iter_rpg:vase_room_big",
+    "fallback": "minecraft:empty",
+    "elements": [
+        {
+            "weight": 1,
+            "element": {
+                "projection": "rigid",
+                "element_type": "single_pool_element",
+                "location": "iter_rpg:vase_room_big",
+                "processors": "minecraft:empty"
+            }
+
+        },
+        {
+            "weight": 2,
+            "element": {
+                "projection": "rigid",
+                "element_type": "single_pool_element",
+                "location": "iter_rpg:vase_room_medium",
+                "processors": "minecraft:empty"
+            }
+
+        },
+        {
+            "weight": 3,
+            "element": {
+                "projection": "rigid",
+                "element_type": "single_pool_element",
+                "location": "iter_rpg:vase_room_small",
+                "processors": "minecraft:empty"
+            }
+
+        }
+    ]
+}

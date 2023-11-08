@@ -1,0 +1,60 @@
+{
+	"elements": [
+		{
+			"element": {
+				"element_type": "minecraft:single_pool_element",
+				"location": "castle_dungeons:illager_castle/spawners/cave_spider",
+				"processors": "minecraft:empty",
+				"projection": "rigid"
+			},
+			"weight": 5
+		},
+		{
+			"element": {
+				"element_type": "minecraft:single_pool_element",
+				"location": "castle_dungeons:illager_castle/spawners/witch",
+				"processors": "minecraft:empty",
+				"projection": "rigid"
+			},
+			"weight": 5
+		},
+		{
+			"element": {
+				"element_type": "minecraft:single_pool_element",
+				"location": "castle_dungeons:illager_castle/spawners/decaying_zombie",
+				"processors": "minecraft:empty",
+				"projection": "rigid"
+			},
+			"weight": 5
+		},
+		{
+			"element": {
+				"element_type": "minecraft:single_pool_element",
+				"location": "castle_dungeons:illager_castle/spawners/decrepit_skeleton",
+				"processors": "minecraft:empty",
+				"projection": "rigid"
+			},
+			"weight": 5
+		},
+		{
+			"element": {
+				"element_type": "minecraft:single_pool_element",
+				"location": "castle_dungeons:illager_castle/spawners/skeleton",
+				"processors": "minecraft:empty",
+				"projection": "rigid"
+			},
+			"weight": 5
+		},
+		{
+			"element": {
+				"element_type": "minecraft:single_pool_element",
+				"location": "castle_dungeons:illager_castle/spawners/zombie",
+				"processors": "minecraft:empty",
+				"projection": "rigid"
+			},
+			"weight": 5
+		}
+	],
+	"fallback": "minecraft:empty",
+	"name": "castle_dungeons:illager_castle/spawners"
+}

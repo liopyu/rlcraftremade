@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "iter_rpg:cloud_block"
+    },
+    "1": {
+      "item": "iter_rpg:cloud_block"
+    },
+    "2": {
+      "item": "iter_rpg:cloud_block"
+    },
+    "3": {
+      "item": "iter_rpg:sky_ingot"
+    },
+    "4": {
+      "item": "minecraft:clock"
+    },
+    "5": {
+      "item": "iter_rpg:sky_ingot"
+    },
+    "7": {
+      "item": "iter_rpg:sky_ingot"
+    }
+  },
+  "result": {
+    "item": "iter_rpg:thunderclap",
+    "count": 1
+  }
+}

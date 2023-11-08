@@ -1,0 +1,24 @@
+{
+    "structures": [
+      {
+        "structure": "seafaring:brewery",
+        "weight": 1
+      }
+    ],
+    "placement": {
+      "type": "minecraft:random_spread",
+      "spacing": 110,
+      "separation": 70,
+      "salt": 182937465,
+      "exclusion_zone":{
+        "chunk_count":16,
+        "other_set":[
+        "seafaring:treevillage",
+        "keebsz:cobblestone_battletower",
+        "seafaring:oceandungeon",
+        "seafaring:oceandungeon2",
+        "seafaring:pub_island"
+        ]
+        }
+    }
+  }

@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5",
+    "67 "
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:heart_of_the_sea"
+    },
+    "1": {
+      "item": "minecraft:prismarine"
+    },
+    "2": {
+      "item": "iter_rpg:ocean_ingot"
+    },
+    "3": {
+      "item": "minecraft:prismarine"
+    },
+    "5": {
+      "item": "minecraft:prismarine_shard"
+    },
+    "6": {
+      "item": "iter_rpg:ocean_ingot"
+    },
+    "7": {
+      "item": "minecraft:prismarine_shard"
+    }
+  },
+  "result": {
+    "item": "iter_rpg:driftbow",
+    "count": 1
+  }
+}

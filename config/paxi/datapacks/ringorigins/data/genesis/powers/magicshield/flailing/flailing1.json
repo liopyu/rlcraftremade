@@ -1,0 +1,15 @@
+{
+    "type": "origins:conditioned_attribute",
+        "condition": {
+            "type": "origins:scoreboard",
+            "objective": "flailing",
+            "comparison": "==",
+            "compare_to": 1
+        },
+    "modifier": {
+        "name": "Max health increase",
+        "attribute": "minecraft:generic.attack_speed",
+        "value": 0.03,
+        "operation": "multiply_base"
+    }
+}

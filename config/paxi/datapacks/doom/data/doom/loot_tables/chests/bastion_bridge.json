@@ -1,0 +1,40 @@
+{
+    "pools": [
+      {
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "doom:inmortalsphere"
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "doom:invisiblesphere"
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "doom:megasphere"
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "doom:powersphere"
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "doom:soulcube"
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "doom:daisy"
+          }
+        ]
+      }
+    ]
+  }
+  

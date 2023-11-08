@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23",
+    "4 "
+  ],
+  "key": {
+    "0": {
+      "item": "iter_rpg:magmanum_chunk"
+    },
+    "1": {
+      "item": "iter_rpg:magmanum_chunk"
+    },
+    "2": {
+      "item": "iter_rpg:netherite_scythe"
+    },
+    "3": {
+      "item": "minecraft:netherite_ingot"
+    },
+    "4": {
+      "item": "minecraft:blaze_rod"
+    }
+  },
+  "result": {
+    "item": "iter_rpg:the_harvest",
+    "count": 1
+  }
+}

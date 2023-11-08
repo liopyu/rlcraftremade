@@ -1,0 +1,18 @@
+{
+	"structures": [
+		{
+			"structure": "nova_structures:well_dark_oak",
+			"weight": 1
+		}
+	],
+	"placement": {
+		"exclusion_zone": {
+      "other_set": "minecraft:villages",
+      "chunk_count": 10
+    },
+	"spacing": 70,
+	"separation": 30,
+		"salt": 430930,
+		"type": "minecraft:random_spread"
+	}
+}

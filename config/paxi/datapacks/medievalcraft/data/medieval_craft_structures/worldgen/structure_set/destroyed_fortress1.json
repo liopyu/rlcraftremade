@@ -1,0 +1,30 @@
+{
+	"structures": [
+		{
+			"structure": "medieval_craft_structures:destroyed_fortress1",
+			"weight": 1
+		},
+		{
+			"structure": "medieval_craft_structures:house",
+			"weight": 1
+		}
+	],
+	"placement": {
+		
+		"spacing": 50,
+		"separation": 30,
+		"salt": 1111128483,
+		"type": "minecraft:random_spread",
+		"exclusion_zone":{
+			"chunk_count":16,
+			"other_set":[
+			"seafaring:treevillage",
+			"keebsz:cobblestone_battletower",
+			"betteroceanmonuments:ocean_monument",
+			"seafaring:newmoonport",
+			"medieval_craft_structures:castelo0",
+			"medieval_craft_structures:barbarian_village"
+			]
+			}
+	}
+}

@@ -1,0 +1,13 @@
+{
+    "replace": false,
+    "values": [
+        "#minecraft:is_hill",
+        "#minecraft:is_mountain",
+        "#minecraft:is_taiga",
+        "minecraft:plains",
+        "minecraft:windswept_savanna",
+        "#minecraft:is_overworld"
+        
+
+    ]
+}

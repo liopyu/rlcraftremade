@@ -1,0 +1,63 @@
+
+["General Settings"]
+	#Completely disable sleeping. Default: false
+	disableSleeping = false
+	#Disable setting your spawnpoint by right-clicking on a bed. Default: false
+	disableSetSpawnpoint = false
+	#Disable skipping the time to day when sleeping. Default: false
+	disableTimeSkip = false
+	#Disable being kicked out of bed after sleeping. Default: false
+	#You'll still be kicked out of bed at daytime unless disableTimeCheck is enabled.
+	disableForceWakeUp = false
+	#If enabled, you can sleep at any time of day. Default: false
+	disableSleepTimeCheck = false
+
+["Multiplayer Sleep Settings"]
+	#The percentage of total players who must be sleeping to change time (0-100). Default: 50
+	#Even if this and playersSleepingAmount are 0, someone must sleep to trigger time changes.
+	playersSleepingPercentage = 50.0
+	#A flat amount of players who must be sleeping to change time. Default: 0
+	playersSleepingAmount = 0
+	#Whether both options above must be met to change time, or just one. Default: false
+	bothCriteriaRequired = false
+	#Whether sleeping percentage calculations should ignore players in Creative mode. Default: true
+	sleepCountIgnoreCreative = true
+	#Whether sleeping percentage calculations should ignore players in Spectator mode. Default: true
+	sleepCountIgnoreSpectator = true
+	#Completely disable the monster check when trying to sleep. Default: false
+	disableSleepMonsterCheck = false
+	#The radius in blocks the game checks for monsters when trying to sleep. Default: 5.
+	sleepMonsterRadius = 5
+
+["Sleeping Effect Settings"]
+	#When sleeping, players will be healed for this much health per second. Set to 0 to disable. Default: 0
+	sleepHealing = 0.0
+	#When enough players are sleeping, time will progress at this multiplier. Set to 1 to disable. Default: 1
+	sleepTimescale = 10
+
+["Phantom Settings"]
+	#Completely disable phantoms from spawning as a result of not sleeping. Default: false
+	disablePhantoms = false
+	#If enabled, phantoms will grow larger the longer you haven't slept (a cut vanilla value). Default: false
+	#Does not affect naturally spawning phantoms.
+	phantomsGrow = false
+	#If enabled, phantoms will only attack players who have stayed awake long enough for them
+	#to spawn. Default: true.
+	phantomsOnlyAttackInsomniacs = false
+	#The number of ticks a player must stay awake for before phantoms can spawn on them.
+	#24000 ticks = 1 day. Default: 72000
+	phantomSpawnTimeRequirement = 72000
+	#The cooldown between phantoms spawning on a player. 24000 ticks = 1 day. Default: 24000
+	phantomSpawnTimeCooldown = 24000
+	#When phantoms spawn on an eligible player, how many spawn by default? Default: 3
+	phantomSpawnBaseAmount = 3.0
+	#How many extra phantoms to spawn for each day the player has gone without sleeping
+	#Decimals and negatives supported, will round up. Default: 1
+	phantomSpawnExtraAmount = 1.0
+	#The spawn modifier for Phantoms in the overworld. (0-1) Default: 0At 1, Phantoms will spawn as often as zombies, skeletons, spiders and creepers. At 0, phantoms will notspawn naturally. Phantoms only spawn at night on blocks exposed to the sky.
+	phantomNaturalSpawnOverworld = 0.0
+	#The spawn modifier for Phantoms in the Nether. (0-1) Default: 0At 1, Phantoms will spawn as often as zombified piglins. At 0, none will spawn.
+	phantomNaturalSpawnNether = 0.0
+	#The spawn modifier for Phantoms in the End. (0-1) Default: 0At 1, Phantoms will spawn 10x as often as endermen (so low values work best!)
+	phantomNaturalSpawnEnd = 0.0
+

@@ -1,0 +1,58 @@
+{
+  "structures": [
+    {
+      "structure": "keebsz:stone_battletower",
+      "weight": 1
+    },
+	{
+      "structure": "keebsz:cobblestone_battletower",
+      "weight": 1
+    },
+	{
+      "structure": "keebsz:sandstone_battletower",
+      "weight": 1
+    },
+	{
+      "structure": "keebsz:packed_ice_battletower",
+      "weight": 1
+    },
+	{
+      "structure": "keebsz:stonebrick_battletower",
+      "weight": 1
+    },
+	{
+      "structure": "keebsz:mudbrick_battletower",
+      "weight": 1
+    },
+	{
+      "structure": "keebsz:red_sandstone_battletower",
+      "weight": 1
+    },
+	{
+      "structure": "keebsz:stone_battletower_underground",
+      "weight": 1
+    },
+	{
+      "structure": "keebsz:cobblestone_battletower_underground",
+      "weight": 1
+    },
+	{
+      "structure": "keebsz:stonebrick_battletower_underground",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 60,
+    "separation": 30,
+    "salt": 1486539984,
+    "exclusion_zone":{
+      "chunk_count":12,
+      "other_set":[
+      "seafaring:treevillage",
+      "betteroceanmonuments:ocean_monument",
+      "seafaring:newmoonport"
+      ]
+      }
+  }
+}

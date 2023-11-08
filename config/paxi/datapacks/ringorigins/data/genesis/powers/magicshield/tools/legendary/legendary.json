@@ -1,0 +1,75 @@
+{
+    "type": "origins:multiple",
+    "name": "Arcane",
+    
+    "arcane": 
+    {
+      "type": "origins:modify_attribute",
+      "attribute": "minecraft:generic.attack_speed",
+      "modifier": {
+          "operation": "multiply_base",
+          "value": 0.1
+      }
+  },
+  "breakspeed": 
+  {
+    "type": "origins:modify_break_speed",
+    "modifier": {
+        "operation": "multiply_base",
+        "value": 0.1
+    }
+},
+  "damage": 
+    {
+        "type": "origins:modify_attribute",
+        "attribute": "minecraft:generic.attack_damage",
+        "modifier": {
+            "operation": "multiply_base",
+            "value": 0.15
+        }
+  },
+  "big":{
+    "type": "origins:action_on_callback",
+    "entity_action_chosen": {
+      "type": "origins:and",
+      "actions": [
+          {
+        "type": "origins:execute_command",
+        "command": "attribute @s forge:reach_distance base set 5"
+    }
+  ]
+},
+    
+    "entity_action_respawned": {
+      "type": "origins:and",
+      "actions": [
+        {
+          "type": "origins:execute_command",
+          "command": "attribute @s forge:reach_distance base set 5"
+      }
+  ]
+},
+    "execute_chosen_when_orb": true,
+    "entity_action_lost": {
+      "type": "origins:and",
+      "actions": [
+        {
+          "type": "origins:execute_command",
+          "command": "attribute @s forge:reach_distance base set 4.5"
+      }
+]
+},
+  "entity_action_added": {
+      "type": "origins:and",
+      "actions": [
+        
+          {
+              "type": "origins:execute_command",
+              "command": "attribute @s forge:reach_distance base set 5"
+          }
+  ]
+}
+  
+  
+  }
+ }

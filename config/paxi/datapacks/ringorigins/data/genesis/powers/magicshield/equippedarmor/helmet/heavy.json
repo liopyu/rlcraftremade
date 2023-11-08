@@ -1,0 +1,14 @@
+{
+    "type": "origins:conditioned_attribute",
+    "condition": {
+     "type": "origins:scoreboard",
+     "objective": "heavyhLevel",
+     "comparison": "==",
+     "compare_to": 1
+ },
+   "modifier": {
+       "attribute": "minecraft:generic.movement_speed",
+       "value": -0.1,
+       "operation": "multiply_base"
+   }
+}

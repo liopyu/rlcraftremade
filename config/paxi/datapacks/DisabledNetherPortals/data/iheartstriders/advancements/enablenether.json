@@ -1,0 +1,33 @@
+{
+    "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
+    "display": {
+        "title": {
+            "text": "Free The Nether!"
+        },
+        "description": {
+            "text": "Do I Really Have To Jump Down There?"
+        },
+        "icon": {
+            "item": "minecraft:red_nether_bricks"
+        },
+        "frame": "challenge",
+        "show_toast": false,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "criteria": {
+        "entered_nether": {
+          "conditions": {
+            "to": "minecraft:the_nether"
+          },
+          "trigger": "minecraft:changed_dimension"
+        }
+      },
+    "requirements": [
+        [
+          "entered_nether"
+        ]
+      ],
+      
+    "parent": "iheartstriders:disablenether"
+}

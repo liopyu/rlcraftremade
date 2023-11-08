@@ -1,0 +1,35 @@
+{
+    "temperature": 0.8,
+    "downfall": 0.4,
+    "precipitation": "none",
+    "temperature_modifier": "none",
+    "category": "plains",
+    "creature_spawn_probability": 0,
+    "effects": {
+        "sky_color": 0,
+        "fog_color": 3487029,
+        "water_color": 4802889,
+        "water_fog_color": 2697513,
+        "grass_color": 2434341,
+        "foliage_color": 2763306,
+        "grass_color_modifier": "none",
+        "particle": {
+            "options": {
+                "type": "minecraft:warped_spore"
+            },
+            "probability": 0.015
+        }
+    },
+    "spawners": {},
+    "spawn_costs": {},
+    "carvers": {},
+    "features": [
+        [
+            "minecraft:spring_water"
+        ],
+        [
+            "minecraft:ore_coal_lower",
+            "minecraft:ore_gravel"
+        ]
+    ]
+}

@@ -1,0 +1,28 @@
+{
+  "type": "iter_rpg:abyssquartz_crystal",
+  "config": {
+    "allowed_placement": {
+      "type": "minecraft:matching_blocks",
+      "blocks": "minecraft:stone"
+    },
+    "direction": "up",
+    "layers": [
+      {
+        "height": {
+          "type": "biased_to_bottom",
+          "value": {
+            "min_inclusive": 2,
+            "max_inclusive": 5
+          }
+        },
+        "provider": {
+          "type": "minecraft:simple_state_provider",
+          "state": {
+            "Name": "iter_rpg:void_quartz_block"
+          }
+        }
+      }
+    ],
+    "prioritize_tip": false
+  }
+}

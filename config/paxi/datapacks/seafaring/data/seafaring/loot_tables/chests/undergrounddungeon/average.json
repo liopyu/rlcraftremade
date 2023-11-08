@@ -1,0 +1,2240 @@
+{
+    "type": "minecraft:chest",
+    "pools": [
+      {
+        "rolls": {
+          "type": "minecraft:uniform",
+          "min": 1,
+          "max": 2
+        },
+        "bonus_rolls": 0.0,
+        "entries": [
+          {
+            "type": "minecraft:empty",
+            "weight": 500
+          },
+          {
+            "type": "placebo:stack_entry",
+            "weight": 10,
+            "quality": 1,
+            "functions": [
+              {
+                "function": "minecraft:enchant_randomly"
+              }
+            ],
+            "min": 1,
+            "max": 1,
+            "stack": {
+              "item": "iter_rpg:forest_sword",
+              "count": 1,
+              "nbt": "{Damage:0}"
+            }
+          },
+          {
+            "type": "placebo:stack_entry",
+            "weight": 10,
+            "quality": 1,
+            "functions": [
+              {
+                "function": "minecraft:enchant_randomly"
+              }
+            ],
+            "min": 1,
+            "max": 1,
+            "stack": {
+              "item": "iter_rpg:forest_pickaxe",
+              "count": 1,
+              "nbt": "{Damage:0}"
+            }
+          },
+          
+          {
+            "type": "placebo:stack_entry",
+            "weight": 10,
+            "quality": 1,
+            "functions": [
+              {
+                "function": "minecraft:enchant_randomly"
+              }
+            ],
+            "min": 1,
+            "max": 1,
+            "stack": {
+              "item": "iter_rpg:forest_axe",
+              "count": 1,
+              "nbt": "{Damage:0}"
+            }
+          },
+          {
+            "type": "placebo:stack_entry",
+            "weight": 10,
+            "quality": 1,
+            "functions": [
+              {
+                "function": "minecraft:enchant_randomly"
+              }
+            ],
+            "min": 1,
+            "max": 1,
+            "stack": {
+              "item": "iter_rpg:forest_shovel",
+              "count": 1,
+              "nbt": "{Damage:0}"
+            }
+          },
+          {
+            "type": "placebo:stack_entry",
+            "weight": 10,
+            "quality": 1,
+            "functions": [
+              {
+                "function": "minecraft:enchant_randomly"
+              }
+            ],
+            "min": 1,
+            "max": 1,
+            "stack": {
+              "item": "iter_rpg:forest_sword",
+              "count": 1,
+              "nbt": "{Damage:0}"
+            }
+          },
+          {
+            "type": "placebo:stack_entry",
+            "weight": 10,
+            "quality": 1,
+            "functions": [
+              {
+                "function": "minecraft:enchant_randomly"
+              }
+            ],
+            "min": 1,
+            "max": 1,
+            "stack": {
+              "item": "iter_rpg:forest_armor_helmet",
+              "count": 1,
+              "nbt": "{Damage:0}"
+            }
+          },
+          {
+            "type": "placebo:stack_entry",
+            "weight": 10,
+            "quality": 1,
+            "functions": [
+              {
+                "function": "minecraft:enchant_randomly"
+              }
+            ],
+            "min": 1,
+            "max": 1,
+            "stack": {
+              "item": "iter_rpg:forest_armor_chestplate",
+              "count": 1,
+              "nbt": "{Damage:0}"
+            }
+          },
+          {
+            "type": "placebo:stack_entry",
+            "weight": 10,
+            "quality": 1,
+            "functions": [
+              {
+                "function": "minecraft:enchant_randomly"
+              }
+            ],
+            "min": 1,
+            "max": 1,
+            "stack": {
+              "item": "iter_rpg:forest_armor_boots",
+              "count": 1,
+              "nbt": "{Damage:0}"
+            }
+          },
+          {
+            "type": "placebo:stack_entry",
+            "weight": 10,
+            "quality": 1,
+            "functions": [
+              {
+                "function": "minecraft:enchant_randomly"
+              }
+            ],
+            "min": 1,
+            "max": 1,
+            "stack": {
+              "item": "iter_rpg:forest_armor_leggings",
+              "count": 1,
+              "nbt": "{Damage:0}"
+            }
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 1,
+            "quality": 4,
+            "name": "potion_rings_rebooted:potion_ring_of_jump_boost"
+          },
+          
+          {
+            "type": "placebo:stack_entry",
+            "weight": 10,
+            "quality": 1,
+            "functions": [
+              {
+                "function": "minecraft:enchant_randomly"
+              }
+            ],
+            "min": 1,
+            "max": 2,
+            "stack": {
+              "item": "minecraft:book",
+              "count": 1,
+              "nbt": "{Damage:0}"
+            }
+          },
+          {
+            "type": "placebo:stack_entry",
+            "weight": 1,
+            "quality": 1,
+            "functions": [
+              {
+                "function": "minecraft:enchant_randomly"
+              }
+            ],
+            "min": 1,
+            "max": 1,
+            "stack": {
+              "item": "magistuarmory:diamond_pike",
+              "count": 1,
+              "nbt": "{Damage:0}"
+            }
+          },
+          {
+            "type": "placebo:stack_entry",
+            "weight": 1,
+            "quality": 1,
+            "functions": [
+              {
+                "function": "minecraft:enchant_randomly"
+              }
+            ],
+            "min": 1,
+            "max": 1,
+            "stack": {
+              "item": "magistuarmory:diamond_estoc",
+              "count": 1,
+              "nbt": "{Damage:0}"
+            }
+          },
+          {
+            "type": "placebo:stack_entry",
+            "weight": 1,
+            "quality": 1,
+            "functions": [
+              {
+                "function": "minecraft:enchant_randomly"
+              }
+            ],
+            "min": 1,
+            "max": 1,
+            "stack": {
+              "item": "magistuarmory:steel_pike",
+              "count": 1,
+              "nbt": "{Damage:0}"
+            }
+          },
+          {
+            "type": "placebo:stack_entry",
+            "weight": 1,
+            "quality": 1,
+            "functions": [
+              {
+                "function": "minecraft:enchant_randomly"
+              }
+            ],
+            "min": 1,
+            "max": 1,
+            "stack": {
+              "item": "magistuarmory:iron_pike",
+              "count": 1,
+              "nbt": "{Damage:0}"
+            }
+          },
+          {
+            "type": "placebo:stack_entry",
+            "weight": 1,
+            "quality": 1,
+            "min": 1,
+            "max": 1,
+            "stack": {
+              "item": "magistuarmory:stone_pike",
+              "count": 1,
+              "nbt": "{Damage:0}"
+            }
+          },
+          {
+            "type": "placebo:stack_entry",
+            "weight": 1,
+            "quality": 1,
+            "min": 1,
+            "max": 1,
+            "stack": {
+              "item": "magistuarmory:iron_estoc",
+              "count": 1,
+              "nbt": "{Damage:0}"
+            }
+          },
+          {
+            "type": "placebo:stack_entry",
+            "weight": 1,
+            "quality": 1,
+            "min": 1,
+            "max": 1,
+            "stack": {
+              "item": "magistuarmory:diamond_estoc",
+              "count": 1,
+              "nbt": "{Damage:0}"
+            }
+          },
+          {
+            "type": "placebo:stack_entry",
+            "weight": 1,
+            "quality": 1,
+            "min": 1,
+            "max": 1,
+            "stack": {
+              "item": "iter_rpg:reinforced_bow",
+              "count": 1,
+              "nbt": "{Damage:0}"
+            }
+          },
+          {
+            "type": "placebo:stack_entry",
+            "weight": 1,
+            "quality": 1,
+            "min": 1,
+            "max": 1,
+            "stack": {
+              "item": "magistuarmory:stone_ahlspiess",
+              "count": 1,
+              "nbt": "{Damage:0}"
+            }
+          },
+          {
+            "type": "placebo:stack_entry",
+            "weight": 1,
+            "quality": 1,
+            "min": 1,
+            "max": 1,
+            "stack": {
+              "item": "magistuarmory:heavy_crossbow",
+              "count": 1,
+              "nbt": "{Damage:0}"
+            }
+          },
+          {
+            "type": "placebo:stack_entry",
+            "weight": 1,
+            "quality": 1,
+            "min": 1,
+            "max": 1,
+            "stack": {
+              "item": "magistuarmory:iron_rondache",
+              "count": 1,
+              "nbt": "{Damage:0}"
+            }
+          },
+          {
+            "type": "placebo:stack_entry",
+            "weight": 1,
+            "quality": 1,
+            "min": 1,
+            "max": 1,
+            "stack": {
+              "item": "magistuarmory:stone_rondache",
+              "count": 1,
+              "nbt": "{Damage:0}"
+            }
+          },
+          {
+            "type": "placebo:stack_entry",
+            "weight": 1,
+            "quality": 1,
+            "min": 1,
+            "max": 1,
+            "stack": {
+              "item": "magistuarmory:diamond_rondache",
+              "count": 1,
+              "nbt": "{Damage:0}"
+            }
+          },
+          {
+            "type": "placebo:stack_entry",
+            "weight": 1,
+            "quality": 1,
+            "min": 1,
+            "max": 1,
+            "stack": {
+              "item": "magistuarmory:silver_lucernhammer",
+              "count": 1,
+              "nbt": "{Damage:0}"
+            }
+          },
+          {
+            "type": "placebo:stack_entry",
+            "weight": 1,
+            "quality": 1,
+            "min": 1,
+            "max": 1,
+            "stack": {
+              "item": "magistuarmory:silver_estoc",
+              "count": 1,
+              "nbt": "{Damage:0}"
+            }
+          },
+          {
+            "type": "placebo:stack_entry",
+            "weight": 1,
+            "quality": 1,
+            "min": 1,
+            "max": 1,
+            "stack": {
+              "item": "magistuarmory:silver_pike",
+              "count": 1,
+              "nbt": "{Damage:0}"
+            }
+          },
+          {
+            "type": "placebo:stack_entry",
+            "weight": 1,
+            "quality": 1,
+            "min": 1,
+            "max": 1,
+            "stack": {
+              "item": "magistuarmory:ceremonialarmet",
+              "count": 1,
+              "nbt": "{Damage:0}"
+            }
+          },
+          {
+            "type": "placebo:stack_entry",
+            "weight": 1,
+            "quality": 1,
+            "min": 1,
+            "max": 1,
+            "stack": {
+              "item": "magistuarmory:ceremonial_chestplate",
+              "count": 1,
+              "nbt": "{Damage:0}"
+            }
+          },
+          {
+            "type": "placebo:stack_entry",
+            "weight": 1,
+            "quality": 1,
+            "min": 1,
+            "max": 1,
+            "stack": {
+              "item": "magistuarmory:maximilian_leggings",
+              "count": 1,
+              "nbt": "{Damage:0}"
+            }
+          },
+          {
+            "type": "placebo:stack_entry",
+            "weight": 1,
+            "quality": 1,
+            "min": 1,
+            "max": 1,
+            "stack": {
+              "item": "magistuarmory:ceremonial_boots",
+              "count": 1,
+              "nbt": "{Damage:0}"
+            }
+          },
+          {
+            "type": "placebo:stack_entry",
+            "weight": 1,
+            "quality": 1,
+            "min": 1,
+            "max": 1,
+            "stack": {
+              "item": "minecraft:iron_helmet",
+              "count": 1,
+              "nbt": "{Damage:0}"
+            }
+          },
+          {
+            "type": "placebo:stack_entry",
+            "weight": 1,
+            "quality": 1,
+            "min": 1,
+            "max": 1,
+            "stack": {
+              "item": "minecraft:iron_boots",
+              "count": 1,
+              "nbt": "{Damage:0}"
+            }
+          },
+          {
+            "type": "placebo:stack_entry",
+            "weight": 1,
+            "quality": 1,
+            "min": 1,
+            "max": 1,
+            "stack": {
+              "item": "minecraft:iron_leggings",
+              "count": 1,
+              "nbt": "{Damage:0}"
+            }
+          },
+          {
+            "type": "placebo:stack_entry",
+            "weight": 1,
+            "quality": 1,
+            "min": 1,
+            "max": 1,
+            "stack": {
+              "item": "minecraft:iron_chestplate",
+              "count": 1,
+              "nbt": "{Damage:0}"
+            }
+          },
+          
+          
+          {
+            "type": "minecraft:item",
+            "weight": 10,
+            "functions": [
+              {
+                "function": "minecraft:set_count",
+                "count": {
+                  "type": "minecraft:uniform",
+                  "min": 3.0,
+                  "max": 4.0
+                },
+                "add": false
+              }
+            ],
+            "name": "minecraft:blaze_rod"
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 10,
+            "functions": [
+              {
+                "function": "minecraft:set_count",
+                "count": {
+                  "type": "minecraft:uniform",
+                  "min": 2.0,
+                  "max": 5.0
+                },
+                "add": false
+              }
+            ],
+            "name": "minecraft:gold_ingot"
+          },
+          
+          
+          
+          
+          
+          
+          
+          
+          {
+            "type": "minecraft:item",
+            "weight": 1,
+            "quality": 3,
+            "functions": [
+              {
+                "function": "minecraft:set_count",
+                "count": {
+                  "type": "minecraft:uniform",
+                  "min": 1.0,
+                  "max": 1.0
+                },
+                "add": false
+              }
+            ],
+            "name": "minecraft:enchanted_golden_apple"
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 12,
+            "functions": [
+              {
+                "function": "minecraft:set_count",
+                "count": {
+                  "type": "minecraft:uniform",
+                  "min": 2.0,
+                  "max": 3.0
+                },
+                "add": false
+              }
+            ],
+            "name": "minecraft:blaze_powder"
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:nautilus_shell"
+          },
+          
+          {
+            "type": "minecraft:item",
+            "weight": 10,
+            "functions": [
+              {
+                "function": "minecraft:set_count",
+                "count": {
+                  "type": "minecraft:uniform",
+                  "min": 3.0,
+                  "max": 10.0
+                },
+                "add": false
+              }
+            ],
+            "name": "minecraft:lapis_lazuli"
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 10,
+            "functions": [
+              {
+                "function": "minecraft:set_count",
+                "count": {
+                  "type": "minecraft:uniform",
+                  "min": 10.0,
+                  "max": 16.0
+                },
+                "add": false
+              }
+            ],
+            "name": "minecraft:glowstone_dust"
+          },
+          
+          {
+            "type": "minecraft:item",
+            "weight": 1,
+            "functions": [
+              {
+                "function": "minecraft:set_count",
+                "count": {
+                  "type": "minecraft:uniform",
+                  "min": 2.0,
+                  "max": 5.0
+                },
+                "add": false
+              }
+            ],
+            "name": "theabyss:bottle_of_somnium"
+          },
+          
+          {
+            "type": "minecraft:item",
+            "weight": 5,
+            "quality": 3,
+            "functions": [
+              {
+                "function": "minecraft:set_count",
+                "count": {
+                  "type": "minecraft:uniform",
+                  "min": 1.0,
+                  "max": 3.0
+                },
+                "add": false
+              }
+            ],
+            "name": "minecraft:diamond"
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 6,
+            "quality": 3,
+            "functions": [
+              {
+                "function": "minecraft:set_count",
+                "count": {
+                  "type": "minecraft:uniform",
+                  "min": 1.0,
+                  "max": 1.0
+                },
+                "add": false
+              }
+            ],
+            "name": "minecraft:golden_apple"
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 10,
+            "quality": 3,
+            "functions": [
+              {
+                "function": "minecraft:set_count",
+                "count": {
+                  "type": "minecraft:uniform",
+                  "min": 2.0,
+                  "max": 5.0
+                },
+                "add": false
+              }
+            ],
+            "name": "minecraft:experience_bottle"
+          },
+          
+          {
+            "type": "minecraft:item",
+            "weight": 18,
+            "functions": [
+              {
+                "function": "minecraft:set_count",
+                "count": {
+                  "type": "minecraft:uniform",
+                  "min": 5.0,
+                  "max": 6.0
+                },
+                "add": false
+              }
+            ],
+            "name": "minecraft:emerald"
+          }
+        ]
+      },
+      {
+        "rolls": {
+          "type": "minecraft:uniform",
+          "min": 1.0,
+          "max": 2.0
+        },
+        "bonus_rolls": 0.0,
+        "entries": [
+          
+          {
+            "weight": 700,
+            "type": "minecraft:empty"
+          },
+         
+          {
+            "type": "minecraft:item",
+            "weight": 10,
+            "functions": [
+              {
+                "function": "minecraft:set_count",
+                "count": {
+                  "type": "minecraft:uniform",
+                  "min": 2.0,
+                  "max": 5.0
+                },
+                "add": false
+              }
+            ],
+            "name": "minecraft:gold_ingot"
+          },
+          
+          {
+            "type": "minecraft:item",
+            "weight": 2,
+            "functions": [
+              {
+                "function": "minecraft:set_count",
+                "count": {
+                  "type": "minecraft:uniform",
+                  "min": 1.0,
+                  "max": 1.0
+                },
+                "add": false
+              }
+            ],
+            "name": "minecraft:anvil"
+          },
+          
+          
+          {
+            "type": "minecraft:item",
+            "weight": 1,
+            "quality": 3,
+            "functions": [
+              {
+                "function": "minecraft:set_count",
+                "count": {
+                  "type": "minecraft:uniform",
+                  "min": 1.0,
+                  "max": 1.0
+                },
+                "add": false
+              }
+            ],
+            "name": "minecraft:enchanted_golden_apple"
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 50,
+            "functions": [
+              {
+                "function": "minecraft:set_count",
+                "count": {
+                  "type": "minecraft:uniform",
+                  "min": 3.0,
+                  "max": 5.0
+                },
+                "add": false
+              }
+            ],
+            "name": "minecraft:blaze_powder"
+          },
+          {
+            "type": "placebo:stack_entry",
+            "weight": 50,
+            "quality": 1,
+            "functions": [
+              {
+                "function": "minecraft:enchant_randomly"
+              }
+            ],
+            "min": 1,
+            "max": 2,
+            "stack": {
+              "item": "minecraft:book",
+              "count": 1,
+              "nbt": "{Damage:0}"
+            }
+          },
+          {
+            "type": "placebo:stack_entry",
+            "weight": 30,
+            "quality": 1,
+            "functions": [
+              {
+                "function": "minecraft:enchant_randomly"
+              }
+            ],
+            "min": 1,
+            "max": 1,
+            "stack": {
+              "item": "magistuarmory:diamond_shortsword",
+              "count": 1,
+              "nbt": "{Damage:0}"
+            }
+          },
+          {
+            "type": "placebo:stack_entry",
+            "weight": 30,
+            "quality": 1,
+            "functions": [
+              {
+                "function": "minecraft:enchant_randomly"
+              }
+            ],
+            "min": 1,
+            "max": 1,
+            "stack": {
+              "item": "magistuarmory:diamond_concavehalberd",
+              "count": 1,
+              "nbt": "{Damage:0}"
+            }
+          },
+          {
+            "type": "placebo:stack_entry",
+            "weight": 1,
+            "quality": 1,
+            "functions": [
+              {
+                "function": "minecraft:enchant_randomly"
+              }
+            ],
+            "min": 1,
+            "max": 1,
+            "stack": {
+              "item": "magistuarmory:steel_shortsword",
+              "count": 1,
+              "nbt": "{Damage:0}"
+            }
+          },
+          {
+            "type": "placebo:stack_entry",
+            "weight": 1,
+            "quality": 1,
+            "functions": [
+              {
+                "function": "minecraft:enchant_randomly"
+              }
+            ],
+            "min": 1,
+            "max": 1,
+            "stack": {
+              "item": "magistuarmory:iron_shortsword",
+              "count": 1,
+              "nbt": "{Damage:0}"
+            }
+          },
+          {
+            "type": "placebo:stack_entry",
+            "weight": 1,
+            "quality": 1,
+            "min": 1,
+            "max": 1,
+            "stack": {
+              "item": "magistuarmory:stone_shortsword",
+              "count": 1,
+              "nbt": "{Damage:0}"
+            }
+          },
+          {
+            "type": "placebo:stack_entry",
+            "weight": 1,
+            "quality": 1,
+            "min": 1,
+            "max": 1,
+            "stack": {
+              "item": "magistuarmory:iron_stylet",
+              "count": 1,
+              "nbt": "{Damage:0}"
+            }
+          },
+          {
+            "type": "placebo:stack_entry",
+            "weight": 30,
+            "quality": 1,
+            "min": 1,
+            "max": 1,
+            "stack": {
+              "item": "magistuarmory:diamond_stylet",
+              "count": 1,
+              "nbt": "{Damage:0}"
+            }
+          },
+          {
+            "type": "placebo:stack_entry",
+            "weight": 1,
+            "quality": 1,
+            "min": 1,
+            "max": 1,
+            "stack": {
+              "item": "magistuarmory:stone_zweihander",
+              "count": 1,
+              "nbt": "{Damage:0}"
+            }
+          },
+          {
+            "type": "placebo:stack_entry",
+            "weight": 1,
+            "quality": 1,
+            "min": 1,
+            "max": 1,
+            "stack": {
+              "item": "magistuarmory:stone_heavywarhammer",
+              "count": 1,
+              "nbt": "{Damage:0}"
+            }
+          },
+          {
+            "type": "placebo:stack_entry",
+            "weight": 1,
+            "quality": 1,
+            "min": 1,
+            "max": 1,
+            "stack": {
+              "item": "magistuarmory:heavy_crossbow",
+              "count": 1,
+              "nbt": "{Damage:0}"
+            }
+          },
+          {
+            "type": "placebo:stack_entry",
+            "weight": 1,
+            "quality": 1,
+            "min": 1,
+            "max": 1,
+            "stack": {
+              "item": "magistuarmory:iron_rondache",
+              "count": 1,
+              "nbt": "{Damage:0}"
+            }
+          },
+          {
+            "type": "placebo:stack_entry",
+            "weight": 1,
+            "quality": 1,
+            "min": 1,
+            "max": 1,
+            "stack": {
+              "item": "magistuarmory:stone_rondache",
+              "count": 1,
+              "nbt": "{Damage:0}"
+            }
+          },
+          {
+            "type": "placebo:stack_entry",
+            "weight": 30,
+            "quality": 1,
+            "min": 1,
+            "max": 1,
+            "stack": {
+              "item": "magistuarmory:diamond_rondache",
+              "count": 1,
+              "nbt": "{Damage:0}"
+            }
+          },
+          {
+            "type": "placebo:stack_entry",
+            "weight": 1,
+            "quality": 1,
+            "min": 1,
+            "max": 1,
+            "stack": {
+              "item": "magistuarmory:silver_lucernhammer",
+              "count": 1,
+              "nbt": "{Damage:0}"
+            }
+          },
+          {
+            "type": "placebo:stack_entry",
+            "weight": 1,
+            "quality": 1,
+            "min": 1,
+            "max": 1,
+            "stack": {
+              "item": "magistuarmory:silver_stylet",
+              "count": 1,
+              "nbt": "{Damage:0}"
+            }
+          },
+          {
+            "type": "placebo:stack_entry",
+            "weight": 1,
+            "quality": 1,
+            "min": 1,
+            "max": 1,
+            "stack": {
+              "item": "magistuarmory:silver_shortsword",
+              "count": 1,
+              "nbt": "{Damage:0}"
+            }
+          },
+          {
+            "type": "placebo:stack_entry",
+            "weight": 30,
+            "quality": 1,
+            "min": 1,
+            "max": 1,
+            "stack": {
+              "item": "minecraft:diamond_helmet",
+              "count": 1,
+              "nbt": "{Damage:0}"
+            }
+          },
+          {
+            "type": "placebo:stack_entry",
+            "weight": 30,
+            "quality": 1,
+            "min": 1,
+            "max": 1,
+            "stack": {
+              "item": "minecraft:diamond_boots",
+              "count": 1,
+              "nbt": "{Damage:0}"
+            }
+          },
+          {
+            "type": "placebo:stack_entry",
+            "weight": 30,
+            "quality": 1,
+            "min": 1,
+            "max": 1,
+            "stack": {
+              "item": "minecraft:diamond_leggings",
+              "count": 1,
+              "nbt": "{Damage:0}"
+            }
+          },
+          {
+            "type": "placebo:stack_entry",
+            "weight": 30,
+            "quality": 1,
+            "min": 1,
+            "max": 1,
+            "stack": {
+              "item": "minecraft:diamond_chestplate",
+              "count": 1,
+              "nbt": "{Damage:0}"
+            }
+          },
+          {
+            "type": "placebo:stack_entry",
+            "weight": 1,
+            "quality": 1,
+            "min": 1,
+            "max": 1,
+            "stack": {
+              "item": "minecraft:iron_helmet",
+              "count": 1,
+              "nbt": "{Damage:0}"
+            }
+          },
+          {
+            "type": "placebo:stack_entry",
+            "weight": 1,
+            "quality": 1,
+            "min": 1,
+            "max": 1,
+            "stack": {
+              "item": "minecraft:iron_boots",
+              "count": 1,
+              "nbt": "{Damage:0}"
+            }
+          },
+          {
+            "type": "placebo:stack_entry",
+            "weight": 1,
+            "quality": 1,
+            "min": 1,
+            "max": 1,
+            "stack": {
+              "item": "minecraft:iron_leggings",
+              "count": 1,
+              "nbt": "{Damage:0}"
+            }
+          },
+          {
+            "type": "placebo:stack_entry",
+            "weight": 1,
+            "quality": 1,
+            "min": 1,
+            "max": 1,
+            "stack": {
+              "item": "minecraft:iron_chestplate",
+              "count": 1,
+              "nbt": "{Damage:0}"
+            }
+          },
+          
+          {
+            "type": "minecraft:item",
+            "weight": 7,
+            "functions": [
+              {
+                "function": "minecraft:set_count",
+                "count": {
+                  "type": "minecraft:uniform",
+                  "min": 5.0,
+                  "max": 15.0
+                },
+                "add": false
+              }
+            ],
+            "name": "xtraarrows:diamond_magnetic_arrow"
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 30,
+            "functions": [
+              {
+                "function": "minecraft:set_count",
+                "count": {
+                  "type": "minecraft:uniform",
+                  "min": 3.0,
+                  "max": 10.0
+                },
+                "add": false
+              }
+            ],
+            "name": "xtraarrows:diamond_torch_arrow"
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 9,
+            "functions": [
+              {
+                "function": "minecraft:set_count",
+                "count": {
+                  "type": "minecraft:uniform",
+                  "min": 1.0,
+                  "max": 20.0
+                },
+                "add": false
+              }
+            ],
+            "name": "minecraft:arrow"
+          },
+          
+          {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:nautilus_shell"
+          },
+          
+          {
+            "type": "minecraft:item",
+            "weight": 10,
+            "functions": [
+              {
+                "function": "minecraft:set_count",
+                "count": {
+                  "type": "minecraft:uniform",
+                  "min": 3.0,
+                  "max": 10.0
+                },
+                "add": false
+              }
+            ],
+            "name": "minecraft:lapis_lazuli"
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 10,
+            "functions": [
+              {
+                "function": "minecraft:set_count",
+                "count": {
+                  "type": "minecraft:uniform",
+                  "min": 10.0,
+                  "max": 16.0
+                },
+                "add": false
+              }
+            ],
+            "name": "minecraft:glowstone_dust"
+          },
+          
+          
+          
+          {
+            "type": "minecraft:item",
+            "weight": 5,
+            "quality": 3,
+            "functions": [
+              {
+                "function": "minecraft:set_count",
+                "count": {
+                  "type": "minecraft:uniform",
+                  "min": 1.0,
+                  "max": 3.0
+                },
+                "add": false
+              }
+            ],
+            "name": "minecraft:diamond"
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 6,
+            "quality": 3,
+            "functions": [
+              {
+                "function": "minecraft:set_count",
+                "count": {
+                  "type": "minecraft:uniform",
+                  "min": 1.0,
+                  "max": 1.0
+                },
+                "add": false
+              }
+            ],
+            "name": "minecraft:golden_apple"
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 10,
+            "quality": 3,
+            "functions": [
+              {
+                "function": "minecraft:set_count",
+                "count": {
+                  "type": "minecraft:uniform",
+                  "min": 2.0,
+                  "max": 5.0
+                },
+                "add": false
+              }
+            ],
+            "name": "minecraft:experience_bottle"
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 18,
+            "functions": [
+              {
+                "function": "minecraft:set_count",
+                "count": {
+                  "type": "minecraft:uniform",
+                  "min": 5.0,
+                  "max": 6.0
+                },
+                "add": false
+              }
+            ],
+            "name": "minecraft:emerald"
+          }
+        ]
+      },
+      {
+        "rolls": {
+          "type": "minecraft:uniform",
+          "min": 1.0,
+          "max": 2.0
+        },
+        "bonus_rolls": 0.0,
+        "entries": [
+          {
+            "weight": 350,
+            "type": "minecraft:empty"
+          },
+          {
+            "type": "placebo:stack_entry",
+            "weight": 20,
+            "quality": 1,
+            "min": 1,
+            "max": 1,
+            "stack": {
+              "item": "minecraft:chainmail_helmet",
+              "count": 1,
+              "nbt": "{Damage:0}"
+            }
+          },
+          {
+            "type": "placebo:stack_entry",
+            "weight": 20,
+            "quality": 1,
+            "min": 1,
+            "max": 1,
+            "stack": {
+              "item": "minecraft:chainmail_chestplate",
+              "count": 1,
+              "nbt": "{Damage:0}"
+            }
+          },
+          {
+            "type": "placebo:stack_entry",
+            "weight": 20,
+            "quality": 1,
+            "min": 1,
+            "max": 1,
+            "stack": {
+              "item": "minecraft:chainmail_leggings",
+              "count": 1,
+              "nbt": "{Damage:0}"
+            }
+          },
+          {
+            "type": "placebo:stack_entry",
+            "weight": 20,
+            "quality": 1,
+            "min": 1,
+            "max": 1,
+            "stack": {
+              "item": "minecraft:chainmail_boots",
+              "count": 1,
+              "nbt": "{Damage:0}"
+            }
+          },
+          {
+            "type": "placebo:stack_entry",
+            "weight": 20,
+            "quality": 1,
+            "min": 1,
+            "max": 1,
+            "stack": {
+              "item": "minecraft:iron_pickaxe",
+              "count": 1,
+              "nbt": "{Damage:0}"
+            }
+          },
+          {
+            "type": "placebo:stack_entry",
+            "weight": 20,
+            "quality": 1,
+            "min": 1,
+            "max": 1,
+            "stack": {
+              "item": "minecraft:iron_sword",
+              "count": 1,
+              "nbt": "{Damage:0}"
+            }
+          },
+          {
+            "type": "placebo:stack_entry",
+            "weight": 20,
+            "quality": 1,
+            "min": 1,
+            "max": 1,
+            "stack": {
+              "item": "minecraft:iron_axe",
+              "count": 1,
+              "nbt": "{Damage:0}"
+            }
+          },
+          {
+            "type": "placebo:stack_entry",
+            "weight": 20,
+            "quality": 1,
+            "min": 1,
+            "max": 1,
+            "stack": {
+              "item": "minecraft:iron_shovel",
+              "count": 1,
+              "nbt": "{Damage:0}"
+            }
+          }
+          
+        ]
+      },
+      {
+        "rolls": {
+          "type": "minecraft:uniform",
+          "min": 1.0,
+          "max": 2.0
+        },
+        "bonus_rolls": 0.0,
+        "entries": [
+          
+         
+          {
+            "type": "minecraft:item",
+            "weight": 5,
+            "functions": [
+              {
+                "function": "minecraft:set_count",
+                "count": {
+                  "type": "minecraft:uniform",
+                  "min": 1.0,
+                  "max": 4.0
+                },
+                "add": false
+              }
+            ],
+            "name": "minecraft:ender_pearl"
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 5,
+            "functions": [
+              {
+                "function": "minecraft:set_count",
+                "count": {
+                  "type": "minecraft:uniform",
+                  "min": 1.0,
+                  "max": 4.0
+                },
+                "add": false
+              }
+            ],
+            "name": "minecraft:ender_eye"
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 10,
+            "functions": [
+              {
+                "function": "minecraft:set_count",
+                "count": {
+                  "type": "minecraft:uniform",
+                  "min": 2.0,
+                  "max": 5.0
+                },
+                "add": false
+              }
+            ],
+            "name": "minecraft:gold_ingot"
+          },
+          
+          
+          {
+            "type": "minecraft:item",
+            "weight": 8,
+            "functions": [
+              {
+                "function": "minecraft:set_count",
+                "count": {
+                  "type": "minecraft:uniform",
+                  "min": 3.0,
+                  "max": 5.0
+                },
+                "add": false
+              }
+            ],
+            "name": "minecraft:iron_ingot"
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 8,
+            "functions": [
+              {
+                "function": "minecraft:set_count",
+                "count": {
+                  "type": "minecraft:uniform",
+                  "min": 3.0,
+                  "max": 5.0
+                },
+                "add": false
+              }
+            ],
+            "name": "moremekanismprocessing:silver_ingot"
+          },
+          
+          
+          
+          
+          
+          {
+            "type": "minecraft:item",
+            "weight": 1,
+            "quality": 3,
+            "functions": [
+              {
+                "function": "minecraft:set_count",
+                "count": {
+                  "type": "minecraft:uniform",
+                  "min": 1.0,
+                  "max": 1.0
+                },
+                "add": false
+              }
+            ],
+            "name": "minecraft:enchanted_golden_apple"
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 1,
+            "quality": 3,
+            "functions": [
+              {
+                "function": "minecraft:set_count",
+                "count": {
+                  "type": "minecraft:uniform",
+                  "min": 1.0,
+                  "max": 1.0
+                },
+                "add": false
+              }
+            ],
+            "name": "iter_rpg:arcane_powder"
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 12,
+            "functions": [
+              {
+                "function": "minecraft:set_count",
+                "count": {
+                  "type": "minecraft:uniform",
+                  "min": 1.0,
+                  "max": 3.0
+                },
+                "add": false
+              }
+            ],
+            "name": "minecraft:blaze_powder"
+          },
+          
+          
+          {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:nautilus_shell"
+          },
+          
+          {
+            "type": "minecraft:item",
+            "weight": 10,
+            "functions": [
+              {
+                "function": "minecraft:set_count",
+                "count": {
+                  "type": "minecraft:uniform",
+                  "min": 3.0,
+                  "max": 10.0
+                },
+                "add": false
+              }
+            ],
+            "name": "minecraft:lapis_lazuli"
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 10,
+            "functions": [
+              {
+                "function": "minecraft:set_count",
+                "count": {
+                  "type": "minecraft:uniform",
+                  "min": 4.0,
+                  "max": 10.0
+                },
+                "add": false
+              }
+            ],
+            "name": "minecraft:glowstone_dust"
+          },
+          
+          
+          
+          {
+            "type": "minecraft:item",
+            "weight": 5,
+            "quality": 3,
+            "functions": [
+              {
+                "function": "minecraft:set_count",
+                "count": {
+                  "type": "minecraft:uniform",
+                  "min": 1.0,
+                  "max": 3.0
+                },
+                "add": false
+              }
+            ],
+            "name": "minecraft:diamond"
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 3,
+            "functions": [
+              {
+                "function": "minecraft:set_count",
+                "count": {
+                  "type": "minecraft:uniform",
+                  "min": 2.0,
+                  "max": 5.0
+                },
+                "add": false
+              }
+            ],
+            "name": "minecraft:slime_ball"
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 3,
+            "functions": [
+              {
+                "function": "minecraft:set_count",
+                "count": {
+                  "type": "minecraft:uniform",
+                  "min": 1.0,
+                  "max": 2.0
+                },
+                "add": false
+              }
+            ],
+            "name": "iter_rpg:earth_rune"
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 6,
+            "quality": 3,
+            "functions": [
+              {
+                "function": "minecraft:set_count",
+                "count": {
+                  "type": "minecraft:uniform",
+                  "min": 1.0,
+                  "max": 1.0
+                },
+                "add": false
+              }
+            ],
+            "name": "minecraft:golden_apple"
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 10,
+            "quality": 3,
+            "functions": [
+              {
+                "function": "minecraft:set_count",
+                "count": {
+                  "type": "minecraft:uniform",
+                  "min": 2.0,
+                  "max": 5.0
+                },
+                "add": false
+              }
+            ],
+            "name": "minecraft:experience_bottle"
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 18,
+            "functions": [
+              {
+                "function": "minecraft:set_count",
+                "count": {
+                  "type": "minecraft:uniform",
+                  "min": 5.0,
+                  "max": 6.0
+                },
+                "add": false
+              }
+            ],
+            "name": "minecraft:emerald"
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 7,
+            "name": "roughtweaks:plaster"
+          },
+          {
+            "weight": 500,
+            "type": "minecraft:empty"
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 5,
+            "functions": [
+              {
+                "function": "minecraft:set_count",
+                "count": {
+                  "type": "minecraft:uniform",
+                  "min": 1.0,
+                  "max": 1.0
+                },
+                "add": false
+              }
+            ],
+            "name": "roughtweaks:medkit_enchanted"
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 10,
+            "functions": [
+              {
+                "function": "minecraft:set_count",
+                "count": {
+                  "type": "minecraft:uniform",
+                  "min": 1.0,
+                  "max": 1.0
+                },
+                "add": false
+              }
+            ],
+            "name": "roughtweaks:medkit"
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 13,
+            "functions": [
+              {
+                "function": "minecraft:set_count",
+                "count": {
+                  "type": "minecraft:uniform",
+                  "min": 1.0,
+                  "max": 1.0
+                },
+                "add": false
+              }
+            ],
+            "name": "roughtweaks:salve"
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 5,
+            "functions": [
+              {
+                "function": "minecraft:set_count",
+                "count": {
+                  "type": "minecraft:uniform",
+                  "min": 2.0,
+                  "max": 5.0
+                },
+                "add": false
+              }
+            ],
+            "name": "theabyss:bottle_of_somnium"
+          },
+          
+          {
+            "type": "minecraft:item",
+            "weight": 1,
+            "quality": 1,
+            "functions": [
+              {
+                "function": "minecraft:set_count",
+                "count": {
+                  "type": "minecraft:uniform",
+                  "min": 1.0,
+                  "max": 4.0
+                },
+                "add": false
+              }
+            ],
+            "name": "minecraft:quartz"
+          }
+        ]
+      },
+      {
+        "rolls": {
+          "type": "minecraft:uniform",
+          "min": 1.0,
+          "max": 1.0
+        },
+        "bonus_rolls": 0.0,
+        "entries": [
+          {
+            "weight": 500,
+            "type": "minecraft:empty"
+          },
+          
+        
+            
+            {
+              "type": "minecraft:item",
+              "weight": 10,
+              "name": "minecraft:milk_bucket"
+            },
+            
+            
+            
+            
+            
+            
+            {
+              "type": "minecraft:item",
+              "weight": 1,
+              "quality": 3,
+              "functions": [
+                {
+                  "function": "minecraft:set_count",
+                  "count": {
+                    "type": "minecraft:uniform",
+                    "min": 1.0,
+                    "max": 1.0
+                  },
+                  "add": false
+                }
+              ],
+              "name": "minecraft:enchanted_golden_apple"
+            },
+            
+          
+            {
+              "type": "minecraft:item",
+              "weight": 7,
+              "name": "roughtweaks:plaster"
+            },
+            
+            
+            {
+              "type": "minecraft:item",
+              "weight": 13,
+              "functions": [
+                {
+                  "function": "minecraft:set_count",
+                  "count": {
+                    "type": "minecraft:uniform",
+                    "min": 1.0,
+                    "max": 1.0
+                  },
+                  "add": false
+                }
+              ],
+              "name": "roughtweaks:salve"
+            },
+            
+            {
+              "type": "minecraft:item",
+              "weight": 1,
+              "quality": 3,
+              "functions": [
+                {
+                  "function": "minecraft:set_count",
+                  "count": {
+                    "type": "minecraft:uniform",
+                    "min": 1.0,
+                    "max": 1.0
+                  },
+                  "add": false
+                }
+              ],
+              "name": "healingflasks:healing_flask"
+            },
+            
+        
+            
+            
+            {
+              "type": "minecraft:item",
+              "weight": 5,
+              "functions": [
+                {
+                  "function": "minecraft:set_count",
+                  "count": {
+                    "type": "minecraft:uniform",
+                    "min": 1.0,
+                    "max": 1.0
+                  },
+                  "add": false
+                }
+              ],
+              "name": "scalinghealth:bandages"
+            },
+            {
+              "type": "minecraft:item",
+              "weight": 3,
+              "functions": [
+                {
+                  "function": "minecraft:set_count",
+                  "count": {
+                    "type": "minecraft:uniform",
+                    "min": 1.0,
+                    "max": 1.0
+                  },
+                  "add": false
+                }
+              ],
+              "name": "roughtweaks:salve"
+            },
+            {
+              "type": "minecraft:item",
+              "weight": 5,
+              "functions": [
+                {
+                  "function": "minecraft:set_count",
+                  "count": {
+                    "type": "minecraft:uniform",
+                    "min": 1.0,
+                    "max": 2.0
+                  },
+                  "add": false
+                }
+              ],
+              "name": "recall_potion:recall_food"
+            },
+            {
+              "type": "minecraft:item",
+              "weight": 6,
+              "quality": 3,
+              "functions": [
+                {
+                  "function": "minecraft:set_count",
+                  "count": {
+                    "type": "minecraft:uniform",
+                    "min": 1.0,
+                    "max": 1.0
+                  },
+                  "add": false
+                }
+              ],
+              "name": "minecraft:golden_apple"
+            },
+            {
+              "type": "minecraft:item",
+              "weight": 20,
+              "quality": 3,
+              "functions": [
+                {
+                  "function": "minecraft:set_count",
+                  "count": {
+                    "type": "minecraft:uniform",
+                    "min": 1.0,
+                    "max": 2.0
+                  },
+                  "add": false
+                }
+              ],
+              "name": "minecraft:apple"
+            },
+            {
+              "type": "minecraft:item",
+              "weight": 18,
+              "functions": [
+                {
+                  "function": "minecraft:set_count",
+                  "count": {
+                    "type": "minecraft:uniform",
+                    "min": 1.0,
+                    "max": 1.0
+                  },
+                  "add": false
+                }
+              ],
+              "name": "minecraft:golden_carrot"
+            }
+          ]
+        },
+      {
+      "rolls": {
+        "type": "minecraft:uniform",
+        "min": 1.0,
+        "max": 2.0
+      },
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "weight": 500,
+          "type": "minecraft:empty"
+        },
+        
+        {
+          "type": "placebo:stack_entry",
+          "weight": 5,
+          "quality": 10,
+          "min": 1,
+          "max": 3,
+          "stack": {
+            "item": "minecraft:potion",
+            "count": 1,
+            "nbt": "{Potion:\"minecraft:strong_regeneration\"}"
+          }
+        },
+        {
+          "type": "placebo:stack_entry",
+          "weight": 5,
+          "quality": 10,
+          "min": 1,
+          "max": 1,
+          "stack": {
+            "item": "minecraft:potion",
+            "count": 1,
+            "nbt": "{Potion:\"minecraft:long_fire_resistance\"}"
+          }
+        },
+        {
+          "type": "placebo:stack_entry",
+          "weight": 7,
+          "quality": 10,
+          "min": 1,
+          "max": 2,
+          "stack": {
+            "item": "minecraft:potion",
+            "count": 1,
+            "nbt": "{Potion:\"minecraft:fire_resistance\"}"
+          }
+        },
+        {
+          "type": "placebo:stack_entry",
+          "weight": 3,
+          "quality": 10,
+          "min": 1,
+          "max": 1,
+          "stack": {
+            "item": "minecraft:potion",
+            "count": 1,
+            "nbt": "{Potion:\"goblintraders:dolphins_grace\"}"
+          }
+        },
+        {
+          "type": "placebo:stack_entry",
+          "weight": 6,
+          "quality": 10,
+          "min": 1,
+          "max": 2,
+          "stack": {
+            "item": "minecraft:potion",
+            "count": 1,
+            "nbt": "{Potion:\"minecraft:regeneration\"}"
+          }
+        },
+        {
+          "type": "placebo:stack_entry",
+          "weight": 3,
+          "quality": 10,
+          "min": 1,
+          "max": 1,
+          "stack": {
+            "item": "minecraft:splash_potion",
+            "count": 1,
+            "nbt": "{Potion:\"minecraft:strong_harming\"}"
+          }
+        },
+      
+          
+          {
+            "type": "minecraft:item",
+            "weight": 10,
+            "name": "minecraft:milk_bucket"
+          },
+          
+          
+          
+          
+          
+          {
+            "type": "minecraft:item",
+            "weight": 1,
+            "quality": 3,
+            "functions": [
+              {
+                "function": "minecraft:set_count",
+                "count": {
+                  "type": "minecraft:uniform",
+                  "min": 1.0,
+                  "max": 1.0
+                },
+                "add": false
+              }
+            ],
+            "name": "minecraft:enchanted_golden_apple"
+          },
+          {
+            "type": "placebo:stack_entry",
+            "weight": 1,
+            "quality": 10,
+            "min": 1,
+            "max": 1,
+            "stack": {
+              "item": "xpbook:xp_tome",
+              "count": 1,
+              "nbt": "{xp: 1395}"
+            }
+          },
+          {
+            "type": "placebo:stack_entry",
+            "weight": 1,
+            "quality": 10,
+            "min": 1,
+            "max": 1,
+            "stack": {
+              "item": "xpbook:xp_tome",
+              "count": 1,
+              "nbt": "{xp: 285}"
+            }
+          },
+          {
+            "type": "placebo:stack_entry",
+            "weight": 1,
+            "quality": 10,
+            "min": 1,
+            "max": 1,
+            "stack": {
+              "item": "xpbook:xp_tome",
+              "count": 1,
+              "nbt": "{xp: 788}"
+            }
+          },
+          {
+            "type": "placebo:stack_entry",
+            "weight": 1,
+            "quality": 10,
+            "min": 1,
+            "max": 1,
+            "stack": {
+              "item": "xpbook:xp_tome",
+              "count": 1,
+              "nbt": "{xp: 1000}"
+            }
+          },
+          
+          
+        
+          {
+            "type": "minecraft:item",
+            "weight": 7,
+            "name": "roughtweaks:plaster"
+          },
+          
+          
+          
+          
+          
+      
+          {
+            "type": "minecraft:item",
+            "weight": 7,
+            "name": "scalinghealth:medkit"
+          },
+          
+          {
+            "type": "minecraft:item",
+            "weight": 5,
+            "functions": [
+              {
+                "function": "minecraft:set_count",
+                "count": {
+                  "type": "minecraft:uniform",
+                  "min": 1.0,
+                  "max": 1.0
+                },
+                "add": false
+              }
+            ],
+            "name": "scalinghealth:bandages"
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 1,
+            "functions": [
+              {
+                "function": "minecraft:set_count",
+                "count": {
+                  "type": "minecraft:uniform",
+                  "min": 1.0,
+                  "max": 1.0
+                },
+                "add": false
+              }
+            ],
+            "name": "supplementaries:bubble_blower"
+          },
+          
+          {
+            "type": "minecraft:item",
+            "weight": 3,
+            "functions": [
+              {
+                "function": "minecraft:set_count",
+                "count": {
+                  "type": "minecraft:uniform",
+                  "min": 1.0,
+                  "max": 1.0
+                },
+                "add": false
+              }
+            ],
+            "name": "roughtweaks:salve"
+          },
+          
+          
+          
+          {
+            "type": "minecraft:item",
+            "weight": 6,
+            "quality": 3,
+            "functions": [
+              {
+                "function": "minecraft:set_count",
+                "count": {
+                  "type": "minecraft:uniform",
+                  "min": 1.0,
+                  "max": 1.0
+                },
+                "add": false
+              }
+            ],
+            "name": "minecraft:golden_apple"
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 10,
+            "quality": 3,
+            "functions": [
+              {
+                "function": "minecraft:set_count",
+                "count": {
+                  "type": "minecraft:uniform",
+                  "min": 1.0,
+                  "max": 2.0
+                },
+                "add": false
+              }
+            ],
+            "name": "minecraft:apple"
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 18,
+            "functions": [
+              {
+                "function": "minecraft:set_count",
+                "count": {
+                  "type": "minecraft:uniform",
+                  "min": 1.0,
+                  "max": 1.0
+                },
+                "add": false
+              }
+            ],
+            "name": "minecraft:golden_carrot"
+          }
+        ]
+      }
+    ]
+  }

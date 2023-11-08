@@ -1,0 +1,16 @@
+{
+	"elements": [
+		
+		{
+			"element": {
+				"element_type": "minecraft:single_pool_element",
+				"location": "castle_dungeons:illager_castle/common/entities/end_crystal",
+				"processors": "minecraft:empty",
+				"projection": "rigid"
+			},
+			"weight": 1
+		}
+	],
+	"fallback": "minecraft:empty",
+	"name": ""
+}

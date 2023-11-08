@@ -1,0 +1,158 @@
+{
+  "COMMENT": "This file is used to have the worldgen datapack map viewer use the correct colors, it's not used ingame for anything",
+  "tectonic:cold_river": {
+    "r": 112,
+    "g": 155,
+    "b": 255
+  },
+  "tectonic:lukewarm_river": {
+    "r": 26,
+    "g": 90,
+    "b": 219
+  },
+  "tectonic:warm_river": {
+    "r": 0,
+    "g": 87,
+    "b": 168
+  },
+  "minecraft:frozen_river": {
+    "r": 166,
+    "g": 212,
+    "b": 255
+  },
+  "tectonic:cold_plains": {
+    "r": 95,
+    "g": 221,
+    "b": 127
+  },
+  "tectonic:grasslands": {
+    "r": 190,
+    "g": 251,
+    "b": 75
+  },
+  "tectonic:alpine_meadow": {
+    "r": 148,
+    "g": 204,
+    "b": 133
+  },
+  "tectonic:red_desert": {
+    "r": 249,
+    "g": 43,
+    "b": 6
+  },
+  "tectonic:red_desert_dunes": {
+    "r": 253,
+    "g": 84,
+    "b": 28
+  },
+  "tectonic:desert_dunes": {
+    "r": 232,
+    "g": 215,
+    "b": 0
+  },
+  "tectonic:island": {
+    "r": 148,
+    "g": 255,
+    "b": 77
+  },
+  "tectonic:lagoon": {
+    "r": 74,
+    "g": 73,
+    "b": 188
+  },
+  "tectonic:old_growth_snowy_taiga": {
+    "r": 202,
+    "g": 191,
+    "b": 180
+  },
+  "tectonic:autumn_forest": {
+    "r": 255,
+    "g": 208,
+    "b": 128
+  },
+  "tectonic:autumn_birch_forest": {
+    "r": 251,
+    "g": 236,
+    "b": 162
+  },
+  "tectonic:icy_cliffs": {
+    "r": 163,
+    "g": 210,
+    "b": 230
+  },
+  "tectonic:ancient_river": {
+    "r": 74,
+    "g": 91,
+    "b": 120
+  },
+  "tectonic:coral_river": {
+    "r": 144,
+    "g": 228,
+    "b": 189
+  },
+  "tectonic:icy_river": {
+    "r": 189,
+    "g": 242,
+    "b": 255
+  },
+  "tectonic:lantern_river": {
+    "r": 240,
+    "g": 219,
+    "b": 163
+  },
+  "tectonic:dripstone_river": {
+    "r": 196,
+    "g": 164,
+    "b": 151
+  },
+  "tectonic:lush_river": {
+    "r": 184,
+    "g": 220,
+    "b": 168
+  },
+  "tectonic:sandstone_cliffs": {
+    "r": 228,
+    "g": 212,
+    "b": 129
+  },
+  "tectonic:cold_beach": {
+    "r": 215,
+    "g": 201,
+    "b": 132
+  },
+  "tectonic:cold_cliffs": {
+    "r": 153,
+    "g": 171,
+    "b": 174
+  },
+  "tectonic:lukewarm_beach": {
+    "r": 251,
+    "g": 253,
+    "b": 129
+  },
+  "tectonic:lukewarm_cliffs": {
+    "r": 160,
+    "g": 177,
+    "b": 162
+  },
+  "tectonic:evergreen_forest": {
+    "r": 93,
+    "g": 218,
+    "b": 114
+  },
+  "tectonic:old_growth_evergreen_forest": {
+    "r": 142,
+    "g": 240,
+    "b": 180
+  },
+  "tectonic:badlands_spires": {
+    "r": 250,
+    "g": 153,
+    "b": 95
+  },
+  "tectonic:white_cliffs": {
+    "r": 215,
+    "g": 215,
+    "b": 215
+  }
+}

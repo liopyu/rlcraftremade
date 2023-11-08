@@ -1,0 +1,18 @@
+{
+  "type": "dynamictreesplus:cactus",
+  "family": "dynamictreesplus:cactus",
+  "seed": "dynamictreesplus:saguaro_cactus_seed",
+  "always_show_on_waila": true,
+  "signal_energy": 18,
+  "up_probability": 1,
+  "lowest_branch_height": 3,
+  "growth_rate": 0.6,
+  "soil_longevity": 10,
+  "growth_logic_kit": {
+    "name": "dynamictreesplus:mega_cactus",
+    "properties": {
+      "mod": 6
+    }
+  },
+  "cactus_thickness_logic": "dynamictreesplus:mega"
+}

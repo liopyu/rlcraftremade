@@ -1,0 +1,15 @@
+{
+  "type": "origins:starting_equipment",
+  "stacks": [
+    {
+      "item": "minecraft:experience_bottle",
+      "amount": "7"
+    },
+    {
+      "item": "minecraft:lapis_lazuli",
+      "amount": "10"
+    }
+  ],
+  "name": "§2§nSpells",
+  "description": "You cast mighty spells that cause destruction. But you have to learn them first..."
+}

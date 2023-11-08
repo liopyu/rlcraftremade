@@ -1,0 +1,83 @@
+{
+    "type": "minecraft:chest",
+    "pools": [
+      {
+        "rolls": {
+          "type": "minecraft:uniform",
+          "min": 2,
+          "max": 6
+        },
+        "entries": [
+          {
+            "type": "minecraft:item",
+            "weight": 5,
+            "name": "minecraft:diamond",
+            "functions": [
+              {
+                "function": "minecraft:set_count",
+                "count": {
+                  "type": "minecraft:uniform",
+                  "min": 2,
+                  "max": 7
+                }
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 15,
+            "name": "minecraft:gold_ingot",
+            "functions": [
+              {
+                "function": "minecraft:set_count",
+                "count": {
+                  "type": "minecraft:uniform",
+                  "min": 2,
+                  "max": 7
+                }
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 2,
+            "name": "minecraft:emerald",
+            "functions": [
+              {
+                "function": "minecraft:set_count",
+                "count": {
+                  "type": "minecraft:uniform",
+                  "min": 2,
+                  "max": 6
+                }
+              }
+            ]
+          },
+          {
+            "type": "minecraft:loot_table",
+            "name": "iter_rpg:chests/iterdungeon"
+          },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "doom:invisiblesphere"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "artifacts:artifact"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "doom:powersphere"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "doom:daisy"
+        }
+        ]
+      }
+    ]
+  }
+  

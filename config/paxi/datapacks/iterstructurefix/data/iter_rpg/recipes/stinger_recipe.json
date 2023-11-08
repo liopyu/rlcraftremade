@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    "34 ",
+    " 78"
+  ],
+  "key": {
+    "1": {
+      "item": "iter_rpg:gobsteel_scrap"
+    },
+    "3": {
+      "item": "iter_rpg:gobsteel_scrap"
+    },
+    "4": {
+      "item": "minecraft:string"
+    },
+    "7": {
+      "item": "minecraft:stick"
+    },
+    "8": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "iter_rpg:stinger",
+    "count": 1
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "weight": 10,
+  "quality": 3.5,
+  "stack": {
+    "item": "ironbows:golden_bow",
+    "count": 1,
+    "nbt": "{Damage:0}"
+  },
+  "type": "BOW",
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "max_rarity": "rare"
+}

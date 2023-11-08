@@ -1,0 +1,405 @@
+{
+    "type": "minecraft:chest",
+    "pools": [
+      
+      {
+        "rolls": {
+          "type": "minecraft:uniform",
+          "min": 1.0,
+          "max": 2.0
+        },
+        "bonus_rolls": 1.0,
+        "entries": [
+          {
+            "type": "minecraft:item",
+            "weight": 10,
+            "quality": 3,
+            "functions": [
+              {
+                "function": "minecraft:set_count",
+                "count": {
+                  "type": "minecraft:uniform",
+                  "min": 1.0,
+                  "max": 1.0
+                },
+                "add": false
+              }
+            ],
+            "name": "vinery:stal_wine"
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 50,
+            "quality": 3,
+            "functions": [
+              {
+                "function": "minecraft:set_count",
+                "count": {
+                  "type": "minecraft:uniform",
+                  "min": 1.0,
+                  "max": 1.0
+                },
+                "add": false
+              }
+            ],
+            "name": "kubejs:white_wine"
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 10,
+            "functions": [
+              {
+                "function": "minecraft:set_count",
+                "count": {
+                  "type": "minecraft:uniform",
+                  "min": 1.0,
+                  "max": 5.0
+                },
+                "add": false
+              }
+            ],
+            "name": "vinery:kelp_cider"
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 10,
+            "functions": [
+              {
+                "function": "minecraft:set_count",
+                "count": {
+                  "type": "minecraft:uniform",
+                  "min": 1.0,
+                  "max": 1.0
+                },
+                "add": false
+              }
+            ],
+            "name": "vinery:strad_wine"
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 10,
+            "quality": 3,
+            "functions": [
+              {
+                "function": "minecraft:set_count",
+                "count": {
+                  "type": "minecraft:uniform",
+                  "min": 1.0,
+                  "max": 1.0
+                },
+                "add": false
+              }
+            ],
+            "name": "vinery:villagers_fright"
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 10,
+            "quality": 3,
+            "functions": [
+              {
+                "function": "minecraft:set_count",
+                "count": {
+                  "type": "minecraft:uniform",
+                  "min": 1.0,
+                  "max": 1.0
+                },
+                "add": false
+              }
+            ],
+            "name": "vinery:mead"
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 10,
+            "quality": 3,
+            "functions": [
+              {
+                "function": "minecraft:set_count",
+                "count": {
+                  "type": "minecraft:uniform",
+                  "min": 1.0,
+                  "max": 1.0
+                },
+                "add": false
+              }
+            ],
+            "name": "vinery:eiswein"
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 10,
+            "quality": 3,
+            "functions": [
+              {
+                "function": "minecraft:set_count",
+                "count": {
+                  "type": "minecraft:uniform",
+                  "min": 1.0,
+                  "max": 1.0
+                },
+                "add": false
+              }
+            ],
+            "name": "vinery:chorus_wine"
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 10,
+            "quality": 3,
+            "functions": [
+              {
+                "function": "minecraft:set_count",
+                "count": {
+                  "type": "minecraft:uniform",
+                  "min": 1.0,
+                  "max": 1.0
+                },
+                "add": false
+              }
+            ],
+            "name": "vinery:aegis_wine"
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 10,
+            "quality": 3,
+            "functions": [
+              {
+                "function": "minecraft:set_count",
+                "count": {
+                  "type": "minecraft:uniform",
+                  "min": 1.0,
+                  "max": 1.0
+                },
+                "add": false
+              }
+            ],
+            "name": "vinery:solaris_wine"
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 10,
+            "quality": 3,
+            "functions": [
+              {
+                "function": "minecraft:set_count",
+                "count": {
+                  "type": "minecraft:uniform",
+                  "min": 1.0,
+                  "max": 1.0
+                },
+                "add": false
+              }
+            ],
+            "name": "vinery:noir_wine"
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 10,
+            "quality": 3,
+            "functions": [
+              {
+                "function": "minecraft:set_count",
+                "count": {
+                  "type": "minecraft:uniform",
+                  "min": 1.0,
+                  "max": 1.0
+                },
+                "add": false
+              }
+            ],
+            "name": "vinery:bolvar_wine"
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 10,
+            "quality": 3,
+            "functions": [
+              {
+                "function": "minecraft:set_count",
+                "count": {
+                  "type": "minecraft:uniform",
+                  "min": 1.0,
+                  "max": 1.0
+                },
+                "add": false
+              }
+            ],
+            "name": "vinery:cherry_wine"
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 10,
+            "quality": 3,
+            "functions": [
+              {
+                "function": "minecraft:set_count",
+                "count": {
+                  "type": "minecraft:uniform",
+                  "min": 1.0,
+                  "max": 1.0
+                },
+                "add": false
+              }
+            ],
+            "name": "vinery:clark_wine"
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 10,
+            "quality": 3,
+            "functions": [
+              {
+                "function": "minecraft:set_count",
+                "count": {
+                  "type": "minecraft:uniform",
+                  "min": 1.0,
+                  "max": 1.0
+                },
+                "add": false
+              }
+            ],
+            "name": "vinery:jellie_wine"
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 10,
+            "quality": 3,
+            "functions": [
+              {
+                "function": "minecraft:set_count",
+                "count": {
+                  "type": "minecraft:uniform",
+                  "min": 1.0,
+                  "max": 1.0
+                },
+                "add": false
+              }
+            ],
+            "name": "vinery:apple_wine"
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 10,
+            "quality": 3,
+            "functions": [
+              {
+                "function": "minecraft:set_count",
+                "count": {
+                  "type": "minecraft:uniform",
+                  "min": 1.0,
+                  "max": 1.0
+                },
+                "add": false
+              }
+            ],
+            "name": "vinery:red_wine"
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 10,
+            "quality": 3,
+            "functions": [
+              {
+                "function": "minecraft:set_count",
+                "count": {
+                  "type": "minecraft:uniform",
+                  "min": 1.0,
+                  "max": 1.0
+                },
+                "add": false
+              }
+            ],
+            "name": "vinery:chenet_wine"
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 10,
+            "quality": 3,
+            "functions": [
+              {
+                "function": "minecraft:set_count",
+                "count": {
+                  "type": "minecraft:uniform",
+                  "min": 1.0,
+                  "max": 1.0
+                },
+                "add": false
+              }
+            ],
+            "name": "vinery:king_danis_wine"
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 10,
+            "quality": 3,
+            "functions": [
+              {
+                "function": "minecraft:set_count",
+                "count": {
+                  "type": "minecraft:uniform",
+                  "min": 1.0,
+                  "max": 1.0
+                },
+                "add": false
+              }
+            ],
+            "name": "vinery:mellohi_wine"
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 10,
+            "quality": 3,
+            "functions": [
+              {
+                "function": "minecraft:set_count",
+                "count": {
+                  "type": "minecraft:uniform",
+                  "min": 1.0,
+                  "max": 1.0
+                },
+                "add": false
+              }
+            ],
+            "name": "vinery:cristel_wine"
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 10,
+            "quality": 3,
+            "functions": [
+              {
+                "function": "minecraft:set_count",
+                "count": {
+                  "type": "minecraft:uniform",
+                  "min": 1.0,
+                  "max": 1.0
+                },
+                "add": false
+              }
+            ],
+            "name": "vinery:creepers_crush"
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 10,
+            "quality": 3,
+            "functions": [
+              {
+                "function": "minecraft:set_count",
+                "count": {
+                  "type": "minecraft:uniform",
+                  "min": 1.0,
+                  "max": 1.0
+                },
+                "add": false
+              }
+            ],
+            "name": "vinery:bottle_mojang_noir"
+          }
+        ]
+      }
+    ]
+  }

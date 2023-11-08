@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    "345",
+    "678"
+  ],
+  "key": {
+    "1": {
+      "item": "iter_rpg:arcane_powder"
+    },
+    "3": {
+      "item": "iter_rpg:arcane_powder"
+    },
+    "4": {
+      "item": "minecraft:wooden_sword"
+    },
+    "5": {
+      "item": "iter_rpg:arcane_powder"
+    },
+    "6": {
+      "item": "minecraft:vine"
+    },
+    "7": {
+      "item": "iter_rpg:arcane_flower_seeds"
+    },
+    "8": {
+      "item": "minecraft:vine"
+    }
+  },
+  "result": {
+    "item": "iter_rpg:shimmer",
+    "count": 1
+  }
+}

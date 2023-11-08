@@ -1,0 +1,9 @@
+{
+  "entries": [
+    "scalinghealth:chests/woodland_mansion",
+    "scalinghealth:chests/buried_treasure",
+    "scalinghealth:chests/nether_bridge",
+    "scalinghealth:peaceful"
+  ],
+  "replace": false
+}

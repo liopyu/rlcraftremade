@@ -1,0 +1,34 @@
+{
+  "placement": {
+    "type": "minecraft:random_spread",
+    "salt": 10387312,
+    "separation": 8,
+    "spacing": 34
+  },
+  "structures": [
+    {
+      "structure": "skylands:village_badlands",
+      "weight": 1
+    },
+    {
+      "structure": "skylands:village_desert",
+      "weight": 1
+    },
+    {
+      "structure": "skylands:village_plains",
+      "weight": 1
+    },
+    {
+      "structure": "skylands:village_savanna",
+      "weight": 1
+    },
+    {
+      "structure": "skylands:village_snowy",
+      "weight": 1
+    },
+    {
+      "structure": "skylands:village_taiga",
+      "weight": 1
+    }
+  ]
+}

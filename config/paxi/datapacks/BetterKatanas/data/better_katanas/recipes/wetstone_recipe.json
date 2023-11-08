@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "6",
+      "4"
+    ],
+    "key": {
+      "6": {
+        "item": "minecraft:diamond"
+      },
+      "4": {
+        "tag": "forge:ingots/iron"
+      }
+    },
+    "result": {
+      "item": "kubejs:wetstone",
+      "count": 1
+    }
+  }

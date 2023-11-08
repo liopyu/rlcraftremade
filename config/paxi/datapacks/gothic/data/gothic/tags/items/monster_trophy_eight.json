@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "gothic:shadowbeast_pelt",
+    "gothic:ice_golem_heart",
+    "gothic:shadowbeast_horn",
+    "gothic:fire_golem_heart",
+    "gothic:demon_heart",
+    "gothic:swamp_golem_heart",
+    "gothic:stone_golem_heart",
+    "gothic:dragon_snapper_horn"
+  ]
+}

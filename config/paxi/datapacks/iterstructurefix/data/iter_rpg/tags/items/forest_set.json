@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+    "iter_rpg:forest_shovel",
+    "iter_rpg:forest_scythe",
+    "iter_rpg:forest_sword",
+    "iter_rpg:forest_pickaxe",
+    "iter_rpg:forest_axe",
+    "iter_rpg:forest_hoe",
+    "iter_rpg:forest_flail"
+  ]
+}

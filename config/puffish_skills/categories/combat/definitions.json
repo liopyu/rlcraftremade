@@ -1,0 +1,472 @@
+{
+	"root_health+2": {
+		"title": "+0.5 Health",
+		"frame": "challenge",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "quark:diamond_heart"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "generic.max_health",
+					"value": 1,
+					"operation": "addition"
+				}
+			},
+			{
+				"type": "puffish_skills:command",
+				"data": {
+					"command": "execute at @s run execute as @p run advancement grant @s only minecraft:adventure/physicalenhancements"
+				}
+			}
+		]
+	},
+	"root_resistance+1%": {
+		"title": "+1% Resistance",
+		"frame": "challenge",
+		"icon": {
+			"type": "effect",
+			"data": {
+				"effect": "resistance"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.resistance",
+					"value": 0.01,
+					"operation": "multiply_total"
+				}
+			}
+		]
+	},
+	"root_melee_damage+3%": {
+		"title": "+3% Melee Damage",
+		"frame": "challenge",
+		"icon": {
+			"type": "effect",
+			"data": {
+				"effect": "strength"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.melee_damage",
+					"value": 0.03,
+					"operation": "multiply_total"
+				}
+			}
+		]
+	},
+	"root_ranged_damage+3%": {
+		"title": "+3% Ranged Damage",
+		"frame": "challenge",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "bow"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.ranged_damage",
+					"value": 0.03,
+					"operation": "multiply_total"
+				}
+			}
+		]
+	},
+	"health+2": {
+		"title": "+0.5 Heart",
+		"icon": {
+			"type": "effect",
+			"data": {
+				"effect": "health_boost"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "generic.max_health",
+					"value": 1,
+					"operation": "addition"
+				}
+			}
+		]
+	},
+	"resistance+1%": {
+		"title": "+1% Resistance",
+		"icon": {
+			"type": "effect",
+			"data": {
+				"effect": "resistance"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.resistance",
+					"value": 0.01,
+					"operation": "multiply_total"
+				}
+			}
+		]
+	},
+	"melee_damage+3%": {
+		"title": "+3% Melee Damage",
+		"icon": {
+			"type": "effect",
+			"data": {
+				"effect": "strength"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.melee_damage",
+					"value": 0.03,
+					"operation": "multiply_total"
+				}
+			}
+		]
+	},
+	"ranged_damage+3%": {
+		"title": "+3% Ranged Damage",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "bow"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.ranged_damage",
+					"value": 0.03,
+					"operation": "multiply_total"
+				}
+			}
+		]
+	},
+	"+0.5bow_draw_speed": {
+		"title": "+0.5 Bow Draw Speed",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "ironbows:golden_bow"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "apotheosis:draw_speed",
+					"value": 0.5,
+					"operation": "addition"
+				}
+			}
+		]
+	},
+	"attack_speed+5%": {
+		"title": "+5% Attack Speed",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "magistuarmory:gold_shortsword"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "generic.attack_speed",
+					"value": 0.05,
+					"operation": "multiply_total"
+				}
+			}
+		]
+	},
+	"movement_speed+5%": {
+		"title": "+3% Movement Speed",
+		"icon": {
+			"type": "effect",
+			"data": {
+				"effect": "speed"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "generic.movement_speed",
+					"value": 0.03,
+					"operation": "multiply_total"
+				}
+			}
+		]
+	},
+	"root_movement_speed+10%": {
+		"title": "Ninja",
+		"frame": "challenge",
+		"icon": {
+			"type": "effect",
+			"data": {
+				"effect": "speed"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "generic.movement_speed",
+					"value": 0.10,
+					"operation": "multiply_total"
+				}
+			}
+		]
+	},
+	"luck+0.25": {
+		"title": "+0.25 Luck",
+		"icon": {
+			"type": "effect",
+			"data": {
+				"effect": "luck"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "generic.luck",
+					"value": 0.25,
+					"operation": "addition"
+				}
+			}
+		]
+	},
+	"+0.5lifesteal": {
+		"title": "+0.1 Life Steal",
+		"frame": "challenge",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "alexsmobs:blood_sac"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "apotheosis:life_steal",
+					"value": 0.1,
+					"operation": "addition"
+				}
+			}
+		]
+	},
+	"colddamage": {
+		"title": "+1 Frost Damage",
+		"icon": {
+			"type": "effect",
+			"data": {
+				"effect": "ars_nouveau:freezing"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "apotheosis:cold_damage",
+					"value": 1,
+					"operation": "addition"
+				}
+			}
+		]
+	},
+	"+25%arrowvelocity": {
+		"title": "+0.25 Arrow Velocity",
+		"frame": "challenge",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "minecolonies:firearrow"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "apotheosis:arrow_velocity",
+					"value": 0.25,
+					"operation": "addition"
+				}
+			}
+		]
+	},
+	"+8%armorpiercing": {
+		"title": "+3% Armor Piercing",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "magistuarmory:diamond_stylet"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "apotheosis:armor_pierce",
+					"value": 0.03,
+					"operation": "addition"
+				}
+			}
+		]
+	},
+	"+2firedamage": {
+		"title": "+1 Fire Damage",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "artifacts:fire_gauntlet"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "apotheosis:fire_damage",
+					"value": 1,
+					"operation": "addition"
+				}
+			}
+		]
+	},
+	"+10%critdamage": {
+		"title": "Critical Blows (+5% Crit Dmg)",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "stalwart_dungeons:nether_hammer"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "apotheosis:crit_damage",
+					"value": 0.05,
+					"operation": "addition"
+				}
+			}
+		]
+	},
+	"+10%critchance": {
+		"title": "Calculated Blows (+5% Crit Chance)",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "better_katanas:snake_sword"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "apotheosis:crit_chance",
+					"value": 0.05,
+					"operation": "addition"
+				}
+			}
+		]
+	},
+	"stamina+5%": {
+		"title": "+5% Stamina",
+		"icon": {
+			"type": "effect",
+			"data": {
+				"effect": "saturation"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.stamina",
+					"value": 0.05,
+					"operation": "multiply_total"
+				}
+			}
+		]
+	},
+	"healing+5%": {
+		"title": "+10% Feathers Regen",
+		"icon": {
+			"type": "effect",
+			"data": {
+				"effect": "feathers:energized"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "feathers:feathers.feather_regen",
+					"value": 0.1,
+					"operation": "addition"
+				}
+			}
+		]
+	},
+	"jump+8%": {
+		"title": "+7% Jump",
+		"icon": {
+			"type": "effect",
+			"data": {
+				"effect": "jump_boost"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.jump",
+					"value": 0.07,
+					"operation": "multiply_total"
+				}
+			}
+		]
+	},
+	"swimming": {
+		"title": "+0.5 Swim Speed",
+		"icon": {
+			"type": "effect",
+			"data": {
+				"effect": "kubejs:swift_swim"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "forge:swim_speed", 
+					"value": 0.5,
+					"operation": "addition"
+				}
+			}
+		]
+	}
+
+}

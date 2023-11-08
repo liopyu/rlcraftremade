@@ -1,0 +1,12 @@
+{
+	"unlocked_by_default": true,
+	"exclusive_root": true,
+	"title": "Arcane",
+	"icon": {
+		"type": "item",
+		"data": {
+			"item": "ars_nouveau:novice_spell_book"
+		}
+	},
+	"background": "textures/gui/advancements/backgrounds/sourcestone.png"
+}

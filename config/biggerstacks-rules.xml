@@ -1,0 +1,15 @@
+<ruleset version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://codeberg.org/PORTB/BiggerStacksConfigLib/raw/branch/master/extra/schema.xsd">
+    
+    <!-- COINS -->
+    <rule stacksize="99">
+        <condition>id numismaticoverhaul:bronze_coin</condition>
+    </rule>
+    <!-- COINS -->
+    <rule stacksize="99">
+        <condition>id numismaticoverhaul:silver_coin</condition>
+    </rule>
+    <!-- COINS -->
+    <rule stacksize="99">
+        <condition>id numismaticoverhaul:gold_coin</condition>
+    </rule>
+</ruleset>

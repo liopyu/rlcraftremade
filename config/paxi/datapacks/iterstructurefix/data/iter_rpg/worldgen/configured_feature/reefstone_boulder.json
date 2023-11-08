@@ -1,0 +1,8 @@
+{
+  "type": "iter_rpg:reefstone_boulder",
+  "config": {
+    "state": {
+      "Name": "iter_rpg:reef_stone"
+    }
+  }
+}

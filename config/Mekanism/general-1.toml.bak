@@ -1,0 +1,104 @@
+
+#General Config. This config is synced from server to client.
+[general]
+	logPackets = false
+	allowChunkloading = true
+	easyMinerFilters = false
+	blockDeactivationDelay = 60
+	cardboardModBlacklist = []
+	transmitterAlloyUpgrade = true
+	maxUpgradeMultiplier = 10
+	boilerWaterConductivity = 0.7
+	heatPerFuelTick = 400.0
+	fuelwoodTickMultiplier = 1
+	resistiveHeaterEfficiency = 0.6
+	superheatingHeatTransfer = 1.6E7
+	maxSolarNeutronActivatorRate = 64
+
+	[general.dynamic_tank]
+		fluidPerTank = 350000
+		chemicalPerTank = 16000000
+
+	[general.auto_eject]
+		fluid = 1024
+		chemical = 1024
+		dumpExcessKeepRatio = 0.9
+
+	[general.prefilled]
+		fluidTanks = true
+		gasTanks = true
+		infusionTanks = true
+		pigmentTanks = true
+		slurryTanks = true
+
+	[general.energy_conversion]
+		blacklistIC2 = false
+		JoulePerEU = "10"
+		blacklistForge = false
+		JoulePerForgeEnergy = "2.5000"
+		blacklistFluxNetworks = false
+		HydrogenEnergyDensity = "200"
+		maxEnergyPerSteam = "10"
+
+	[general.radiation]
+		radiationEnabled = true
+		chunkCheckRadius = 5
+		sourceDecayRate = 0.9995
+		targetDecayRate = 0.9995
+		negativeEffectsMinSeverity = 0.1
+		radioactiveWasteBarrelMaxGas = 512000
+		radioactiveWasteBarrelProcessTicks = 20
+		radioactiveWasteBarrelDecayAmount = 1
+
+	[general.digital_miner]
+		silkMultiplier = 12
+		maxRadius = 32
+		ticksPerMine = 80
+
+	[general.laser]
+		aestheticWorldDamage = true
+		range = 64
+		energyNeededPerHardness = "100000"
+		energyPerDamage = "2500"
+
+	[general.oredictionificator]
+		validItemFilters = ["forge:dusts/", "forge:ingots/", "forge:nuggets/", "forge:ores/", "forge:storage_blocks/"]
+
+	[general.pump]
+		maxPumpRange = 80
+		pumpWaterSources = false
+		pumpHeavyWaterAmount = 10
+		maxPlenisherNodes = 4000
+
+	[general.quantum_entangloporter]
+		energyBuffer = "256000000"
+		fluidBuffer = 256000
+		chemicalBuffer = 8192000
+
+	[general.security]
+		allowProtection = true
+		opsBypassRestrictions = false
+
+	[general.nutritional_paste]
+		saturation = 0.8
+		mbPerFood = 50
+
+	[general.boiler]
+		waterPerTank = 16000
+		steamPerTank = 160000
+		heatedCoolantPerTank = 256000
+		cooledCoolantPerTank = 256000
+
+	[general.thermal_evaporation]
+		heatDissipation = 0.02
+		tempMultiplier = 0.4
+		solarMultiplier = 0.2
+		heatCapacity = 100.0
+		fluidPerTank = 64000
+		outputTankCapacity = 10000
+
+	[general.sps]
+		inputPerAntimatter = 1000
+		outputTankCapacity = 1000
+		energyPerInput = "1000000"
+

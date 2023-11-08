@@ -1,0 +1,12 @@
+
+#General settings
+[general]
+	enabled = true
+	cost = 0
+	starter = false
+	per_spell_limit = 2147483647
+	glyph_tier = 1
+	augment_limits = []
+	base_duration = 5
+	extend_time = 10
+

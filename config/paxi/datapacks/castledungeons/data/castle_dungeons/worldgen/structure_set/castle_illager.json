@@ -1,0 +1,18 @@
+{
+	"placement": {
+		"salt": 30042004,
+		"separation": 8,
+		"spacing": 64,
+		"type": "minecraft:random_spread"
+	},
+	"structures": [
+		{
+			"structure": "castle_dungeons:castle_illager_plains",
+			"weight": 1
+		},
+		{
+			"structure": "castle_dungeons:castle_illager_desert",
+			"weight": 1
+		}
+	]
+}

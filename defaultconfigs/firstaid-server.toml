@@ -1,0 +1,68 @@
+
+#Server to Client synced configuration settings
+["Damage System"]
+	maxHealthHead = 6
+	maxHealthLeft_Arm = 6
+	maxHealthLeft_Leg = 6
+	maxHealthLeft_Foot = 6
+	maxHealthBody = 6
+	maxHealthRight_Arm = 6
+	maxHealthRight_Leg = 6
+	maxHealthRight_Foot = 6
+	causeDeathHead = true
+	causeDeathBody = true
+
+["Locational Armor"]
+
+	["Locational Armor".Armor]
+		multiplierHead = 5.0
+		multiplierChest = 2.4
+		multiplierLegs = 2.6
+		multiplierFeet = 4.0
+		offsetHead = 0.0
+		offsetChest = 0.0
+		offsetLegs = 0.0
+		offsetFeet = 0.0
+
+	["Locational Armor".Toughness]
+		multiplierHead = 1.0
+		multiplierChest = 1.0
+		multiplierLegs = 1.0
+		multiplierFeet = 1.0
+		offsetHead = 0.0
+		offsetChest = 0.0
+		offsetLegs = 0.0
+		offsetFeet = 0.0
+
+["Internal Healing"]
+
+	["Internal Healing".bandage]
+		totalsHeals = 4
+		secondsPerHeal = 5
+		applyTime = 1250
+
+	["Internal Healing".plaster]
+		totalsHeals = 2
+		secondsPerHeal = 5
+		applyTime = 2000
+
+["External Healing"]
+	allowNaturalRegeneration = false
+	allowOtherHealingItems = true
+	sleepHealPercentage = 0.5
+	otherRegenMultiplier = 1.0
+	naturalRegenMultiplier = 0.5
+	resistanceReductionPercentPerLevel = 20
+
+[misc]
+	scaleMaxHealth = true
+	capMaxHealth = false
+	vanillaHealthCalculation = "CRITICAL_50_PERCENT_OTHER_50_PERCENT"
+	useFriendlyRandomDistribution = false
+	armorEnchantmentMode = "local_enchantments"
+
+["Enchantment Handling"]
+	enchantmentMultiplier = 3
+	resourceLocations = ["minecraft:feather_falling", "minecraft:projectile_protection", "minecraft:fire_protection", "minecraft:blast_protection"]
+	overrideMultiplier = [2, 2, 2, 2]
+

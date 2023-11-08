@@ -1,0 +1,71 @@
+{
+  "pools": [
+    {
+      "name": "aquaculture:treasure_chest_loot",
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "item",
+          "name": "minecraft:iron_ingot",
+          "entryName": "iron_ingot",
+          "weight": 40
+        },
+        {
+          "type": "item",
+          "name": "minecraft:gold_ingot",
+          "entryName": "gold_ingot",
+          "weight": 30
+        },
+        {
+          "type": "item",
+          "name": "minecraft:diamond",
+          "entryName": "diamond",
+          "weight": 15
+        },
+        {
+          "type": "item",
+          "name": "minecraft:emerald",
+          "entryName": "emerald",
+          "weight": 15
+        },
+        {
+          "type": "item",
+          "name": "ars_nouveau:source_gem",
+          "entryName": "source_gem",
+          "weight": 20
+        },
+        {
+          "type": "item",
+          "name": "apotheosis:gem_dust",
+          "entryName": "gem_dust",
+          "weight": 10
+        },
+        {
+          "type": "item",
+          "name": "ae2:charged_certus_quartz_crystal",
+          "entryName": "quartz_crystal",
+          "weight": 20
+        },
+        {
+          "type": "item",
+          "name": "scalinghealth:heart_crystal",
+          "entryName": "heart_crystal",
+          "weight": 10
+        },
+        {
+          "type": "item",
+          "name": "enlightened_end:refined_magnetite",
+          "entryName": "magnetite",
+          "weight": 15
+        },
+        {
+          "type": "item",
+          "name": "scalinghealth:power_crystal",
+          "entryName": "power_crystal",
+          "weight": 10
+        }
+
+      ]
+    }
+  ]
+}

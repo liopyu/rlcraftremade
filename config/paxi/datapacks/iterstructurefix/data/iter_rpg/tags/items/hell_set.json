@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+    "iter_rpg:hell_pickaxe",
+    "iter_rpg:hell_flail",
+    "iter_rpg:hell_axe",
+    "iter_rpg:hell_hoe",
+    "iter_rpg:hell_shovel",
+    "iter_rpg:hell_sword",
+    "iter_rpg:hell_scythe"
+  ]
+}

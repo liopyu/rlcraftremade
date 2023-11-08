@@ -1,0 +1,40 @@
+
+[general]
+	#Toggle Health bars for mobs
+	toogle = true
+	#Render health bar only when the mob is visible
+	onvisible = true
+	#Show health points on bars. Note that not every type of the bars can show the hp
+	show_hp = true
+	#Show the Name above the mobs
+	show_name = true
+	#Show bars only when a mob is aggressive
+	on_aggro = true
+	#
+	#List for the mobs that should not be displayed, put a comma (,) between the registered names!
+	blacklist = "minecraft:ender_dragon,stalwart_dungeons:spore_projectile,minecraft:armor_stand,minecraft:villager,minecraft:sheep,minecraft:cow,minecraft:chicken,minecraft:pig,alexsmobs:blue_jay,quark:toretoise,alexsmobs:crow,minecraft:bat,minecraft:squid,minecraft:allay,minecraft:axolotl,minecraft:cat,minecraft:cod,minecraft:donkey,minecraft:fox,minecraft:frog,minecraft:glow_squid,minecraft:horse,minecraft:mooshroom,minecraft:mule,minecraft:ocelot,minecraft:parrot,minecraft:pufferfish,minecraft:rabbit,minecraft:salmon,minecraft:skeleton_horse,minecraft:snow_golem,minecraft:squid_tadpole,minecraft:tropical_fish,minecraft:turtle,minecraft:wandering_trader,alexsmobs:anteater,alexsmobs:bald_eagle,alexsmobs:bison,alexsmobs:capuchin_monkey,alexsmobs:elephant,alexsmobs:emu,alexsmobs:frilled_shark,alexsmobs:gelada_monkey,alexsmobs:giant_squid,alexsmobs:gorilla,alexsmobs:kangaroo,alexsmobs:leafcutter_ant,alexsmobs:lobster,alexsmobs:mantis_shrimp,alexsmobs:moose,alexsmobs:raccoon,alexsmobs:snow_leopard,alexsmobs:tarantula_hawk,alexsmobs:tasmanian_devil,alexsmobs:caiman,alexsmobs:cachalot_whale,theabyss:deer,theabyss:hylia_fox,theabyss:laro_fish,theabyss:luro_fish,theabyss:ralu_fish,theabyss:lizard,theabyss:infected_dragonfly,twilightforest:bighorn_sheep,twilightforest:tiny_bird,twilightforest:squirrel,twilightforest:raven,twilightforest:penguin,tameablebeasts:tameable_racoon,tameablebeasts:tameable_penguin,tameablebeasts:tameable_chikote,tameablebeasts:scarecrow,tameablebeasts:tameable_beetle,tameablebeasts:quetzalcoatlus,tameablebeasts:tameable_ground_beetle,tameablebeasts:giant_grasshopper,tameablebeasts:giant_roly_poly,tameablebeasts:tameable_teeth,minecraft:iron_golem,minecolonies:citizen,minecolonies:visitor,minecraft:dolphin,minecraft:bee,guardvillagers:guard,alexsmobs:platypus,alexsmobs:catfish,alexsmobs:fly,alexsmobs:seagull,alexsmobs:orca,minecraft:silverfish,alexsmobs:toucan"
+
+	#MobHealtBar
+	[general.hpbar]
+		#Health Bar Type
+		#Range: 1 ~ 13
+		type = 2
+		#X Position
+		#Range: > -2147483648
+		x-pos = 0
+		#Y Position
+		#Range: > -2147483648
+		y-pos = 1
+		#Render Distance
+		#Range: > 0
+		render-distance = 2000
+		#Scale Nametag
+		#Range: 0.0 ~ 1.7976931348623157E308
+		scale-name = 1.0
+		#Scale Bar
+		#Range: 0.0 ~ 1.7976931348623157E308
+		scale-bar = 1.0
+		#Scale Numbers
+		#Range: 0.0 ~ 1.7976931348623157E308
+		scale-nums = 1.0
+

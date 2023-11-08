@@ -1,0 +1,142 @@
+{
+  "carvers": {
+    "air": [
+      "minecraft:cave",
+      "minecraft:cave_extra_underground",
+      "minecraft:canyon"
+    ]
+  },
+  "downfall": 1.0,
+  "effects": {
+    "fog_color": 12638463,
+    "mood_sound": {
+      "block_search_extent": 8,
+      "offset": 2.0,
+      "sound": "minecraft:ambient.cave",
+      "tick_delay": 6000
+    },
+    "sky_color": 8103167,
+    "water_color": 4566514,
+    "water_fog_color": 267827
+  },
+  "features": [
+    [
+	  "skylands:ocean_floor/deepslate",
+	  "skylands:ocean_floor/bedrock",
+	  "skylands:ocean_floor/base_stone",
+  	  "skylands:ocean_floor/surface_stone",
+	  "skylands:non-overhang_mycelium",
+	  "skylands:overhang_coarse_dirt"
+    ],
+    [
+      "minecraft:lake_lava_underground",
+      "minecraft:lake_lava_surface",
+	  "skylands:ocean_floor/pocket_water"
+    ],
+    [
+      "skylands:amethyst_geode"
+    ],
+    [],
+    [],
+    [],
+    [
+      "skylands:ore_dirt",
+      "minecraft:ore_gravel",
+      "skylands:ore_granite_upper",
+      "skylands:ore_granite_lower",
+      "skylands:ore_diorite_upper",
+      "skylands:ore_diorite_lower",
+      "skylands:ore_andesite_upper",
+      "skylands:ore_andesite_lower",
+      "skylands:ore_tuff",
+      "skylands:ore_coal_upper",
+      "skylands:ore_coal_lower",
+      "skylands:ore_iron_upper",
+      "skylands:ore_iron_middle",
+      "skylands:ore_iron_small",
+      "skylands:ore_gold",
+      "skylands:ore_gold_lower",
+      "skylands:ore_redstone",
+      "skylands:ore_redstone_lower",
+      "skylands:ore_diamond",
+      "skylands:ore_diamond_large",
+      "skylands:ore_diamond_buried",
+      "skylands:ore_lapis",
+      "skylands:ore_lapis_buried",
+      "skylands:ore_copper",
+      "minecraft:underwater_magma",
+      "skylands:disk_sand",
+      "skylands:disk_clay",
+      "skylands:disk_gravel",
+	  "skylands:ore_emerald"
+    ],
+    [
+	  "skylands:ore_infested"
+	],
+    [
+      "minecraft:spring_water",
+      "minecraft:spring_lava"
+    ],
+    [
+      "minecraft:glow_lichen",
+      "minecraft:mushroom_island_vegetation",
+      "minecraft:brown_mushroom_taiga",
+      "minecraft:red_mushroom_taiga",
+      "minecraft:patch_sugar_cane",
+      "minecraft:patch_pumpkin",
+      "skylands:seagrass_deep_warm",
+      "minecraft:seagrass_simple",
+      "skylands:kelp_warm",
+	  "skylands:sand_top_dirt",
+	  "skylands:sand_top_stone"
+    ],
+    [
+      "minecraft:freeze_top_layer",
+	  "skylands:overhang_dirt"
+    ]
+  ],
+  "precipitation": "rain",
+  "spawn_costs": {},
+  "spawners": {
+    "ambient": [
+      {
+        "type": "minecraft:bat",
+        "maxCount": 8,
+        "minCount": 8,
+        "weight": 10
+      }
+    ],
+    "axolotls": [],
+    "creature": [
+      {
+        "type": "minecraft:mooshroom",
+        "maxCount": 8,
+        "minCount": 4,
+        "weight": 8
+      }
+    ],
+    "misc": [],
+    "monster": [],
+    "underground_water_creature": [
+      
+    ],
+    "water_ambient": [
+      
+    ],
+    "water_creature": [
+      {
+        "type": "minecraft:squid",
+        "maxCount": 1,
+        "minCount": 0,
+        "weight": 1
+      },
+      {
+        "type": "minecraft:dolphin",
+        "maxCount": 1,
+        "minCount": 0,
+        "weight": 1
+      }
+    ]
+  },
+  "temperature": 0.9
+}

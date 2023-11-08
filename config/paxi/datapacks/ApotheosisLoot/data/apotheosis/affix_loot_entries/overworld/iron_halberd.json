@@ -1,0 +1,13 @@
+{
+  "weight": 15,
+  "quality": 4.0,
+  "stack": {
+    "item": "magistuarmory:iron_concavehalberd",
+    "count": 1,
+    "nbt": "{Damage:0}"
+  },
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "max_rarity": "uncommon"
+}

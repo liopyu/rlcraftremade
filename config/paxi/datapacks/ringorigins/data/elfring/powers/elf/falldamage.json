@@ -1,0 +1,13 @@
+{
+    "name": "Acrobatics",
+    "description": "You take no fall damage.",
+    "type": "origins:modify_falling",
+    "take_fall_damage": false,
+    "condition": {
+        "type": "origins:biome",
+    "condition": {
+        "type": "origins:in_tag",
+        "tag": "minecraft:is_forest"
+    }
+    }
+}

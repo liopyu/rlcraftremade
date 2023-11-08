@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:smithing",
+    "addition": {
+      "item": "minecraft:diamond"
+    },
+    "base": {
+      "item": "shieldsplus:wooden_shield"
+    },
+    "result": {
+      "item": "shieldsplus:diamond_shield"
+    }
+  }

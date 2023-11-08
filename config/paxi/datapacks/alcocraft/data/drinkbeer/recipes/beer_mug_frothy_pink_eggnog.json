@@ -1,0 +1,45 @@
+{
+  "type": "drinkbeer:brewing",
+  "ingredients": [
+    {
+      "item": "alcocraftplus:hop"
+    },
+    
+    
+      {
+        "item": "alcocraftplus:dry_seeds"
+      },
+    
+    
+    
+    
+    
+      
+    
+    
+    [
+      {
+        "item": "kubejs:allay_essence"
+      },
+      {
+        "item": "kubejs:ylf_essence"
+      },
+      
+      {
+        "tag": "kubejs:essence"
+      }
+    ],
+    {
+      "item": "forbidden_arcanus:mundabitur_dust"
+    }
+  ],
+  "cup": {
+    "item": "alcocraftplus:mug_empty",
+    "count": 3
+  },
+  "brewing_time": 2400,
+  "result": {
+    "item": "alcocraftplus:mug_of_nether_star_lager",
+    "count": 3
+  }
+}

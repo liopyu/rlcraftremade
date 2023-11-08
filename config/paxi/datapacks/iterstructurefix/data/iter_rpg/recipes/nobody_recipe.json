@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    "345",
+    "67 "
+  ],
+  "key": {
+    "1": {
+      "item": "iter_rpg:hollow_visage"
+    },
+    "3": {
+      "item": "iter_rpg:hollow_visage"
+    },
+    "4": {
+      "item": "minecraft:crying_obsidian"
+    },
+    "5": {
+      "item": "iter_rpg:hollow_visage"
+    },
+    "6": {
+      "item": "iter_rpg:hollow_visage"
+    },
+    "7": {
+      "item": "iter_rpg:hollow_visage"
+    }
+  },
+  "result": {
+    "item": "iter_rpg:nobody",
+    "count": 1
+  }
+}

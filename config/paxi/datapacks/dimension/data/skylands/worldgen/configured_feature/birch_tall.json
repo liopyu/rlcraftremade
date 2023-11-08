@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:no_op",
+  "config": {
+    "default": "minecraft:birch_bees_0002",
+    "features": [
+      {
+        "chance": 0.15,
+        "feature": "minecraft:super_birch_bees_0002"
+      }
+    ]
+  }
+}

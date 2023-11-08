@@ -1,0 +1,20 @@
+{
+    "structures": [
+      {
+        "structure": "seafaring:floating_hub",
+        "weight": 1
+      }
+    ],
+    "placement": {
+      "type": "minecraft:random_spread",
+      "spacing": 110,
+      "separation": 80,
+      "salt": 131982748,
+      "exclusion_zone":{
+        "chunk_count":16,
+        "other_set":[
+        "minecraft:ancient_city"
+        ]
+        }
+    }
+  }

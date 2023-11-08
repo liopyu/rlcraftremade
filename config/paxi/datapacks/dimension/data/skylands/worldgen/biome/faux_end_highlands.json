@@ -1,0 +1,91 @@
+{
+  "carvers": {
+    "air": [
+      "minecraft:cave",
+      "minecraft:cave_extra_underground",
+      "minecraft:canyon"
+    ]
+  },
+  "downfall": 0.5,
+  "effects": {
+    "fog_color": 10518688,
+    "mood_sound": {
+      "block_search_extent": 8,
+      "offset": 2.0,
+      "sound": "minecraft:ambient.cave",
+      "tick_delay": 6000
+    },
+    "sky_color": 0,
+    "water_color": 3750089,
+    "water_fog_color": 329011
+  },
+  "features": [
+    [
+	  "skylands:ocean_floor/deepslate_end",
+	  "skylands:ocean_floor/bedrock",
+	  "skylands:ocean_floor/base_end",
+      "skylands:ocean_floor/surface_end"
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+	  "skylands:underwater_magma"
+    ],
+    [],
+    [
+      "minecraft:iceberg_packed",
+      "minecraft:iceberg_blue",
+	  "skylands:gravel_top_end_stone"
+	],
+    [
+      "minecraft:blue_ice",
+	  "skylands:ice_cover",
+	  "skylands:ice_cover_cleanup",
+      "minecraft:chorus_plant"
+    ]
+  ],
+  "precipitation": "none",
+  "spawn_costs": {},
+  "spawners": {
+    "ambient": [],
+    "axolotls": [],
+    "creature": [],
+    "misc": [],
+    "monster": [
+      {
+        "type": "minecraft:enderman",
+        "maxCount": 4,
+        "minCount": 4,
+        "weight": 10
+      }
+    ],
+    "underground_water_creature": [
+      {
+        "type": "minecraft:glow_squid",
+        "maxCount": 2,
+        "minCount": 1,
+        "weight": 10
+      }
+    ],
+    "water_ambient": [
+      {
+        "type": "minecraft:salmon",
+        "maxCount": 5,
+        "minCount": 1,
+        "weight": 15
+      }
+    ],
+    "water_creature": [
+      {
+        "type": "minecraft:squid",
+        "maxCount": 4,
+        "minCount": 1,
+        "weight": 1
+      }
+    ]
+  },
+  "temperature": 0.6
+}

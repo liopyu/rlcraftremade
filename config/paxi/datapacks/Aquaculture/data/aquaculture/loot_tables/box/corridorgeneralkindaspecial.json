@@ -1,0 +1,826 @@
+{
+    "type": "minecraft:chest",
+    "pools": [
+      {
+        "rolls": {
+          "type": "minecraft:uniform",
+          "min": 1.0,
+          "max": 1.0
+        },
+        "bonus_rolls": 0.0,
+        "entries": [
+          
+          {
+            "type": "minecraft:item",
+            "weight": 1,
+            "functions": [
+              {
+                "function": "minecraft:set_count",
+                "count": {
+                  "type": "minecraft:uniform",
+                  "min": 1.0,
+                  "max": 1.0
+                },
+                "add": false
+              }
+            ],
+            "name": "aquaculture:neptunium_ingot"
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 1,
+            "functions": [
+              {
+                "function": "minecraft:set_count",
+                "count": {
+                  "type": "minecraft:uniform",
+                  "min": 1.0,
+                  "max": 9.0
+                },
+                "add": false
+              }
+            ],
+            "name": "aquaculture:neptunium_nugget"
+          },
+          {
+            "type": "placebo:stack_entry",
+            "weight": 1,
+            "quality": 1,
+            "functions": [
+              {
+                "function": "minecraft:enchant_randomly"
+              }
+            ],
+            "min": 1,
+            "max": 1,
+            "stack": {
+              "item": "aquaculture:neptunium_fishing_rod",
+              "count": 1,
+              "nbt": "{Damage:0}"
+            }
+          },
+          {
+            "type": "placebo:stack_entry",
+            "weight": 1,
+            "quality": 1,
+            "functions": [
+              {
+                "function": "minecraft:enchant_randomly"
+              }
+            ],
+            "min": 1,
+            "max": 1,
+            "stack": {
+              "item": "aquaculture:neptunium_pickaxe",
+              "count": 1,
+              "nbt": "{Damage:0}"
+            }
+          },
+          {
+            "type": "placebo:stack_entry",
+            "weight": 1,
+            "quality": 1,
+            "functions": [
+              {
+                "function": "minecraft:enchant_randomly"
+              }
+            ],
+            "min": 1,
+            "max": 1,
+            "stack": {
+              "item": "aquaculture:neptunium_shovel",
+              "count": 1,
+              "nbt": "{Damage:0}"
+            }
+          },
+          {
+            "type": "placebo:stack_entry",
+            "weight": 1,
+            "quality": 1,
+            "functions": [
+              {
+                "function": "minecraft:enchant_randomly"
+              }
+            ],
+            "min": 1,
+            "max": 1,
+            "stack": {
+              "item": "aquaculture:neptunium_axe",
+              "count": 1,
+              "nbt": "{Damage:0}"
+            }
+          },
+          {
+            "type": "placebo:stack_entry",
+            "weight": 1,
+            "quality": 1,
+            "functions": [
+              {
+                "function": "minecraft:enchant_randomly"
+              }
+            ],
+            "min": 1,
+            "max": 1,
+            "stack": {
+              "item": "aquaculture:neptunium_hoe",
+              "count": 1,
+              "nbt": "{Damage:0}"
+            }
+          },
+          {
+            "type": "placebo:stack_entry",
+            "weight": 1,
+            "quality": 1,
+            "functions": [
+              {
+                "function": "minecraft:enchant_randomly"
+              }
+            ],
+            "min": 1,
+            "max": 1,
+            "stack": {
+              "item": "aquaculture:neptunium_sword",
+              "count": 1,
+              "nbt": "{Damage:0}"
+            }
+          },
+          {
+            "type": "placebo:stack_entry",
+            "weight": 1,
+            "quality": 1,
+            "functions": [
+              {
+                "function": "minecraft:enchant_randomly"
+              }
+            ],
+            "min": 1,
+            "max": 1,
+            "stack": {
+              "item": "aquaculture:neptunium_bow",
+              "count": 1,
+              "nbt": "{Damage:0}"
+            }
+          },
+          {
+            "type": "placebo:stack_entry",
+            "weight": 1,
+            "quality": 1,
+            "functions": [
+              {
+                "function": "minecraft:enchant_randomly"
+              }
+            ],
+            "min": 1,
+            "max": 1,
+            "stack": {
+              "item": "aquaculture:neptunium_helmet",
+              "count": 1,
+              "nbt": "{Damage:0}"
+            }
+          },
+          {
+            "type": "placebo:stack_entry",
+            "weight": 1,
+            "quality": 1,
+            "functions": [
+              {
+                "function": "minecraft:enchant_randomly"
+              }
+            ],
+            "min": 1,
+            "max": 1,
+            "stack": {
+              "item": "aquaculture:neptunium_chestplate",
+              "count": 1,
+              "nbt": "{Damage:0}"
+            }
+          },
+          {
+            "type": "placebo:stack_entry",
+            "weight": 1,
+            "quality": 1,
+            "functions": [
+              {
+                "function": "minecraft:enchant_randomly"
+              }
+            ],
+            "min": 1,
+            "max": 1,
+            "stack": {
+              "item": "aquaculture:neptunium_leggings",
+              "count": 1,
+              "nbt": "{Damage:0}"
+            }
+          },
+          {
+            "type": "placebo:stack_entry",
+            "weight": 1,
+            "quality": 1,
+            "functions": [
+              {
+                "function": "minecraft:enchant_randomly"
+              }
+            ],
+            "min": 1,
+            "max": 1,
+            "stack": {
+              "item": "aquaculture:neptunium_boots",
+              "count": 1,
+              "nbt": "{Damage:0}"
+            }
+          },
+          {
+            "type": "placebo:stack_entry",
+            "weight": 1,
+            "quality": 1,
+            "functions": [
+              {
+                "function": "minecraft:enchant_randomly"
+              }
+            ],
+            "min": 1,
+            "max": 1,
+            "stack": {
+              "item": "aquaculture:neptunium_fillet_knife",
+              "count": 1,
+              "nbt": "{Damage:0}"
+            }
+          }
+        ]
+      },
+      {
+        "rolls": {
+          "type": "minecraft:uniform",
+          "min": 1.0,
+          "max": 1.0
+        },
+        "bonus_rolls": 0.2,
+        "entries": [
+          
+          {
+            "weight": 10,
+            "type": "minecraft:empty"
+          },
+          
+          {
+            "type": "minecraft:item",
+            "weight": 10,
+            "functions": [
+              {
+                "function": "minecraft:set_count",
+                "count": {
+                  "type": "minecraft:uniform",
+                  "min": 9.0,
+                  "max": 15.0
+                },
+                "add": false
+              }
+            ],
+            "name": "minecraft:glowstone_dust"
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 10,
+            "functions": [
+              {
+                "function": "minecraft:set_count",
+                "count": {
+                  "type": "minecraft:uniform",
+                  "min": 1.0,
+                  "max": 4.0
+                },
+                "add": false
+              }
+            ],
+            "name": "minecraft:ender_pearl"
+          },
+          
+          {
+            "type": "minecraft:item",
+            "weight": 10,
+            "functions": [
+              {
+                "function": "minecraft:set_count",
+                "count": {
+                  "type": "minecraft:uniform",
+                  "min": 1.0,
+                  "max": 2.0
+                },
+                "add": false
+              }
+            ],
+            "name": "minecraft:gold_block"
+          }
+          
+
+        ]
+      },
+      {
+        "rolls": {
+          "type": "minecraft:uniform",
+          "min": 1.0,
+          "max": 1.0
+        },
+        "bonus_rolls": 0.2,
+        "entries": [
+          
+          {
+            "type": "minecraft:item",
+            "weight": 3,
+            "functions": [
+              {
+                "function": "minecraft:set_count",
+                "count": {
+                  "type": "minecraft:uniform",
+                  "min": 2.0,
+                  "max": 5.0
+                },
+                "add": false
+              }
+            ],
+            "name": "minecraft:slime_block"
+          },
+          {
+            "weight": 30,
+            "type": "minecraft:empty"
+          },
+          
+          {
+            "type": "minecraft:item",
+            "weight": 15,
+            "functions": [
+              {
+                "function": "minecraft:set_count",
+                "count": {
+                  "type": "minecraft:uniform",
+                  "min": 1.0,
+                  "max": 12.0
+                },
+                "add": false
+              }
+            ],
+            "name": "minecraft:ender_pearl"
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 10,
+            "functions": [
+              {
+                "function": "minecraft:set_count",
+                "count": {
+                  "type": "minecraft:uniform",
+                  "min": 1.0,
+                  "max": 2.0
+                },
+                "add": false
+              }
+            ],
+            "name": "minecraft:diamond_block"
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 10,
+            "functions": [
+              {
+                "function": "minecraft:set_count",
+                "count": {
+                  "type": "minecraft:uniform",
+                  "min": 5.0,
+                  "max": 7.0
+                },
+                "add": false
+              }
+            ],
+            "name": "minecraft:gold_ingot"
+          }
+          
+        ]
+      },
+      {
+        "rolls": {
+          "type": "minecraft:uniform",
+          "min": 1.0,
+          "max": 1.0
+        },
+        "bonus_rolls": 1.0,
+        "entries": [
+          {
+            "weight": 3,
+            "type": "minecraft:empty"
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 8,
+            "functions": [
+              {
+                "function": "minecraft:set_count",
+                "count": {
+                  "type": "minecraft:uniform",
+                  "min": 5.0,
+                  "max": 10.0
+                },
+                "add": false
+              }
+            ],
+            "name": "minecraft:iron_ingot"
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 3,
+            "quality": 3,
+            "functions": [
+              {
+                "function": "minecraft:set_count",
+                "count": {
+                  "type": "minecraft:uniform",
+                  "min": 2.0,
+                  "max": 3.0
+                },
+                "add": false
+              }
+            ],
+            "name": "iter_rpg:ocean_ingot"
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 3,
+            "quality": 3,
+            "functions": [
+              {
+                "function": "minecraft:set_count",
+                "count": {
+                  "type": "minecraft:uniform",
+                  "min": 5.0,
+                  "max": 7.0
+                },
+                "add": false
+              }
+            ],
+            "name": "iter_rpg:water_rune"
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 3,
+            "quality": 3,
+            "functions": [
+              {
+                "function": "minecraft:set_count",
+                "count": {
+                  "type": "minecraft:uniform",
+                  "min": 1.0,
+                  "max": 1.0
+                },
+                "add": false
+              }
+            ],
+            "name": "toolbelt:belt"
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 5,
+            "quality": 3,
+            "functions": [
+              {
+                "function": "minecraft:set_count",
+                "count": {
+                  "type": "minecraft:uniform",
+                  "min": 8.0,
+                  "max": 12.0
+                },
+                "add": false
+              }
+            ],
+            "name": "minecraft:experience_bottle"
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 3,
+            "quality": 3,
+            "functions": [
+              {
+                "function": "minecraft:set_count",
+                "count": {
+                  "type": "minecraft:uniform",
+                  "min": 1.0,
+                  "max": 1.0
+                },
+                "add": false
+              }
+            ],
+            "name": "toolbelt:pouch"
+          }
+        ]
+      },
+      
+      {
+        "rolls": {
+          "type": "minecraft:uniform",
+          "min": 1.0,
+          "max": 1.0
+        },
+        "bonus_rolls": 1.0,
+        "entries": [
+          {
+            "weight": 15,
+            "type": "minecraft:empty"
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 1,
+            "quality": 3,
+            "functions": [
+              {
+                "function": "minecraft:set_count",
+                "count": {
+                  "type": "minecraft:uniform",
+                  "min": 1.0,
+                  "max": 1.0
+                },
+                "add": false
+              }
+            ],
+            "name": "minecraft:enchanted_golden_apple"
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 12,
+            "functions": [
+              {
+                "function": "minecraft:set_count",
+                "count": {
+                  "type": "minecraft:uniform",
+                  "min": 2.0,
+                  "max": 3.0
+                },
+                "add": false
+              }
+            ],
+            "name": "minecraft:blaze_rod"
+          }
+        ]
+      },
+      {
+        "rolls": {
+          "type": "minecraft:uniform",
+          "min": 1.0,
+          "max": 1.0
+        },
+        "bonus_rolls": 0.7,
+        "entries": [
+          
+          {
+            "weight": 8,
+            "type": "minecraft:empty"
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 10,
+            "functions": [
+              {
+                "function": "minecraft:set_count",
+                "count": {
+                  "type": "minecraft:uniform",
+                  "min": 3.0,
+                  "max": 10.0
+                },
+                "add": false
+              }
+            ],
+            "name": "minecraft:lapis_lazuli"
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 10,
+            "functions": [
+              {
+                "function": "minecraft:set_count",
+                "count": {
+                  "type": "minecraft:uniform",
+                  "min": 5.0,
+                  "max": 8.0
+                },
+                "add": false
+              }
+            ],
+            "name": "minecraft:glowstone_dust"
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 1,
+            "functions": [
+              {
+                "function": "minecraft:set_count",
+                "count": {
+                  "type": "minecraft:uniform",
+                  "min": 2.0,
+                  "max": 5.0
+                },
+                "add": false
+              }
+            ],
+            "name": "theabyss:bottle_of_somnium"
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 3,
+            "quality": 3,
+            "functions": [
+              {
+                "function": "minecraft:set_count",
+                "count": {
+                  "type": "minecraft:uniform",
+                  "min": 3.0,
+                  "max": 10.0
+                },
+                "add": false
+              }
+            ],
+            "name": "minecraft:lapis_block"
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 5,
+            "quality": 3,
+            "functions": [
+              {
+                "function": "minecraft:set_count",
+                "count": {
+                  "type": "minecraft:uniform",
+                  "min": 5.0,
+                  "max": 10.0
+                },
+                "add": false
+              }
+            ],
+            "name": "xtraarrows:diamond_arrow"
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 3,
+            "functions": [
+              {
+                "function": "minecraft:set_count",
+                "count": {
+                  "type": "minecraft:uniform",
+                  "min": 2.0,
+                  "max": 5.0
+                },
+                "add": false
+              }
+            ],
+            "name": "minecraft:slime_ball"
+          },
+          
+          {
+            "type": "minecraft:item",
+            "weight": 6,
+            "quality": 3,
+            "functions": [
+              {
+                "function": "minecraft:set_count",
+                "count": {
+                  "type": "minecraft:uniform",
+                  "min": 1.0,
+                  "max": 3.0
+                },
+                "add": false
+              }
+            ],
+            "name": "minecraft:golden_apple"
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 15,
+            "quality": 3,
+            "functions": [
+              {
+                "function": "minecraft:set_count",
+                "count": {
+                  "type": "minecraft:uniform",
+                  "min": 4.0,
+                  "max": 5.0
+                },
+                "add": false
+              }
+            ],
+            "name": "minecraft:experience_bottle"
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 18,
+            "functions": [
+              {
+                "function": "minecraft:set_count",
+                "count": {
+                  "type": "minecraft:uniform",
+                  "min": 2.0,
+                  "max": 6.0
+                },
+                "add": false
+              }
+            ],
+            "name": "minecraft:emerald"
+          }
+        ]
+      },
+      
+      {
+        "rolls": {
+          "type": "minecraft:uniform",
+          "min": 1.0,
+          "max": 1.0
+        },
+        "bonus_rolls": 0.7,
+        "entries": [
+          {
+            "type": "minecraft:item",
+            "weight": 7,
+            "functions": [
+              {
+                "function": "minecraft:set_count",
+                "count": {
+                  "type": "minecraft:uniform",
+                  "min": 5.0,
+                  "max": 15.0
+                },
+                "add": false
+              }
+            ],
+            "name": "xtraarrows:flint_atlantean_arrow"
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 3,
+            "functions": [
+              {
+                "function": "minecraft:set_count",
+                "count": {
+                  "type": "minecraft:uniform",
+                  "min": 3.0,
+                  "max": 10.0
+                },
+                "add": false
+              }
+            ],
+            "name": "xtraarrows:diamond_atlantean_arrow"
+          },
+          
+          {
+            "weight": 18,
+            "type": "minecraft:empty"
+          }
+        ]
+      },
+      {
+        "rolls": {
+          "type": "minecraft:uniform",
+          "min": 1.0,
+          "max": 1.0
+        },
+        "bonus_rolls": 0.7,
+        "entries": [
+          
+          {
+            "weight": 15,
+            "type": "minecraft:empty"
+          },
+          
+          
+          {
+            "type": "minecraft:item",
+            "weight": 15,
+            "functions": [
+              {
+                "function": "minecraft:set_count",
+                "count": {
+                  "type": "minecraft:uniform",
+                  "min": 1.0,
+                  "max": 4.0
+                },
+                "add": false
+              }
+            ],
+            "name": "waystones:warp_scroll"
+          },
+          
+          {
+            "type": "minecraft:item",
+            "weight": 1,
+            "quality": 1,
+            "functions": [
+              {
+                "function": "minecraft:set_count",
+                "count": {
+                  "type": "minecraft:uniform",
+                  "min": 1.0,
+                  "max": 4.0
+                },
+                "add": false
+              }
+            ],
+            "name": "minecraft:quartz"
+          }
+        ]
+      }
+    ]
+  }

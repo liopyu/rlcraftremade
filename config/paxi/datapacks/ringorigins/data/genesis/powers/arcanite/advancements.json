@@ -1,0 +1,85 @@
+{
+  "type": "origins:multiple",
+  "hidden": true,
+
+  "root": {
+    "type": "origins:action_on_callback",
+    "entity_action_chosen": {
+      "type": "origins:execute_command",
+      "command": "advancement grant @s only arcanite:root",
+      "permission_level": 4
+    },
+    "execute_chosen_when_orb": true
+  },
+
+  "acolyte": {
+    "type": "origins:action_over_time",
+    "rising_action": {
+      "type": "origins:execute_command",
+      "command": "advancement grant @s only arcanite:acolyte",
+      "permission_level": 4
+    },
+    "interval": 20,
+    "condition": {
+      "type": "origins:xp_levels",
+      "comparison": "==",
+      "compare_to": 5
+    }
+  },
+  "adept": {
+    "type": "origins:action_over_time",
+    "rising_action": {
+      "type": "origins:execute_command",
+      "command": "advancement grant @s only arcanite:adept",
+      "permission_level": 4
+    },
+    "interval": 20,
+    "condition": {
+      "type": "origins:xp_levels",
+      "comparison": "==",
+      "compare_to": 10
+    }
+  },
+  "magus": {
+    "type": "origins:action_over_time",
+    "rising_action": {
+      "type": "origins:execute_command",
+      "command": "advancement grant @s only arcanite:magus",
+      "permission_level": 4
+    },
+    "interval": 20,
+    "condition": {
+      "type": "origins:xp_levels",
+      "comparison": "==",
+      "compare_to": 20
+    }
+  },
+  "thaumaturge": {
+    "type": "origins:action_over_time",
+    "rising_action": {
+      "type": "origins:execute_command",
+      "command": "advancement grant @s only arcanite:thaumaturge",
+      "permission_level": 4
+    },
+    "interval": 20,
+    "condition": {
+      "type": "origins:xp_levels",
+      "comparison": "==",
+      "compare_to": 50
+    }
+  },
+  "master": {
+    "type": "origins:action_over_time",
+    "rising_action": {
+      "type": "origins:execute_command",
+      "command": "advancement grant @s only arcanite:master",
+      "permission_level": 4
+    },
+    "interval": 20,
+    "condition": {
+      "type": "origins:xp_levels",
+      "comparison": "==",
+      "compare_to": 100
+    }
+  }
+}

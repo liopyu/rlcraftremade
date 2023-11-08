@@ -1,0 +1,42 @@
+[
+    {
+    "mob": "medieval_craft_weapons:archer",
+    "result": "allow",
+    "setxp": "50"
+    },
+    {
+        "mob": "medieval_craft_weapons:heavyknight",
+        "result": "allow",
+        "setxp": "100"
+        },
+        {
+            "mob": "medieval_craft_weapons:knight",
+            "result": "allow",
+            "setxp": "50"
+            },
+            {
+                "mob": "medieval_craft_weapons:romancenturion",
+                "result": "allow",
+                "setxp": "50"
+                },
+                {
+                    "mob": "medieval_craft_weapons:romanlegionary",
+                    "result": "allow",
+                    "setxp": "50"
+                    },
+                    {
+                        "mob": "medieval_craft_weapons:soldier",
+                        "result": "allow",
+                        "setxp": "30"
+                        },
+                        {
+                            "mob": "medieval_craft_weapons:viking_1",
+                            "result": "allow",
+                            "setxp": "70"
+                            },
+                            {
+                                "mob": "medieval_craft_weapons:viking_2",
+                                "result": "allow",
+                                "setxp": "70"
+                                }
+]

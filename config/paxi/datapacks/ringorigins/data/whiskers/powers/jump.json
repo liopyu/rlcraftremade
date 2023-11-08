@@ -1,0 +1,11 @@
+{
+  "type": "origins:attribute",
+	"modifier": {
+		"attribute": "puffish_skills:player.jump",
+		"value": 0.4,
+		"operation": "addition"
+	},
+	"name": "Nimble",
+	"description": "You can now jump higher."
+}
+

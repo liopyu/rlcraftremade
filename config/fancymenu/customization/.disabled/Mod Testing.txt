@@ -1,0 +1,35 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.client.gui.screens.PauseScreen
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  identifier = %id=398306%
+  action = hidebutton
+}
+
+customization {
+  orientation = top-left
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  buttonaction = mimicbutton
+  x = 218
+  width = 98
+  actionid = c4b92bca-7785-4343-bf0a-a0fcdfb997511680532651964
+  action = addbutton
+  y = 138
+  label = Mods
+  value = https://www.youtube.com/watch?v=NQqRNbZ5F_U&ab_channel=OldZadChanelNowGone
+  height = 20
+}
+

@@ -1,0 +1,7 @@
+#by bad_programmer
+execute if score *WOODEN_PICKAXE_ON/OFF* SETTINGS_VALUE_IP matches 1 at @a[scores={IP_WOODEN_PICKAXE_USE=1..},predicate=!improved_pickaxes:sneak_true] positioned ~ ~1.62 ~ run function improved_pickaxes:pickaxes/wooden/xz
+execute if score *STONE_PICKAXE_ON/OFF* SETTINGS_VALUE_IP matches 1 at @a[scores={IP_STONE_PICKAXE_USE=1..},predicate=!improved_pickaxes:sneak_true] positioned ~ ~1.62 ~ run function improved_pickaxes:pickaxes/stone/xz
+execute if score *IRON_PICKAXE_ON/OFF* SETTINGS_VALUE_IP matches 1 at @a[scores={IP_IRON_PICKAXE_USE=1..},predicate=!improved_pickaxes:sneak_true] positioned ~ ~1.62 ~ run function improved_pickaxes:pickaxes/iron/xz
+execute if score *GOLDEN_PICKAXE_ON/OFF* SETTINGS_VALUE_IP matches 1 at @a[scores={IP_GOLDEN_PICKAXE_USE=1..},predicate=!improved_pickaxes:sneak_true] positioned ~ ~1.62 ~ run function improved_pickaxes:pickaxes/golden/xz
+execute if score *DIAMOND_PICKAXE_ON/OFF* SETTINGS_VALUE_IP matches 1 at @a[scores={IP_DIAMOND_PICKAXE_USE=1..},predicate=!improved_pickaxes:sneak_true] positioned ~ ~1.62 ~ run function improved_pickaxes:pickaxes/diamond/xz
+execute if score *NETHERITE_PICKAXE_ON/OFF* SETTINGS_VALUE_IP matches 1 at @a[scores={IP_NETHERITE_PICKAXE_USE=1..},predicate=!improved_pickaxes:sneak_true] positioned ~ ~1.62 ~ run function improved_pickaxes:pickaxes/netherite/xz

@@ -1,0 +1,461 @@
+{
+    "type": "minecraft:chest",
+    "pools": [
+      {
+        "rolls": {
+          "type": "minecraft:uniform",
+          "max": 1.0,
+          "min": 1.0
+        },
+        "bonus_rolls": 0.0,
+        "entries": [
+          {
+            "type": "minecraft:item",
+            "functions": [
+              {
+                "add": false,
+                "count": {
+                  "type": "minecraft:uniform",
+                  "max": 1.0,
+                  "min": 1.0
+                },
+                "function": "minecraft:set_count"
+              }
+            ],
+            "name": "kubejs:yamis_katana_hilt",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "functions": [
+              {
+                "add": false,
+                "count": {
+                  "type": "minecraft:uniform",
+                  "max": 1.0,
+                  "min": 1.0
+                },
+                "function": "minecraft:set_count"
+              }
+            ],
+            "name": "kubejs:rimurus_katana_hilt",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "functions": [
+              {
+                "add": false,
+                "count": {
+                  "type": "minecraft:uniform",
+                  "max": 1.0,
+                  "min": 1.0
+                },
+                "function": "minecraft:set_count"
+              }
+            ],
+            "name": "kubejs:snake_sword_hilt",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "functions": [
+              {
+                "add": false,
+                "count": {
+                  "type": "minecraft:uniform",
+                  "max": 1.0,
+                  "min": 1.0
+                },
+                "function": "minecraft:set_count"
+              }
+            ],
+            "name": "kubejs:murasame_hilt",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:empty",
+            "weight": 500
+          }
+        ]
+      },
+      {
+        "rolls": {
+          "type": "minecraft:uniform",
+          "min": 1.0,
+          "max": 2.0
+        },
+        "bonus_rolls": 1.0,
+        "entries": [
+          {
+            "weight": 3,
+            "type": "minecraft:empty"
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 8,
+            "functions": [
+              {
+                "function": "minecraft:set_count",
+                "count": {
+                  "type": "minecraft:uniform",
+                  "min": 1.0,
+                  "max": 1.0
+                },
+                "add": false
+              }
+            ],
+            "name": "minecraft:iron_ingot"
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 8,
+            "functions": [
+              {
+                "function": "minecraft:set_count",
+                "count": {
+                  "type": "minecraft:uniform",
+                  "min": 1.0,
+                  "max": 3.0
+                },
+                "add": false
+              }
+            ],
+            "name": "iter_rpg:gobsteel_scrap"
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 3,
+            "quality": 3,
+            "functions": [
+              {
+                "function": "minecraft:set_count",
+                "count": {
+                  "type": "minecraft:uniform",
+                  "min": 2.0,
+                  "max": 7.0
+                },
+                "add": false
+              }
+            ],
+            "name": "mekanism:nugget_steel"
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 8,
+            "quality": 3,
+            "functions": [
+              {
+                "function": "minecraft:set_count",
+                "count": {
+                  "type": "minecraft:uniform",
+                  "min": 5.0,
+                  "max": 10.0
+                },
+                "add": false
+              }
+            ],
+            "name": "minecraft:iron_ingot"
+          }
+          
+        ]
+      },
+      {
+        "rolls": {
+          "type": "minecraft:uniform",
+          "min": 1.0,
+          "max": 2.0
+        },
+        "bonus_rolls": 1.0,
+        "entries": [
+          {
+            "weight": 10,
+            "type": "minecraft:empty"
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 10,
+            "quality": 3,
+            "functions": [
+              {
+                "function": "minecraft:set_count",
+                "count": {
+                  "type": "minecraft:uniform",
+                  "min": 1.0,
+                  "max": 1.0
+                },
+                "add": false
+              }
+            ],
+            "name": "magistuarmory:iron_shortsword"
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 10,
+            "functions": [
+              {
+                "function": "minecraft:set_count",
+                "count": {
+                  "type": "minecraft:uniform",
+                  "min": 1.0,
+                  "max": 1.0
+                },
+                "add": false
+              }
+            ],
+            "name": "magistuarmory:iron_lochaberaxe"
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 10,
+            "functions": [
+              {
+                "function": "minecraft:set_count",
+                "count": {
+                  "type": "minecraft:uniform",
+                  "min": 1.0,
+                  "max": 3.0
+                },
+                "add": false
+              }
+            ],
+            "name": "magistuarmory:iron_pike"
+          }
+        ]
+      },
+      {
+        "rolls": {
+          "type": "minecraft:uniform",
+          "min": 1.0,
+          "max": 2.0
+        },
+        "bonus_rolls": 1.0,
+        "entries": [
+          {
+            "weight": 10,
+            "type": "minecraft:empty"
+          },
+          
+          {
+            "type": "minecraft:item",
+            "weight": 7,
+            "functions": [
+              {
+                "function": "minecraft:set_count",
+                "count": {
+                  "type": "minecraft:uniform",
+                  "min": 10.0,
+                  "max": 19.0
+                },
+                "add": false
+              }
+            ],
+            "name": "numismaticoverhaul:bronze_coin"
+          },
+          
+          {
+            "type": "minecraft:item",
+            "weight": 1,
+            "functions": [
+              {
+                "function": "minecraft:set_count",
+                "count": {
+                  "type": "minecraft:uniform",
+                  "min": 1.0,
+                  "max": 3.0
+                },
+                "add": false
+              }
+            ],
+            "name": "numismaticoverhaul:silver_coin"
+          }
+        ]
+      },
+      
+      {
+        "rolls": {
+          "type": "minecraft:uniform",
+          "min": 1.0,
+          "max": 2.0
+        },
+        "bonus_rolls": 0.7,
+        "entries": [
+          
+          {
+            "weight": 8,
+            "type": "minecraft:empty"
+          },
+          
+          {
+            "type": "minecraft:item",
+            "weight": 3,
+            "functions": [
+              {
+                "function": "minecraft:set_count",
+                "count": {
+                  "type": "minecraft:uniform",
+                  "min": 1.0,
+                  "max": 1.0
+                },
+                "add": false
+              }
+            ],
+            "name": "magistuarmory:iron_rondache"
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 3,
+            "quality": 3,
+            "functions": [
+              {
+                "function": "minecraft:set_count",
+                "count": {
+                  "type": "minecraft:uniform",
+                  "min": 1.0,
+                  "max": 1.0
+                },
+                "add": false
+              }
+            ],
+            "name": "magistuarmory:stone_stylet"
+          },
+          
+          {
+            "type": "minecraft:item",
+            "weight": 3,
+            "quality": 3,
+            "functions": [
+              {
+                "function": "minecraft:set_count",
+                "count": {
+                  "type": "minecraft:uniform",
+                  "min": 1.0,
+                  "max": 1.0
+                },
+                "add": false
+              }
+            ],
+            "name": "magistuarmory:stone_concavehalberd"
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 3,
+            "quality": 3,
+            "functions": [
+              {
+                "function": "minecraft:set_count",
+                "count": {
+                  "type": "minecraft:uniform",
+                  "min": 1.0,
+                  "max": 1.0
+                },
+                "add": false
+              }
+            ],
+            "name": "magistuarmory:stone_lochaberaxe"
+          }
+        ]
+      },
+      {
+        "rolls": {
+          "type": "minecraft:uniform",
+          "min": 1.0,
+          "max": 2.0
+        },
+        "bonus_rolls": 0.7,
+        "entries": [
+          
+          {
+            "weight": 8,
+            "type": "minecraft:empty"
+          },
+          
+          {
+            "type": "minecraft:item",
+            "weight": 3,
+            "functions": [
+              {
+                "function": "minecraft:set_count",
+                "count": {
+                  "type": "minecraft:uniform",
+                  "min": 1.0,
+                  "max": 1.0
+                },
+                "add": false
+              }
+            ],
+            "name": "magistuarmory:hilt"
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 3,
+            "functions": [
+              {
+                "function": "minecraft:set_count",
+                "count": {
+                  "type": "minecraft:uniform",
+                  "min": 1.0,
+                  "max": 1.0
+                },
+                "add": false
+              }
+            ],
+            "name": "minecraft:stone_sword"
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 3,
+            "quality": 3,
+            "functions": [
+              {
+                "function": "minecraft:set_count",
+                "count": {
+                  "type": "minecraft:uniform",
+                  "min": 1.0,
+                  "max": 2.0
+                },
+                "add": false
+              }
+            ],
+            "name": "minecraft:diamond"
+          },
+          
+          {
+            "type": "minecraft:item",
+            "weight": 1,
+            "quality": 3,
+            "functions": [
+              {
+                "function": "minecraft:set_count",
+                "count": {
+                  "type": "minecraft:uniform",
+                  "min": 1.0,
+                  "max": 2.0
+                },
+                "add": false
+              }
+            ],
+            "name": "iter_rpg:earth_rune"
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 1,
+            "quality": 3,
+            "functions": [
+              {
+                "function": "minecraft:set_count",
+                "count": {
+                  "type": "minecraft:uniform",
+                  "min": 1.0,
+                  "max": 1.0
+                },
+                "add": false
+              }
+            ],
+            "name": "magistuarmory:steel_ingot"
+          }
+        ]
+      }
+      
+    ]
+  }

@@ -1,0 +1,13 @@
+{
+  "weight": 20,
+  "quality": 3.0,
+  "stack": {
+    "item": "magistuarmory:iron_shortsword",
+    "count": 1,
+    "nbt": "{Damage:0}"
+  },
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "max_rarity": "uncommon"
+}

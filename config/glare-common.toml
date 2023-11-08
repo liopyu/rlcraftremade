@@ -1,0 +1,7 @@
+
+#Spawn settings
+[spawnsettings]
+	#Glare x, z search range in blocks. WARNING BIGGER NUMBER EQUALS BIGGER LAG!
+	#Range: > 0
+	range = 20
+

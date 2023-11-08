@@ -1,0 +1,10 @@
+{
+	"type": "origins:attribute",
+	"modifier": {
+		"attribute": "puffish_skills:player.ranged_damage",
+		"value": 8,
+		"operation": "addition"
+	},
+	"name": "Nimble",
+	"description": "+8 Archery damage."
+}

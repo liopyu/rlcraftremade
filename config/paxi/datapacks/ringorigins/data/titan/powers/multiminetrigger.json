@@ -1,0 +1,33 @@
+{
+  "type": "origins:active_self",
+  "condition": {
+		"type": "origins:and",
+		"conditions": [
+			
+      
+		]
+	},
+  
+  "entity_action": {
+		"type": "origins:and",
+    "actions": [
+      
+	
+      {
+        "type": "origins:execute_command",
+        "command": "trigger SETTINGS_IP",
+        "permission_level": 4
+      }
+]
+},
+  
+  
+  
+  
+  "key": {
+    "key": "secondary"
+  },
+  "hidden": false,
+  "name": "§6Controlled Strength",
+    "description":"Your kind is suprisingly good at self-control due to your enlarged brain. You are able to control your block-breaking capabilities to a degree.(Toggle With Secondary Key)"
+}

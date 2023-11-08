@@ -1,0 +1,68 @@
+{
+  "type": "minecraft:furnace",
+  "ingredient": [
+    {
+      "item": "magistuarmory:diamond_stylet"
+    },
+    {
+      "item": "magistuarmory:diamond_shortsword"
+    },
+    {
+      "item": "magistuarmory:diamond_katzbalger"
+    },
+    {
+      "item": "magistuarmory:diamond_pike"
+    },
+    {
+      "item": "magistuarmory:diamond_ranseur"
+    },
+    {
+      "item": "magistuarmory:diamond_ahlspiess"
+    },
+    {
+      "item": "magistuarmory:diamond_chivalrylance"
+    },
+    {
+      "item": "magistuarmory:diamond_bastardsword"
+    },
+    {
+      "item": "magistuarmory:diamond_estoc"
+    },
+    {
+      "item": "magistuarmory:diamond_claymore"
+    },
+    {
+      "item": "magistuarmory:diamond_zweihander"
+    },
+    {
+      "item": "magistuarmory:diamond_flamebladedsword"
+    },
+    {
+      "item": "magistuarmory:diamond_lochaberaxe"
+    },
+    {
+      "item": "magistuarmory:diamond_concavehalberd"
+    },
+    {
+      "item": "magistuarmory:diamond_heavymace"
+    },
+    {
+      "item": "magistuarmory:diamond_heavywarhammer"
+    },
+    {
+      "item": "magistuarmory:diamond_lucernhammer"
+    },
+    {
+      "item": "magistuarmory:diamond_morgenstern"
+    },
+    {
+      "item": "magistuarmory:diamond_chainmorgenstern"
+    },
+    {
+      "item": "magistuarmory:diamond_guisarme"
+    }
+  ],
+  "result": "minecraft:diamond",
+  "experience": 2,
+  "cookingtime": 100
+}

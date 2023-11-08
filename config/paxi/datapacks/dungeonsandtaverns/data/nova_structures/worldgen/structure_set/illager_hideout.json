@@ -1,0 +1,24 @@
+{
+	"structures": [
+		{
+			"structure": "nova_structures:illager_hideout",
+			"weight": 1
+		}
+	],
+	"placement": {
+		"spacing": 70,
+		"separation": 30,
+		"salt": 3094032,
+		"type": "minecraft:random_spread",
+		"exclusion_zone":{
+			"chunk_count":12,
+			"other_set":[
+			"seafaring:newmoonport",
+			"keebsz:cobblestone_battletower",
+			"betterstrongholds:stronghold",
+			"keebsz:cobblestone_battletower_underground",
+			"seafaring:undergrounddungeon"
+			]
+			}
+	}
+}

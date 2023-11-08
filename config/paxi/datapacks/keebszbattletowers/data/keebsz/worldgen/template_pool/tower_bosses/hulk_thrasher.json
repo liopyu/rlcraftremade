@@ -1,0 +1,25 @@
+{
+  "name": "keebsz:tower_bosses/hulk_thrasher",
+  "fallback": "minecraft:empty",
+  "elements": [
+    
+	{	
+      "weight": 1,
+      "element": {
+        "location": "keebsz:tower_bosses/hulk_guardian",
+        "processors": "minecraft:empty",
+		"projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {	
+      "weight": 3,
+      "element": {
+        "location": "keebsz:tower_bosses/thrasher_guardian",
+        "processors": "minecraft:empty",
+		"projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    }
+  ]
+}

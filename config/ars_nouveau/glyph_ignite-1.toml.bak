@@ -1,0 +1,12 @@
+
+#General settings
+[general]
+	enabled = true
+	cost = 15
+	starter = false
+	per_spell_limit = 2147483647
+	glyph_tier = 1
+	augment_limits = []
+	extend_time = 2
+	potion_time = 3
+

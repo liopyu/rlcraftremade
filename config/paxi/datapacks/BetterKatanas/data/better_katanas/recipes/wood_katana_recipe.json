@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "5 6",
+    " 4 ",
+    "2  "
+  ],
+  "key": {
+    "2": {
+      "item": "forbidden_arcanus:cherry_wood"
+    },
+    "4": {
+      "item": "forbidden_arcanus:cherry_wood"
+    },
+    "6": {
+      "item": "kubejs:katana_hilt"
+    },
+    "5": {
+      "item": "kubejs:wetstone"
+    }
+  },
+  "result": {
+    "item": "better_katanas:wood_sword",
+    "count": 1
+  }
+}

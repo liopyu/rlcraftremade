@@ -1,0 +1,35 @@
+{
+  "type": "drinkbeer:brewing",
+  "ingredients": [
+    
+      {
+        "item": "alcocraftplus:hop"
+      },
+    
+    
+    
+    
+      {
+        "item": "kubejs:cosmic_cloud"
+      },
+    
+    
+    
+      {
+        "item": "kubejs:spectral_silt"
+      },
+    
+    {
+      "item": "alcocraftplus:mug_of_nether_star_lager"
+    }
+  ],
+  "cup": {
+    "item": "alcocraftplus:mug_of_leprechaun_cider",
+    "count": 1
+  },
+  "brewing_time": 800,
+  "result": {
+    "item": "alcocraftplus:mug_of_chorus_ale",
+    "count": 1
+  }
+}

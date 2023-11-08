@@ -1,0 +1,24 @@
+{
+    "type": "origins:multiple",
+    "name": "Arcane",
+    
+    "arcane": 
+    {
+      "type": "origins:modify_attribute",
+      "attribute": "minecraft:generic.attack_speed",
+      "modifier": {
+          "operation": "multiply_base",
+          "value": -0.05
+      }
+  },
+  "speeder":
+  {
+      "type": "origins:conditioned_attribute",
+  "modifier": {
+      "attribute": "puffish_skills:player.mining_speed",
+      "operation": "addition",
+      "value": -0.4,
+      "name": "Increased sprinting speed"
+  }
+  }
+ }

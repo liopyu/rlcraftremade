@@ -1,0 +1,25 @@
+{
+    "structures": [
+      {
+        "structure": "seafaring:undergrounddungeon",
+        "weight": 1
+      }
+    ],
+    "placement": {
+      "type": "minecraft:random_spread",
+      "spacing": 80,
+      "separation": 50,
+      "salt": 12293746,
+      "exclusion_zone":{
+    "chunk_count":16,
+    "other_set":[
+    "seafaring:newmoonport",
+    "keebsz:cobblestone_battletower",
+    "betterstrongholds:stronghold",
+    "seafaring:oceandungeon",
+    "seafaring:oceandungeon2",
+    "keebsz:cobblestone_battletower_underground"
+    ]
+    }
+    }
+  }

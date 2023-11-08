@@ -1,0 +1,37 @@
+{
+  "values": [
+    "minecraft:deep_frozen_ocean",
+    "minecraft:deep_cold_ocean",
+    "minecraft:deep_ocean",
+    "minecraft:deep_lukewarm_ocean",
+    "skylands:badlands",
+    "skylands:birch_forest",
+    "skylands:crystal_forest",
+    "skylands:dark_forest",
+    "skylands:desert",
+    "skylands:faux_end_highlands",
+    "skylands:flower_forest",
+    "skylands:forest",
+    "skylands:frozen_wastes",
+    "skylands:grove",
+    "skylands:jungle",
+    "skylands:mangrove_swamp",
+    "skylands:meadow",
+    "skylands:mushroom_fields",
+    "skylands:old_growth_taiga",
+    "skylands:plains",
+    "skylands:prismarine_forest",
+    "skylands:savanna",
+    "skylands:snowy_plains",
+    "skylands:snowy_taiga",
+    "skylands:sparse_jungle",
+    "skylands:stony_wastes",
+    "skylands:sunflower_plains",
+    "skylands:swamp",
+    "skylands:taiga",
+    "skylands:windswept_forest",
+    "skylands:windswept_plains",
+    "skylands:wooded_badlands"
+    
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "name": "skylands:ocean_ruins_warm_big",
+  "fallback": "minecraft:empty",
+  "elements": [
+    { 
+      "weight": 1,
+      "element": {
+        "location": "skylands:underwater_ruin/big_warm_4",
+        "processors": "minecraft:empty",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    { 
+      "weight": 1,
+      "element": {
+        "location": "skylands:underwater_ruin/big_warm_5",
+        "processors": "minecraft:empty",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    { 
+      "weight": 1,
+      "element": {
+        "location": "skylands:underwater_ruin/big_warm_6",
+        "processors": "minecraft:empty",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    { 
+      "weight": 1,
+      "element": {
+        "location": "skylands:underwater_ruin/big_warm_7",
+        "processors": "minecraft:empty",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    { 
+      "weight": 2,
+      "element": {
+        "location": "skylands:underwater_ruin/big_warm_null",
+        "processors": "minecraft:empty",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    }
+  ]
+}

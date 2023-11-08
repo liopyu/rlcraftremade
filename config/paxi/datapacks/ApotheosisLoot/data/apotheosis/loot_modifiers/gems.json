@@ -1,0 +1,81 @@
+{
+  "type": "apotheosis:gems",
+  "conditions": [
+    {
+      "condition": "minecraft:alternative",
+      "terms": [
+        {
+          "condition": "forge:loot_table_id",
+          "loot_table_id": "apotheosis:chests/chest_valuable"
+        },
+        {
+          "condition": "forge:loot_table_id",
+          "loot_table_id": "idas:chests/ancient_mines/minefinal"
+        },
+        {
+          "condition": "forge:loot_table_id",
+          "loot_table_id": "keebsz:floor9and10"
+        },
+        {
+          "condition": "forge:loot_table_id",
+          "loot_table_id": "dungeons_arise:chests/mines_treasure_big"
+        },
+        {
+          "condition": "forge:loot_table_id",
+          "loot_table_id": "keebsz:floortop"
+        },
+        {
+          "condition": "forge:loot_table_id",
+          "loot_table_id": "minecraft:chests/special_mineshaft"
+        },
+        {
+          "condition": "forge:loot_table_id",
+          "loot_table_id": "minecraft:chests/special_dungeon"
+        },
+        {
+          "condition": "forge:loot_table_id",
+          "loot_table_id": "apotheosis:chests/spawner_brutal"
+        },
+        {
+          "condition": "forge:loot_table_id",
+          "loot_table_id": "apotheosis:chests/spawner_brutal_rotate"
+        },
+        {
+          "condition": "forge:loot_table_id",
+          "loot_table_id": "apotheosis:chests/spawner_swarm"
+        },
+        {
+          "condition": "forge:loot_table_id",
+          "loot_table_id": "minecraft:chests/jungle_temple"
+        },
+        
+        {
+          "condition": "forge:loot_table_id",
+          "loot_table_id": "minecraft:chests/bastion_treasure"
+        },
+        {
+          "condition": "forge:loot_table_id",
+          "loot_table_id": "minecraft:chests/desert_pyramid"
+        },
+        {
+          "condition": "forge:loot_table_id",
+          "loot_table_id": "minecraft:chests/end_city_treasure"
+        },
+        
+        
+        {
+          "condition": "forge:loot_table_id",
+          "loot_table_id": "minecraft:chests/nether_bridge"
+        },
+        
+        
+        
+        {
+          "condition": "forge:loot_table_id",
+          "loot_table_id": "minecraft:chests/woodland_mansion"
+        }
+    
+  ]
+}
+  ]
+}

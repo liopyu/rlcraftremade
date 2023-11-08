@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "iter_rpg:reef_stone"
+    },
+    "1": {
+      "item": "iter_rpg:reef_stone"
+    },
+    "2": {
+      "item": "iter_rpg:reef_stone"
+    }
+  },
+  "result": {
+    "item": "iter_rpg:reef_stone_slab",
+    "count": 6
+  }
+}

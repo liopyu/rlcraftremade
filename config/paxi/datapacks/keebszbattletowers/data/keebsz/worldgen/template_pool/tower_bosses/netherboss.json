@@ -1,0 +1,16 @@
+{
+  "name": "keebsz:tower_bosses/netherboss",
+  "fallback": "minecraft:empty",
+  "elements": [
+    
+	{	
+      "weight": 1,
+      "element": {
+        "location": "keebsz:tower_bosses/netherboss",
+        "processors": "minecraft:empty",
+		"projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    }
+  ]
+}

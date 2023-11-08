@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "iter_rpg:polished_reef_stone"
+    },
+    "1": {
+      "item": "iter_rpg:polished_reef_stone"
+    },
+    "2": {
+      "item": "iter_rpg:polished_reef_stone"
+    },
+    "3": {
+      "item": "iter_rpg:polished_reef_stone"
+    }
+  },
+  "result": {
+    "item": "iter_rpg:reef_stone_bricks",
+    "count": 4
+  }
+}

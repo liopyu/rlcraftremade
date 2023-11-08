@@ -1,0 +1,151 @@
+
+#Gear Config. This config is synced from server to client.
+[gear]
+
+	[gear.atomic_disassembler]
+		energyUsage = "10"
+		energyUsageWeapon = "2000"
+		miningCount = 128
+		slowMode = true
+		fastMode = true
+		veinMining = false
+		minDamage = 4
+		maxDamage = 12
+		attackSpeed = -2.4
+		maxEnergy = "1000000"
+		chargeRate = "5000"
+
+	[gear.configurator]
+		maxEnergy = "60000"
+		chargeRate = "300"
+		energyPerConfigure = "400"
+		energyPerItem = "8"
+
+	[gear.electric_bow]
+		maxEnergy = "120000"
+		chargeRate = "600"
+		energyUsage = "120"
+		energyUsageFire = "1200"
+
+	[gear.energy_tablet]
+		maxEnergy = "1000000"
+		chargeRate = "5000"
+
+	[gear.flamethrower]
+		maxGas = 24000
+		fillRate = 16
+		destroyItems = true
+
+	[gear.free_runner]
+		fallEnergyCost = "50"
+		fallDamageReductionRatio = 1.0
+		maxEnergy = "64000"
+		chargeRate = "320"
+
+		[gear.free_runner.armored]
+			armor = 3
+			toughness = 2.0
+			knockbackResistance = 0.0
+
+	[gear.jetpack]
+		maxGas = 24000
+		fillRate = 16
+
+		[gear.jetpack.armored]
+			armor = 8
+			toughness = 2.0
+			knockbackResistance = 0.0
+
+	[gear.network_reader]
+		maxEnergy = "60000"
+		chargeRate = "300"
+		energyUsage = "400"
+
+	[gear.portable_teleporter]
+		maxEnergy = "1000000"
+		chargeRate = "5000"
+		delay = 0
+
+	[gear.scuba_tank]
+		maxGas = 24000
+		fillRate = 16
+
+	[gear.seismic_reader]
+		maxEnergy = "12000"
+		chargeRate = "60"
+		energyUsage = "250"
+
+	[gear.canteen]
+		maxStorage = 64000
+		transferRate = 128
+
+	[gear.mekatool]
+		energyUsage = "10"
+		energyUsageSilk = "100"
+		energyUsageWeapon = "2000"
+		energyUsageTeleport = "1000"
+		maxTeleportReach = 100
+		baseDamage = 4
+		attackSpeed = -2.4
+		baseEfficiency = 4.0
+		baseEnergyCapacity = "16000000"
+		chargeRate = "100000"
+		energyUsageHoe = "10"
+		energyUsageShovel = "10"
+		energyUsageAxe = "10"
+		energyUsageShearEntity = "10"
+		extendedMining = true
+
+	[gear.mekasuit]
+		baseEnergyCapacity = "16000000"
+		chargeRate = "100000"
+		baseJumpEnergyUsage = "1000"
+		elytraEnergyUsage = "32000"
+		energyUsagePotionTick = "40000"
+		energyUsageMagicReduce = "1000"
+		energyUsageFall = "50"
+		energyUsageSprintBoost = "100"
+		energyUsageGravitationalModulation = "1000"
+		inventoryChargeRate = "10000"
+		solarRechargingRate = "500"
+		energyUsageVisionEnhancement = "500"
+		energyUsageHydrostaticRepulsion = "500"
+		energyUsageNutritionalInjection = "20000"
+		energyUsageDamage = "100000"
+		energyUsageItemAttraction = "250"
+		gravitationalVibrations = true
+		nutritionalMaxStorage = 128000
+		nutritionalTransferRate = 256
+		jetpackMaxStorage = 48000
+		jetpackTransferRate = 256
+		helmetArmor = 3
+		bodyArmorArmor = 8
+		pantsArmor = 6
+		bootsArmor = 3
+		toughness = 3.0
+		knockbackResistance = 0.10000000149011612
+
+		[gear.mekasuit.damage_absorption]
+			fallDamageReductionRatio = 0.8
+			magicDamageReductionRatio = 0.2
+			unspecifiedDamageReductionRatio = 0.2
+			anvilDamageReductionRatio = 0.2
+			cactusDamageReductionRatio = 0.2
+			crammingDamageReductionRatio = 0.2
+			dragonBreathDamageReductionRatio = 0.2
+			dryoutDamageReductionRatio = 0.2
+			fallingBlockDamageReductionRatio = 0.2
+			flyIntoWallDamageReductionRatio = 0.2
+			genericDamageReductionRatio = 0.2
+			hotFloorDamageReductionRatio = 0.2
+			inFireDamageReductionRatio = 0.2
+			inWallDamageReductionRatio = 0.2
+			lavaDamageReductionRatio = 0.2
+			lightningBoltDamageReductionRatio = 0.2
+			onFireDamageReductionRatio = 0.2
+			sweetBerryBushDamageReductionRatio = 0.2
+			witherDamageReductionRatio = 0.2
+			freezeDamageReductionRatio = 0.2
+			fallingStalactiteDamageReductionRatio = 0.2
+			stalagmiteDamageReductionRatio = 0.2
+

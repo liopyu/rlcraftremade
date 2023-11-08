@@ -1,0 +1,219 @@
+{
+    "type": "minecraft:chest",
+    "pools": [
+      {
+        "rolls": {
+          "type": "minecraft:uniform",
+          "min": 3,
+          "max": 5
+        },
+        "bonus_rolls": 0.0,
+        "entries": [
+          
+          {
+            "type": "minecraft:item",
+            "weight": 10,
+            "functions": [
+              {
+                "function": "minecraft:set_count",
+                "count": {
+                  "type": "minecraft:uniform",
+                  "min": 3.0,
+                  "max": 4.0
+                },
+                "add": false
+              }
+            ],
+            "name": "minecraft:prismarine_shard"
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 10,
+            "functions": [
+              {
+                "function": "minecraft:set_count",
+                "count": {
+                  "type": "minecraft:uniform",
+                  "min": 2.0,
+                  "max": 5.0
+                },
+                "add": false
+              }
+            ],
+            "name": "minecraft:gold_ingot"
+          },
+          
+          
+          
+          
+         
+          {
+            "type": "minecraft:item",
+            "weight": 12,
+            "functions": [
+              {
+                "function": "minecraft:set_count",
+                "count": {
+                  "type": "minecraft:uniform",
+                  "min": 2.0,
+                  "max": 3.0
+                },
+                "add": false
+              }
+            ],
+            "name": "minecraft:blaze_powder"
+          },
+         
+          {
+            "type": "minecraft:item",
+            "weight": 10,
+            "functions": [
+              {
+                "function": "minecraft:set_count",
+                "count": {
+                  "type": "minecraft:uniform",
+                  "min": 3.0,
+                  "max": 10.0
+                },
+                "add": false
+              }
+            ],
+            "name": "minecraft:lapis_lazuli"
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 10,
+            "functions": [
+              {
+                "function": "minecraft:set_count",
+                "count": {
+                  "type": "minecraft:uniform",
+                  "min": 10.0,
+                  "max": 16.0
+                },
+                "add": false
+              }
+            ],
+            "name": "minecraft:glowstone_dust"
+          },
+         
+          {
+            "type": "minecraft:item",
+            "weight": 5,
+            "quality": 3,
+            "functions": [
+              {
+                "function": "minecraft:set_count",
+                "count": {
+                  "type": "minecraft:uniform",
+                  "min": 1.0,
+                  "max": 3.0
+                },
+                "add": false
+              }
+            ],
+            "name": "minecraft:diamond"
+          },
+         
+          {
+            "type": "minecraft:item",
+            "weight": 10,
+            "quality": 3,
+            "functions": [
+              {
+                "function": "minecraft:set_count",
+                "count": {
+                  "type": "minecraft:uniform",
+                  "min": 2.0,
+                  "max": 5.0
+                },
+                "add": false
+              }
+            ],
+            "name": "minecraft:experience_bottle"
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 18,
+            "functions": [
+              {
+                "function": "minecraft:set_count",
+                "count": {
+                  "type": "minecraft:uniform",
+                  "min": 5.0,
+                  "max": 6.0
+                },
+                "add": false
+              }
+            ],
+            "name": "minecraft:emerald"
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 18,
+            "functions": [
+              {
+                "function": "minecraft:set_count",
+                "count": {
+                  "type": "minecraft:uniform",
+                  "min": 5.0,
+                  "max": 6.0
+                },
+                "add": false
+              }
+            ],
+            "name": "moremekanismprocessing:silver_ingot"
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 18,
+            "functions": [
+              {
+                "function": "minecraft:set_count",
+                "count": {
+                  "type": "minecraft:uniform",
+                  "min": 5.0,
+                  "max": 6.0
+                },
+                "add": false
+              }
+            ],
+            "name": "mekanism:ingot_refined_obsidian"
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 18,
+            "functions": [
+              {
+                "function": "minecraft:set_count",
+                "count": {
+                  "type": "minecraft:uniform",
+                  "min": 5.0,
+                  "max": 6.0
+                },
+                "add": false
+              }
+            ],
+            "name": "mekanism:ingot_bronze"
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 18,
+            "functions": [
+              {
+                "function": "minecraft:set_count",
+                "count": {
+                  "type": "minecraft:uniform",
+                  "min": 5.0,
+                  "max": 6.0
+                },
+                "add": false
+              }
+            ],
+            "name": "mekanism:ingot_refined_glowstone"
+          }
+        ]
+      }
+      
+    ]
+  }

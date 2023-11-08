@@ -1,0 +1,42 @@
+{
+  "type": "minecraft:jigsaw",
+  "biomes": [
+    "skylands:birch_forest",
+	"skylands:crystal_forest",
+	"skylands:dark_forest",
+	"skylands:faux_end_highlands",
+	"skylands:flower_forest",
+ 	"skylands:forest",
+	"skylands:meadow",
+	"skylands:old_growth_taiga",
+	"skylands:prismarine_forest",
+	"skylands:snowy_plains",
+	"skylands:snowy_taiga",
+	"skylands:swamp",
+	"skylands:taiga",
+	"skylands:windswept_forest",
+	"skylands:windswept_plains"
+  ],
+  "max_distance_from_center": 128,
+  "size": 7,
+  "start_height": {
+    "absolute": 5
+  },
+  "start_pool": "skylands:ocean_ruins_cold",
+  "use_expansion_hack": false,
+  "spawn_overrides": {
+    "axolotls": {
+      "bounding_box": "full",
+      "spawns": []
+    },
+    "monster": {
+      "bounding_box": "full",
+      "spawns": []
+    },
+    "underground_water_creature": {
+      "bounding_box": "full",
+      "spawns": []
+    }
+  },
+  "step": "surface_structures"
+}

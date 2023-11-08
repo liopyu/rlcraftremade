@@ -1,0 +1,31 @@
+{
+  "type": "sophisticatedbackpacks:backpack_upgrade",
+  "conditions": [
+    {
+      "itemRegistryName": "sophisticatedbackpacks:netherite_backpack",
+      "type": "sophisticatedcore:item_enabled"
+    }
+  ],
+  "pattern": [
+    "D D",
+    "BCB",
+    "AAA"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:netherite_scrap"
+    },
+    "C": {
+      "item": "sophisticatedbackpacks:diamond_backpack"
+    },
+    "B": {
+      "item": "tetra:forged_bolt"
+    },
+    "D": {
+      "item": "ars_nouveau:end_fiber"
+    }
+  },
+  "result": {
+    "item": "sophisticatedbackpacks:netherite_backpack"
+  }
+}

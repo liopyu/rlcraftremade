@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "iter_rpg:water_rune"
+    },
+    {
+      "item": "iter_rpg:ametrine_ingot"
+    },
+    {
+      "item": "iter_rpg:water_fragment"
+    }
+  ],
+  "result": {
+    "item": "iter_rpg:ocean_ingot",
+    "count": 1
+  }
+}

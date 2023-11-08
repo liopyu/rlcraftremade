@@ -1,0 +1,344 @@
+{
+	"0ggw4kjl433cmj1d": {
+		"definition": "mining_speed+1%",
+		"x": 1400,
+		"y": -50,
+		"root": false
+	},
+	"7un7eozi3ncc7qbd": {
+		"definition": "+25%experiencegained",
+		"x": 1250,
+		"y": -100,
+		"root": false
+	},
+	"ppbvzjtgm9udsstk": {
+		"definition": "mining_speed+1%",
+		"x": 1050,
+		"y": -150,
+		"root": false
+	},
+	"azg8a39ua2qwy0gj": {
+		"definition": "+25%experiencegained",
+		"x": 800,
+		"y": -200,
+		"root": false
+	},
+	"bsi87ea48nzv24t8": {
+		"definition": "mining_speed+1%",
+		"x": 500,
+		"y": -250,
+		"root": false
+	},
+	"gtdlfwhnznajlbnd": {
+		"definition": "+25%experiencegained",
+		"x": 150,
+		"y": -300,
+		"root": false
+	},
+	"e96xb7spu4t9njjt": {
+		"definition": "fortune+0.1",
+		"x": 150,
+		"y": -250,
+		"root": false
+	},
+	"lzw1ocqsehve9fuq": {
+		"definition": "fortune+0.1",
+		"x": 500,
+		"y": -200,
+		"root": false
+	},
+	"fbijwy5ewp3fbjf6": {
+		"definition": "fortune+0.1",
+		"x": 800,
+		"y": -150,
+		"root": false
+	},
+	"zh2s6ohjyeg36lsp": {
+		"definition": "fortune+0.1",
+		"x": 1050,
+		"y": -100,
+		"root": false
+	},
+	"tzns4snk36r77my8": {
+		"definition": "fortune+0.1",
+		"x": 1250,
+		"y": -50,
+		"root": false
+	},
+	"yn417mtfyg8lwosv": {
+		"definition": "fortune+0.1",
+		"x": 1400,
+		"y": 0,
+		"root": false
+	},
+	"6x2xdg0v6ff20ky3": {
+		"definition": "mining_speed+1%",
+		"x": 1400,
+		"y": 50,
+		"root": false
+	},
+	"6yyn77n0lp4zh5wg": {
+		"definition": "mining_speed+1%",
+		"x": 1250,
+		"y": 0,
+		"root": false
+	},
+	"r37ogwgv1ht88byo": {
+		"definition": "mining_speed+1%",
+		"x": 1050,
+		"y": -50,
+		"root": false
+	},
+	"x9f2xr9bghyuy1tx": {
+		"definition": "mining_speed+1%",
+		"x": 800,
+		"y": -100,
+		"root": false
+	},
+	"bgqn9xqseqwi31c1": {
+		"definition": "mining_speed+1%",
+		"x": 500,
+		"y": -150,
+		"root": false
+	},
+	"s2e3y1ozar80uooj": {
+		"definition": "reach",
+		"x": 150,
+		"y": -200,
+		"root": false
+	},
+	"xy0y2qr23evfepu8": {
+		"definition": "rootreach",
+		"x": 50,
+		"y": -100,
+		"root": true
+	},
+	"g91rx2tx7300uk0b": {
+		"definition": "mining_speed+1%",
+		"x": 50,
+		"y": 50,
+		"root": false
+	},
+	"8sndmv97qmvbbf4p": {
+		"definition": "mining_speed+1%",
+		"x": 50,
+		"y": 200,
+		"root": false
+	},
+	"cl7rbm119oy6857s": {
+		"definition": "mining_speed+1%",
+		"x": 50,
+		"y": 350,
+		"root": false
+	},
+	"o3zyib0ufn9iafb4": {
+		"definition": "reach",
+		"x": 50,
+		"y": 500,
+		"root": false
+	},
+	"htolra7fnzt5dhh5": {
+		"definition": "mining_speed+1%",
+		"x": 50,
+		"y": 650,
+		"root": false
+	},
+	"n1h3kxpmqj007jlf": {
+		"definition": "mining_speed+1%",
+		"x": 50,
+		"y": 800,
+		"root": false
+	},
+	"f2403rz9m7d5cptq": {
+		"definition": "mining_speed+1%",
+		"x": 50,
+		"y": 950,
+		"root": false
+	},
+	"airitaqk4sd1d3po": {
+		"definition": "reach",
+		"x": 50,
+		"y": 1250,
+		"root": false
+	},
+	"lyz7age1i4zbbldw": {
+		"definition": "reach",
+		"x": 50,
+		"y": 1400,
+		"root": false
+	},
+	"1kzw1h9s67nwo29g": {
+		"definition": "reach",
+		"x": 50,
+		"y": 1700,
+		"root": false
+	},
+	"nddxashf594xfw1b": {
+		"definition": "rootfortune+0.1",
+		"x": 0,
+		"y": -100,
+		"root": true
+	},
+	"p26ex4ym9bybcfpp": {
+		"definition": "mining_speed+1%",
+		"x": 0,
+		"y": 200,
+		"root": false
+	},
+	"ota398xdmb1mhg62": {
+		"definition": "fortune+0.1",
+		"x": 0,
+		"y": 500,
+		"root": false
+	},
+	"iqamc8rejy1gs0ff": {
+		"definition": "mining_speed+1%",
+		"x": 0,
+		"y": 800,
+		"root": false
+	},
+	"ywwi041u4tebn1mu": {
+		"definition": "fortune+0.1",
+		"x": 0,
+		"y": 1100,
+		"root": false
+	},
+	"aki5wf2nsm2ctbkw": {
+		"definition": "mining_speed+1%",
+		"x": 0,
+		"y": 1400,
+		"root": false
+	},
+	"6x6tdzy7rcfgya3h": {
+		"definition": "fortune+0.1",
+		"x": 0,
+		"y": 1700,
+		"root": false
+	},
+	"h8tcipkunaerlla8": {
+		"definition": "+25%experiencegained",
+		"x": -50,
+		"y": 1700,
+		"root": false
+	},
+	"r837yjlcme74tumh": {
+		"definition": "mining_speed+1%",
+		"x": -50,
+		"y": 1100,
+		"root": false
+	},
+	"40t7mkocuhdwsi2t": {
+		"definition": "mining_speed+1%",
+		"x": -50,
+		"y": 500,
+		"root": false
+	},
+	"anfmy8jm5zeuktn4": {
+		"definition": "root+25%experiencegained",
+		"x": -50,
+		"y": -100,
+		"root": true
+	},
+	"jaz0t4apvif5tnn5": {
+		"definition": "mining_speed+1%",
+		"x": 0,
+		"y": -350,
+		"root": false
+	},
+	"3vhpkshqs7d00y99": {
+		"definition": "+25%experiencegained",
+		"x": -150,
+		"y": -300,
+		"root": false
+	},
+	"j5r1yt673qnx79bt": {
+		"definition": "mining_speed+1%",
+		"x": -150,
+		"y": -200,
+		"root": false
+	},
+	"36ouwfccltp29piu": {
+		"definition": "mining_speed+1%",
+		"x": -300,
+		"y": -300,
+		"root": false
+	},
+	"qxyb48w9kcnh4fkt": {
+		"definition": "mining_speed+1%",
+		"x": -300,
+		"y": -200,
+		"root": false
+	},
+	"rilepxoq7flsdr4p": {
+		"definition": "mining_speed+1%",
+		"x": -700,
+		"y": -450,
+		"root": false
+	},
+	"o43lpuz4erurnvgg": {
+		"definition": "mining_speed+1%",
+		"x": -700,
+		"y": -50,
+		"root": false
+	},
+	"o4ihltw3xwnws9u7": {
+		"definition": "+25%experiencegained",
+		"x": -600,
+		"y": -250,
+		"root": false
+	},
+	"9w75vwdrdv6728zi": {
+		"definition": "mining_speed+1%",
+		"x": -450,
+		"y": -200,
+		"root": false
+	},
+	"ifajvwp9smekp8db": {
+		"definition": "mining_speed+1%",
+		"x": -450,
+		"y": -300,
+		"root": false
+	},
+	"8yl5aqgbt1grxihk": {
+		"definition": "mining_speed+1%",
+		"x": 0,
+		"y": -200,
+		"root": false
+	},
+	"4l6nxkyessdt8d0z": {
+		"definition": "fortune+0.1",
+		"x": -150,
+		"y": -250,
+		"root": false
+	},
+	"wtmmn9l5qk00vv1f": {
+		"definition": "mining_speed+1%",
+		"x": -300,
+		"y": -250,
+		"root": false
+	},
+	"cp5zr7ilfnch41qf": {
+		"definition": "fortune+0.1",
+		"x": -450,
+		"y": -250,
+		"root": false
+	},
+	"9tex4rujwhl0j3s7": {
+		"definition": "reach",
+		"x": 50,
+		"y": 1550,
+		"root": false
+	},
+	"2dao960giwfxphck": {
+		"definition": "reach",
+		"x": 50,
+		"y": 1100,
+		"root": false
+	},
+	"cq4tw02gi9or6v6x": {
+		"definition": "mining_speed+1%",
+		"x": 1500,
+		"y": 0,
+		"root": false
+	}
+}

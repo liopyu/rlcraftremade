@@ -1,0 +1,10 @@
+
+#General settings
+[general]
+	enabled = true
+	cost = 50
+	starter = false
+	per_spell_limit = 2147483647
+	glyph_tier = 1
+	augment_limits = []
+

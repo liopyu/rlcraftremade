@@ -1,0 +1,1 @@
+{"type":"doom:gun_table","pattern":"abc","key":{"a":{"item":"doom:argent_energy","count":10},"b":{"item":"doom:argent_plate","count":4},"c":{"item":"mekanism:pellet_polonium","count":1}},"result":{"item":"doom:plasmagun"}}

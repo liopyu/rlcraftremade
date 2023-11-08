@@ -1,0 +1,33 @@
+{
+  "type": "origins:active_self",
+  "condition": {
+		"type": "origins:and",
+		"conditions": [
+			
+      
+		]
+	},
+  
+  "entity_action": {
+		"type": "origins:and",
+    "actions": [
+      
+	
+      {
+        "type": "origins:execute_command",
+        "command": "function improved_pickaxes:toggletag",
+        "permission_level": 4
+      }
+]
+},
+  
+  
+  
+  
+  "key": {
+    "key": "primary"
+  },
+  "hidden": false,
+  "name": "§6Proportional Mining",
+    "description":"You are able to mine multiple blocks at once with your great strength.(Toggle With Primary Key)"
+}

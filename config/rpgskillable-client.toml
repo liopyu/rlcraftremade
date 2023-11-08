@@ -1,0 +1,6 @@
+#x and y offsets for the inventory tabs. Offsets start from the top left corner of the inventory screen. Default: [56, -27] [25, -27]
+inv_tab_offset = [25, -27]
+skill_tab_offset = [56, -27]
+#Should the skill tab be hidden while in creative mode?
+creativeHidden = true
+

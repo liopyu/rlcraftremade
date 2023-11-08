@@ -1,0 +1,28 @@
+{
+  "parent": "minecraft:story/mine_stone",
+    "criteria": {
+      "example": {
+        "trigger": "minecraft:impossible"
+      }
+    },
+    "display": {
+      "announce_to_chat": true,
+      "description": {
+        "text": "Start your mining skill tree.",
+        "color": "purple",
+        "bold": false,
+        "underlined": false
+    },
+      "frame": "challenge",
+      "hidden": false,
+      "icon": {
+        "item": "stalwart_dungeons:chorundum_pickaxe"
+    },
+      "show_toast": true,
+      "title": {
+        "text": "It's all mine.... MINE!!",
+        "bold": true,
+        "color": "green"
+    }
+  }
+  }

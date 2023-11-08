@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "iter_rpg:forest_ingot"
+    },
+    {
+      "item": "iter_rpg:elemental_fragment"
+    },
+    {
+      "item": "iter_rpg:sky_ingot"
+    },
+    {
+      "item": "iter_rpg:end_ingot"
+    },
+    {
+      "item": "iter_rpg:hell_ingot"
+    },
+    {
+      "item": "iter_rpg:ocean_ingot"
+    }
+  ],
+  "result": {
+    "item": "iter_rpg:elemental_ingot",
+    "count": 4
+  }
+}

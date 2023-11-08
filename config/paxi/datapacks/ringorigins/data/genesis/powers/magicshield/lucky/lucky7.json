@@ -1,0 +1,14 @@
+{
+    "type": "origins:conditioned_attribute",
+  "condition": {
+     "type": "origins:scoreboard",
+     "objective": "lucky",
+     "comparison": "==",
+     "compare_to": 7
+ },
+    "modifier": {
+        "attribute": "minecraft:generic.luck",
+        "value": 1.4,
+        "operation": "addition"
+    }
+ }

@@ -1,0 +1,82 @@
+{
+  "debuglogging": {
+    "desc:": "Enable debug logging, default:false",
+    "debuglogging": true
+  },
+  "dimensionconnections": [
+    {
+      "from": "wabworldgen:tutorial",
+      "to": "tectonicworld:tectonic",
+      "xcoordmultiplier": 0.125,
+      "zcoordmultiplier": 0.125,
+      "teleporttype": {
+        "teleporttype": "AIR",
+        "teleport_to_y": 200
+      },
+      "belowy": -20,
+      "slowfallticks": 400
+    },
+    {
+      "from": "tectonicworld:tectonic",
+      "to": "minecraft:the_nether",
+      "xcoordmultiplier": 0.125,
+      "zcoordmultiplier": 0.125,
+      "teleporttype": {
+        "teleporttype": "AIR",
+        "teleport_to_y": 80
+      },
+      "belowy": -80,
+      "slowfallticks": 120
+    },
+    {
+      "from": "theabyss:the_abyss",
+      "to": "deepwhisperer:deep_space",
+      "teleporttype": {
+        "teleporttype": "AIR",
+        "teleport_to_y": 150
+      },
+      "abovey": 300,
+      "slowfallticks": 120
+    },
+    {
+      "from": "deepwhisperer:deep_space",
+      "to": "minecraft:the_end",
+      "teleporttype": {
+        "teleporttype": "AIR",
+        "teleport_to_y": 250
+      },
+      "abovey": 265,
+      "slowfallticks": 600
+
+    },
+    {
+      "from": "minecraft:the_nether",
+      "to": "tectonicworld:tectonic",
+      "teleporttype": {
+        "teleporttype": "CAVE",
+        "teleport_to_y": -54
+      },
+      "abovey": 253
+    },
+    {
+      "from": "tectonicworld:tectonic",
+      "to": "wabworldgen:tutorial",
+      "teleporttype": {
+        "teleporttype": "AIR",
+        "teleport_to_y": 65
+      },
+      "abovey": 280
+    },
+    {
+      "from": "wabworldgen:tutorial",
+      "to": "minecraft:overworld",
+      "teleporttype": {
+        "teleporttype": "AIR",
+        "teleport_to_y": 350
+      },
+      "abovey": 340,
+      "slowfallticks": 400
+
+    }
+  ]
+}

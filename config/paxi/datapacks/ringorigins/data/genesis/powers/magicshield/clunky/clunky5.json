@@ -1,0 +1,57 @@
+
+
+{
+    "type": "origins:multiple",
+    "name": "Arcane",
+    "attackspeed":
+    {
+        "type": "origins:conditioned_attribute",
+        "condition": {
+            "type": "origins:scoreboard",
+            "objective": "clunky",
+            "comparison": "==",
+            "compare_to": 5
+        },
+        "modifier": {
+            "name": "Max health increase",
+            "attribute": "minecraft:generic.attack_speed",
+            "value": -0.25,
+            "operation": "multiply_base"
+        }
+    },
+    "speeder":
+    {
+        "type": "origins:conditioned_attribute",
+        "condition": {
+            "type": "origins:scoreboard",
+            "objective": "clunky",
+            "comparison": "==",
+            "compare_to": 5
+        },
+    "modifier": {
+        "attribute": "puffish_skills:player.mining_speed",
+        "operation": "addition",
+        "value": -2,
+        "name": "Increased sprinting speed"
+    }
+    },
+    
+    
+    "movespeed":
+    {
+        "type": "origins:conditioned_attribute",
+        "condition": {
+            "type": "origins:scoreboard",
+            "objective": "clunky",
+            "comparison": "==",
+            "compare_to": 5
+        },
+        "modifier": {
+            "name": "Max health increase",
+            "attribute": "minecraft:generic.movement_speed",
+            "value": -0.25,
+            "operation": "multiply_base"
+        }
+    }
+    
+ }

@@ -1,0 +1,59 @@
+{
+  "pools": [
+    
+    
+    {
+      "bonus_rolls": 0.0,
+      "conditions": [
+        {
+          "condition": "scalinghealth:mob_properties",
+          "difficulty": {
+            "max": 2.14748365E9,
+            "min": 0.0
+          },
+          "entity": "this",
+          "is_blight": true
+        },
+        {
+          "condition": "minecraft:killed_by_player"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "add": false,
+              "count": {
+                "type": "minecraft:uniform",
+                "max": 5.0,
+                "min": 0.0
+              },
+              "function": "minecraft:set_count"
+            }
+          ],
+          "name": "scalinghealth:heart_crystal",
+          "weight": 5
+        },
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "add": false,
+              "count": {
+                "type": "minecraft:uniform",
+                "max": 5.0,
+                "min": 0.0
+              },
+              "function": "minecraft:set_count"
+            }
+          ],
+          "name": "scalinghealth:power_crystal",
+          "weight": 2
+        }
+      ],
+      "name": "blights",
+      "rolls": 1.0
+    }
+  ]
+}

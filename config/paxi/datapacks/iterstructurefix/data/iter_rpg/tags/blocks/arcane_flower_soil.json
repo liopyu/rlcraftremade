@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:budding_amethyst",
+    "iter_rpg:deepslate_ametrine_ore",
+    "iter_rpg:ametrine_ore",
+    "iter_rpg:ametrine_block",
+    "minecraft:amethyst_block"
+  ]
+}

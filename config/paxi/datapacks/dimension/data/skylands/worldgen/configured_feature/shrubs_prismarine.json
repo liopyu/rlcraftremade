@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:random_selector",
+  "config": {
+    "default": "skylands:prismarine_shrub_bubble",
+    "features": [
+      {
+        "chance": 0.25,
+        "feature": "skylands:prismarine_shrub_fire"
+      },
+      {
+        "chance": 0.25,
+        "feature": "skylands:prismarine_shrub_horn"
+      },
+      {
+        "chance": 0.25,
+        "feature": "skylands:prismarine_shrub_tube"
+      }
+    ]
+  }
+}

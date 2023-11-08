@@ -1,0 +1,467 @@
+{
+	"enabled": true,
+	"experience_per_level": {
+		"type": "values",
+		"data": {
+			"values": [
+				56,
+				67,
+				67,
+				80,
+				81,
+				96,
+				116,
+				139,
+				167,
+				200,
+				240,
+				288,
+				346,
+				416,
+				499,
+				599,
+				718,
+				862,
+				1035,
+				1242,
+				1490,
+				1789,
+				2146,
+				2576,
+				3091,
+				3246,
+				3408,
+				3578,
+				3757,
+				3945,
+				4142,
+				4350,
+				4567,
+				4795,
+				5035,
+				5287,
+				5551,
+				5829,
+				6121,
+				6427,
+				6748,
+				7085,
+				7440,
+				7812,
+				8202,
+				8612,
+				9043,
+				9495,
+				9970,
+				10469,
+				10992,
+				11542,
+				12119,
+				12725,
+				13361,
+				14029
+				
+			]
+		}
+	},
+	"sources": [
+		{
+			"type": "puffish_skills:mine_block",
+			"data": {
+				"conditions": {
+					"silk_touch": {
+						"type": "tool_nbt",
+						"data": {
+							"nbt": "{Enchantments:[{id:\"minecraft:silk_touch\"}]}"
+						}
+					},
+					"stone_like": {
+						"type": "block_tag",
+						"data": {
+							"tag": "base_stone_overworld"
+						}
+					},
+					"tin_ore": {
+						"type": "block_tag",
+						"data": {
+							"tag": "forge:ores/tin"
+						}
+					},
+					"osmium_ore": {
+						"type": "block_tag",
+						"data": {
+							"tag": "forge:ores/osmium"
+						}
+					},
+					"uranium_ore": {
+						"type": "block_tag",
+						"data": {
+							"tag": "forge:ores/uranium"
+						}
+					},
+					"fluorite_ore": {
+						"type": "block_tag",
+						"data": {
+							"tag": "forge:ores/fluorite"
+						}
+					},
+					"lead_ore": {
+						"type": "block_tag",
+						"data": {
+							"tag": "forge:ores/lead"
+						}
+					},
+					"deepslate": {
+						"type": "block",
+						"data": {
+							"block": "deepslate"
+						}
+					},
+					"coal_ore": {
+						"type": "block_tag",
+						"data": {
+							"tag": "forge:ores/coal"
+						}
+					},
+					"copper_ore": {
+						"type": "block_tag",
+						"data": {
+							"tag": "forge:ores/copper"
+						}
+					},
+					"iron_ore": {
+						"type": "block_tag",
+						"data": {
+							"tag": "forge:ores/iron"
+						}
+					},
+					"gold_ore": {
+						"type": "block_tag",
+						"data": {
+							"tag": "forge:ores/gold"
+						}
+					},
+					"redstone_ore": {
+						"type": "block_tag",
+						"data": {
+							"tag": "forge:ores/redstone"
+						}
+					},
+					"lapis_ore": {
+						"type": "block_tag",
+						"data": {
+							"tag": "forge:ores/lapis"
+						}
+					},
+					"diamond_ore": {
+						"type": "block_tag",
+						"data": {
+							"tag": "forge:ores/diamond"
+						}
+					},
+					"emerald_ore": {
+						"type": "block_tag",
+						"data": {
+							"tag": "forge:ores/emerald"
+						}
+					},
+					"deepslate_coal_ore": {
+						"type": "block",
+						"data": {
+							"block": "deepslate_coal_ore"
+						}
+					},
+					"deepslate_copper_ore": {
+						"type": "block",
+						"data": {
+							"block": "deepslate_copper_ore"
+						}
+					},
+					"deepslate_iron_ore": {
+						"type": "block",
+						"data": {
+							"block": "deepslate_iron_ore"
+						}
+					},
+					"deepslate_gold_ore": {
+						"type": "block",
+						"data": {
+							"block": "deepslate_gold_ore"
+						}
+					},
+					"deepslate_redstone_ore": {
+						"type": "block",
+						"data": {
+							"block": "deepslate_redstone_ore"
+						}
+					},
+					"deepslate_lapis_ore": {
+						"type": "block",
+						"data": {
+							"block": "deepslate_lapis_ore"
+						}
+					},
+					"deepslate_diamond_ore": {
+						"type": "block",
+						"data": {
+							"block": "deepslate_diamond_ore"
+						}
+					},
+					"deepslate_emerald_ore": {
+						"type": "block",
+						"data": {
+							"block": "deepslate_emerald_ore"
+						}
+					},
+					"nether_gold_ore": {
+						"type": "block",
+						"data": {
+							"block": "nether_gold_ore"
+						}
+					},
+					"nether_quartz_ore": {
+						"type": "block",
+						"data": {
+							"block": "nether_quartz_ore"
+						}
+					},
+					"certus_quartz_small": {
+						"type": "block",
+						"data": {
+							"block": "ae2:small_quartz_bud"
+						}
+					},
+					"certus_quartz_medium": {
+						"type": "block",
+						"data": {
+							"block": "ae2:medium_quartz_bud"
+						}
+					},
+					"certus_quartz_large": {
+						"type": "block",
+						"data": {
+							"block": "ae2:large_quartz_bud"
+						}
+					},
+					"certus_quartz_cluster": {
+						"type": "block",
+						"data": {
+							"block": "ae2:quartz_cluster"
+						}
+					},
+					"zinc_ore": {
+						"type": "block",
+						"data": {
+							"block": "create:zinc_ore"
+						}
+					},
+					"deepslate_zinc_ore": {
+						"type": "block",
+						"data": {
+							"block": "create:deepslate_zinc_ore"
+						}
+					},
+					"xpetrified_ore": {
+						"type": "block",
+						"data": {
+							"block": "forbidden_arcanus:xpetrified_ore"
+						}
+					},
+					"arcane_crystal_ore": {
+						"type": "block",
+						"data": {
+							"block": "forbidden_arcanus:arcane_crystal_ore"
+						}
+					},
+					"deepslate_arcane_crystal_ore": {
+						"type": "block",
+						"data": {
+							"block": "forbidden_arcanus:deepslate_arcane_crystal_ore"
+						}
+					},
+					"fusion_ore": {
+						"type": "block",
+						"data": {
+							"block": "theabyss:fusion_ore"
+						}
+					},
+					"loran_ore": {
+						"type": "block",
+						"data": {
+							"block": "theabyss:loran_ore"
+						}
+					},
+					"garnite_ore": {
+						"type": "block",
+						"data": {
+							"block": "theabyss:garnite_ore"
+						}
+					},
+					"ignisithe_ore": {
+						"type": "block",
+						"data": {
+							"block": "theabyss:ignisithe_ore"
+						}
+					},
+					"glacerythe_ore": {
+						"type": "block",
+						"data": {
+							"block": "theabyss:glacerythe_ore"
+						}
+					},
+					"aberythe_ore": {
+						"type": "block",
+						"data": {
+							"block": "theabyss:aberythe_ore"
+						}
+					},
+					"incorythe_ore": {
+						"type": "block",
+						"data": {
+							"block": "theabyss:incorythe_ore"
+						}
+					},
+					"diamond_variant": {
+						"type": "block",
+						"data": {
+							"block": "theabyss:diamond_variant"
+						}
+					},
+					"gold_variant": {
+						"type": "block",
+						"data": {
+							"block": "theabyss:gold_variant"
+						}
+					},
+					"iron_variant": {
+						"type": "block",
+						"data": {
+							"block": "theabyss:iron_variant"
+						}
+					},
+					"emerald_variant": {
+						"type": "block",
+						"data": {
+							"block": "theabyss:emerald_variant"
+						}
+					},
+					"heart_crystal_ore": {
+						"type": "block",
+						"data": {
+							"block": "scalinghealth:heart_crystal_ore"
+						}
+					},
+					"power_crystal_ore": {
+						"type": "block",
+						"data": {
+							"block": "scalinghealth:power_crystal_ore"
+						}
+					},
+					"deepslate_heart_crystal_ore": {
+						"type": "block",
+						"data": {
+							"block": "scalinghealth:deepslate_heart_crystal_ore"
+						}
+					},
+					"deepslate_power_crystal_ore": {
+						"type": "block",
+						"data": {
+							"block": "scalinghealth:deepslate_power_crystal_ore"
+						}
+					},
+					"tungsten_ore": {
+						"type": "block",
+						"data": {
+							"block": "stalwart_dungeons:tungsten_ore"
+						}
+					},
+					"chorundum_ore": {
+						"type": "block",
+						"data": {
+							"block": "stalwart_dungeons:chorundum_ore"
+						}
+					},
+					"ametrine_ore": {
+						"type": "block",
+						"data": {
+							"block": "iter_rpg:ametrine_ore"
+						}
+					},
+					"deepslate_ametrine_ore": {
+						"type": "block",
+						"data": {
+							"block": "iter_rpg:deepslate_ametrine_ore"
+						}
+					},
+					"magmanum_ore": {
+						"type": "block",
+						"data": {
+							"block": "iter_rpg:magmanum_ore"
+						}
+					},
+					"malachite_ore": {
+						"type": "block",
+						"data": {
+							"block": "enlightened_end:malachite_ore"
+						}
+					},
+					"bismuth_ore": {
+						"type": "block",
+						"data": {
+							"block": "enlightened_end:bismuth_ore"
+						}
+					}
+					
+				},
+				"experience": [
+					{
+						"condition": "!silk_touch & stone_like",
+						"expression": "0.5"
+					},
+					{
+						"condition": "!silk_touch & deepslate",
+						"expression": "1"
+					},
+					{
+						"condition": "!silk_touch & (coal_ore | copper_ore)",
+						"expression": "4"
+					},
+					{
+						"condition": "!silk_touch & (zinc_ore | nether_quartz_ore | iron_ore | lapis_ore | certus_quartz_small)",
+						"expression": "15"
+					},
+					{
+						"condition": "!silk_touch & (heart_crystal_ore | power_crystal_ore | arcane_crystal_ore | xpetrified_ore | gold_ore | redstone_ore | certus_quartz_medium)",
+						"expression": "20"
+					},
+					{
+						"condition": "!silk_touch & (bismuth_ore | malachite_ore | magmanum_ore | ametrine_ore | diamond_ore | emerald_ore | certus_quartz_large)",
+						"expression": "40"
+					},
+
+					{
+						"condition": "!silk_touch & (deepslate_coal_ore | deepslate_copper_ore)",
+						"expression": "8"
+					},
+					{
+						"condition": "!silk_touch & (deepslate_zinc_ore | deepslate_iron_ore | deepslate_lapis_ore)",
+						"expression": "18"
+					},
+					{
+						"condition": "!silk_touch & (deepslate_power_crystal_ore | deepslate_heart_crystal_ore | deepslate_arcane_crystal_ore | nether_gold_ore | deepslate_gold_ore | deepslate_redstone_ore)",
+						"expression": "25"
+					},
+					{
+						"condition": "!silk_touch & (deepslate_ametrine_ore | chorundum_ore | tungsten_ore | certus_quartz_cluster | deepslate_diamond_ore | deepslate_emerald_ore)",
+						"expression": "45"
+					},
+					{
+						"condition": "!silk_touch & (emerald_variant | iron_variant | gold_variant | diamond_variant | incorythe_ore | aberythe_ore | glacerythe_ore | ignisithe_ore | garnite_ore | loran_ore | fusion_ore)",
+						"expression": "50"
+					}
+				
+				]
+			}
+		}
+	]
+}

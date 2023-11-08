@@ -1,0 +1,1 @@
+{"type":"doom:gun_table","pattern":"abcd","key":{"a":{"item":"doom:argent_energy","count":10},"b":{"item":"doom:argent_plate","count":4},"c":{"item":"mekanism:nugget_steel","count":54},"d":{"item":"minecraft:copper_ingot","count":1}},"result":{"item":"doom:doomed_shotgun"}}

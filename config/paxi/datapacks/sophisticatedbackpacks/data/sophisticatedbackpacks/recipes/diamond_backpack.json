@@ -1,0 +1,34 @@
+{
+  "type": "sophisticatedbackpacks:backpack_upgrade",
+  "conditions": [
+    {
+      "itemRegistryName": "sophisticatedbackpacks:diamond_backpack",
+      "type": "sophisticatedcore:item_enabled"
+    }
+  ],
+  "pattern": [
+    "BEB",
+    "ACA",
+    "DAD"
+  ],
+  "key": {
+    "A": {
+      "tag": "forge:gems/diamond"
+    },
+    "C": {
+      "item": "sophisticatedbackpacks:gold_backpack"
+    },
+    "B": {
+      "item": "ars_nouveau:blaze_fiber"
+    },
+    "D": {
+      "item": "toolbelt:pouch"
+    },
+    "E": {
+      "item": "quark:diamond_heart"
+    }
+  },
+  "result": {
+    "item": "sophisticatedbackpacks:diamond_backpack"
+  }
+}

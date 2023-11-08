@@ -1,0 +1,170 @@
+{
+	"pools": [
+		{
+			"rolls": {
+				"min": 2,
+				"max": 5
+			},
+			"entries": [
+				{
+					"type": "minecraft:item",
+					"name": "minecraft:potion",
+					"functions": [
+						{
+							"function": "minecraft:set_potion",
+							"id": "minecraft:turtle_master"
+						}
+					]
+				},
+				{
+					"type": "minecraft:item",
+					"name": "minecraft:potion",
+					"functions": [
+						{
+							"function": "minecraft:set_potion",
+							"id": "minecraft:leaping"
+						}
+					]
+				},
+				{
+					"type": "minecraft:item",
+					"name": "minecraft:potion",
+					"functions": [
+						{
+							"function": "minecraft:set_potion",
+							"id": "minecraft:slow_falling"
+						}
+					]
+				},
+				{
+					"type": "minecraft:item",
+					"name": "minecraft:potion",
+					"functions": [
+						{
+							"function": "minecraft:set_potion",
+							"id": "minecraft:swiftness"
+						}
+					]
+				},
+				{
+					"type": "minecraft:item",
+					"name": "minecraft:potion",
+					"functions": [
+						{
+							"function": "minecraft:set_potion",
+							"id": "minecraft:strength"
+						}
+					]
+				},
+				{
+					"type": "minecraft:item",
+					"name": "minecraft:potion",
+					"functions": [
+						{
+							"function": "minecraft:set_potion",
+							"id": "minecraft:invisibility"
+						}
+					]
+				},
+				{
+					"type": "minecraft:item",
+					"name": "minecraft:potion",
+					"functions": [
+						{
+							"function": "minecraft:set_potion",
+							"id": "minecraft:night_vision"
+						}
+					]
+				},
+				{
+					"type": "minecraft:item",
+					"name": "minecraft:potion",
+					"functions": [
+						{
+							"function": "minecraft:set_nbt",
+							"tag": "{CustomPotionEffects:[{Id:21b,Amplifier:0b,Duration:1800}],CustomPotionColor:16284963}"
+						},
+						{
+							"function": "minecraft:set_name",
+							"name": {
+								"text": "Potion of Fortitude",
+								"italic": false
+							}
+						}
+					]
+				},
+				{
+					"type": "minecraft:item",
+					"name": "minecraft:potion",
+					"functions": [
+						{
+							"function": "minecraft:set_nbt",
+							"tag": "{CustomPotionEffects:[{Id:15b,Amplifier:0b,Duration:300},{Id:5b,Amplifier:2b,Duration:300}],CustomPotionColor:3089152}"
+						},
+						{
+							"function": "minecraft:set_name",
+							"name": {
+								"text": "Potion of Blind Rage",
+								"italic": false
+							}
+						}
+					]
+				},
+				{
+					"type": "minecraft:item",
+					"name": "minecraft:potion",
+					"functions": [
+						{
+							"function": "minecraft:set_nbt",
+							"tag": "{CustomPotionEffects:[{Id:16b,Amplifier:0b,Duration:1800},{Id:14b,Amplifier:0b,Duration:1800}],CustomPotionColor:65510}"
+						},
+						{
+							"function": "minecraft:set_name",
+							"name": {
+								"text": "Potion of Ninja",
+								"italic": false
+							}
+						}
+					]
+				},
+				{
+					"type": "minecraft:item",
+					"name": "minecraft:potion",
+					"functions": [
+						{
+							"function": "minecraft:set_nbt",
+							"tag": "{CustomPotionEffects:[{Id:24b,Amplifier:0b,Duration:1800}],CustomPotionColor:16770560}"
+						},
+						{
+							"function": "minecraft:set_name",
+							"name": {
+								"text": "Potion of Light",
+								"italic": false
+							}
+						}
+					]
+				},
+				{
+					"type": "minecraft:item",
+					"name": "minecraft:potion",
+					"functions": [
+						{
+							"function": "minecraft:set_nbt",
+							"tag": "{CustomPotionEffects:[{Id:1b,Amplifier:4b,Duration:1800},{Id:8b,Amplifier:1b,Duration:1200},{Id:9b,Amplifier:0b,Duration:900}],CustomPotionColor:53503}"
+						},
+						{
+							"function": "minecraft:set_name",
+							"entity": "this",
+							"name": [
+								{
+									"text": "Potion of Madness",
+									"italic": false
+								}
+							]
+						}
+					]
+				}
+			]
+		}
+	]
+}

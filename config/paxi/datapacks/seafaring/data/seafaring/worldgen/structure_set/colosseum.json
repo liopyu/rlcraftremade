@@ -1,0 +1,20 @@
+{
+    "structures": [
+      {
+        "structure": "seafaring:colosseum",
+        "weight": 1
+      }
+    ],
+    "placement": {
+      "type": "minecraft:random_spread",
+      "spacing": 60,
+      "separation": 50,
+      "salt": 151673251,
+      "exclusion_zone":{
+        "chunk_count":16,
+        "other_set":[
+        "minecraft:ancient_city"
+        ]
+        }
+    }
+  }

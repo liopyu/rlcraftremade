@@ -1,0 +1,12 @@
+{
+  "type": "forge:add_spawns",
+  "biomes": {
+    "type": "forge:any"
+  },
+  "spawners": {
+    "type": "iter_rpg:scallop",
+    "weight": 1,
+    "minCount": 0,
+    "maxCount": 1
+  }
+}

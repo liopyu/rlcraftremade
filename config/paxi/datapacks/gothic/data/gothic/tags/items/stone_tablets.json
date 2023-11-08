@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "gothic:stone_tablet_of_absorption",
+    "gothic:stone_tablet_of_regeneration",
+    "gothic:stone_tablet_of_speed",
+    "gothic:stone_tablet_of_resistance",
+    "gothic:stone_tablet_of_strength"
+  ]
+}

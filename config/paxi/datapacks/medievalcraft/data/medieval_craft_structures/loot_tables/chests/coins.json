@@ -1,0 +1,70 @@
+{
+    "type": "minecraft:chest",
+    "pools": [
+      
+      {
+        "rolls": {
+          "type": "minecraft:uniform",
+          "min": 3.0,
+          "max": 5.0
+        },
+        "bonus_rolls": 1.0,
+        "entries": [
+          
+          
+          {
+            "type": "minecraft:item",
+            "weight": 7,
+            "functions": [
+              {
+                "function": "minecraft:set_count",
+                "count": {
+                  "type": "minecraft:uniform",
+                  "min": 1.0,
+                  "max": 3.0
+                },
+                "add": false
+              }
+            ],
+            "name": "numismaticoverhaul:silver_coin"
+          },
+          
+          {
+            "type": "minecraft:item",
+            "weight": 7,
+            "functions": [
+              {
+                "function": "minecraft:set_count",
+                "count": {
+                  "type": "minecraft:uniform",
+                  "min": 13.0,
+                  "max": 20.0
+                },
+                "add": false
+              }
+            ],
+            "name": "numismaticoverhaul:bronze_coin"
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 1,
+            "functions": [
+              {
+                "function": "minecraft:set_count",
+                "count": {
+                  "type": "minecraft:uniform",
+                  "min": 1.0,
+                  "max": 1.0
+                },
+                "add": false
+              }
+            ],
+            "name": "numismaticoverhaul:gold_coin"
+          }
+        ]
+      }
+      
+      
+      
+    ]
+  }

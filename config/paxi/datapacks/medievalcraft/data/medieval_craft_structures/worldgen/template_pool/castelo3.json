@@ -1,0 +1,15 @@
+{
+	"name": "medieval_craft_structures:castelo3",
+	"fallback": "minecraft:empty",
+	"elements": [
+		{
+			"weight": 3,
+			"element": {
+				"element_type": "minecraft:single_pool_element",
+				"location": "medieval_craft_structures:castelo3",
+				"projection": "rigid",
+				"processors": "minecraft:empty"
+			}
+		}
+	]
+}

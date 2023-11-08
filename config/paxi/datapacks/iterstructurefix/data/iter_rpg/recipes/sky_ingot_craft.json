@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "iter_rpg:air_rune"
+    },
+    {
+      "item": "iter_rpg:ametrine_ingot"
+    },
+    {
+      "item": "iter_rpg:air_fragment"
+    }
+  ],
+  "result": {
+    "item": "iter_rpg:sky_ingot",
+    "count": 1
+  }
+}

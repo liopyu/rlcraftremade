@@ -1,0 +1,58 @@
+
+{
+  
+    "type": "origins:multiple",
+    "big":{
+        "type": "origins:action_on_callback",
+        "entity_action_chosen": {
+          "type": "origins:and",
+          "actions": [
+              {
+            "type": "origins:execute_command",
+            "command": "attribute @s forge:reach_distance base set 4"
+        }
+      ]
+    },
+        
+        "entity_action_respawned": {
+          "type": "origins:and",
+          "actions": [
+            {
+              "type": "origins:execute_command",
+              "command": "attribute @s forge:reach_distance base set 4"
+          }
+      ]
+    },
+        "execute_chosen_when_orb": true,
+        "entity_action_lost": {
+          "type": "origins:and",
+          "actions": [
+            {
+              "type": "origins:execute_command",
+              "command": "attribute @s forge:reach_distance base set 4.5"
+          }
+    ]
+    },
+      "entity_action_added": {
+          "type": "origins:and",
+          "actions": [
+            
+              {
+                  "type": "origins:execute_command",
+                  "command": "attribute @s forge:reach_distance base set 4"
+              }
+      ]
+    }
+      
+      
+      },
+  "reach": 
+  {
+    "type": "origins:modify_attribute",
+    "attribute": "minecraft:generic.attack_damage",
+    "modifier": {
+        "operation": "multiply_base",
+        "value": 0.15
+    }
+}
+ }

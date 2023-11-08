@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "iter_rpg:polished_reef_stone"
+    },
+    "1": {
+      "item": "iter_rpg:polished_reef_stone"
+    },
+    "2": {
+      "item": "iter_rpg:polished_reef_stone"
+    },
+    "3": {
+      "item": "iter_rpg:polished_reef_stone"
+    },
+    "4": {
+      "item": "iter_rpg:polished_reef_stone"
+    },
+    "5": {
+      "item": "iter_rpg:polished_reef_stone"
+    }
+  },
+  "result": {
+    "item": "iter_rpg:polished_reef_stone_wall",
+    "count": 6
+  }
+}

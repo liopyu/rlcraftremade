@@ -1,0 +1,16 @@
+{
+  "name": "minecraft:emptystructure/empty",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 3,
+      "element": {
+        "location": "minecraft:emptystructure/empty",
+        "processors": "minecraft:empty",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    }
+    
+  ]
+}

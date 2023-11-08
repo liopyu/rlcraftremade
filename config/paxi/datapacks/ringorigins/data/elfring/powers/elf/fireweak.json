@@ -1,0 +1,13 @@
+{
+    "name": "Fragile flower",
+    "description": "You take more damage from All fire sources.",
+    "type": "origins:modify_damage_taken",
+    "damage_condition": {
+        "type": "origins:fire"
+    },
+    "modifier": {
+        "operation": "multiply_base",
+        "value": 0.5
+    },
+    "modifiers": []
+}

@@ -1,0 +1,338 @@
+{
+  "intoxicatorliving": {
+    "sounds": [
+      {
+        "name": "mutationcraft:442334__liongrill__jumpscare-sound",
+        "stream": false
+      }
+    ]
+  },
+  "leechliving": {
+    "sounds": [
+      {
+        "name": "mutationcraft:fast-crawling-bu-84918",
+        "stream": false
+      }
+    ]
+  },
+  "correcttransform": {
+    "sounds": [
+      {
+        "name": "mutationcraft:446124__justinvoke__poofpuff",
+        "stream": false
+      }
+    ]
+  },
+  "correctdeath": {
+    "sounds": [
+      {
+        "name": "mutationcraft:sword_impact_through_flesh_2_-_quicksounds.com",
+        "stream": false
+      }
+    ]
+  },
+  "perfecthumansound": {
+    "sounds": [
+      {
+        "name": "mutationcraft:leterror",
+        "stream": false
+      }
+    ]
+  },
+  "perfecthurt": {
+    "sounds": [
+      {
+        "name": "mutationcraft:extiuae",
+        "stream": false
+      }
+    ]
+  },
+  "diseasedblockbreak": {
+    "sounds": [
+      {
+        "name": "mutationcraft:broky",
+        "stream": false
+      }
+    ]
+  },
+  "humanificationhurt": {
+    "sounds": [
+      {
+        "name": "mutationcraft:humanificationhurt",
+        "stream": false
+      }
+    ]
+  },
+  "humandeath": {
+    "sounds": [
+      {
+        "name": "mutationcraft:humanmutantdeath",
+        "stream": false
+      }
+    ]
+  },
+  "spiderlivingtrue": {
+    "sounds": [
+      {
+        "name": "mutationcraft:zapsplat_science_fiction_baby_alien_or_dinosaur_cry_sreech_single_005_72262",
+        "stream": false
+      }
+    ]
+  },
+  "lehumansound": {
+    "sounds": [
+      {
+        "name": "mutationcraft:horror_monster_zombie_male_groan_006",
+        "stream": false
+      }
+    ]
+  },
+  "assimilatedcowliving": {
+    "sounds": [
+      {
+        "name": "mutationcraft:minecraft-cow-1-made-with-voicemod-technology",
+        "stream": false
+      }
+    ]
+  },
+  "assimilatedwitchliving": {
+    "sounds": [
+      {
+        "name": "mutationcraft:livingy",
+        "stream": false
+      }
+    ]
+  },
+  "assimilatedhorseliving": {
+    "sounds": [
+      {
+        "name": "mutationcraft:demon_horse_whiney_-_quicksounds.com",
+        "stream": false
+      }
+    ]
+  },
+  "assimilatedsheepliving": {
+    "sounds": [
+      {
+        "name": "mutationcraft:515874__klankbeeld__sheep-bleats-003",
+        "stream": false
+      }
+    ]
+  },
+  "endermanliving": {
+    "sounds": [
+      {
+        "name": "mutationcraft:endermanliving",
+        "stream": false
+      }
+    ]
+  },
+  "endermandeath": {
+    "sounds": [
+      {
+        "name": "mutationcraft:death",
+        "stream": false
+      }
+    ]
+  },
+  "endermanhurt": {
+    "sounds": [
+      {
+        "name": "mutationcraft:scream4---endermen-made-with-voicemod-technology",
+        "stream": false
+      }
+    ]
+  },
+  "teleport1": {
+    "sounds": [
+      {
+        "name": "mutationcraft:enderman-teleport-sound-effect-made-with-voicemod-technology",
+        "stream": false
+      }
+    ]
+  },
+  "teleport2": {
+    "sounds": [
+      {
+        "name": "mutationcraft:enderman-teleport-2-made-with-voicemod-technology_1",
+        "stream": false
+      }
+    ]
+  },
+  "heartbite": {
+    "sounds": [
+      {
+        "name": "mutationcraft:zapsplat_cartoon_bite_eat_crunch_single_001_58270",
+        "stream": false
+      }
+    ]
+  },
+  "perfectpigus": {
+    "sounds": [
+      {
+        "name": "mutationcraft:pig_squeal_-_sound_effect_hd",
+        "stream": false
+      }
+    ]
+  },
+  "reductorliving": {
+    "sounds": [
+      {
+        "name": "mutationcraft:audio_mangler_whoosh_fee_39_154",
+        "stream": false
+      }
+    ]
+  },
+  "assimilatedwolfliving": {
+    "sounds": [
+      {
+        "name": "mutationcraft:minecraft-wolf-sounds-aggro-3-made-with-voicemod-technology",
+        "stream": false
+      }
+    ]
+  },
+  "helicoptersound": {
+    "sounds": [
+      {
+        "name": "mutationcraft:251783__ninafoletti__helicopter",
+        "stream": false
+      }
+    ]
+  },
+  "flamethrowerexplodes": {
+    "sounds": [
+      {
+        "name": "mutationcraft:388528__eflexmusic__artillery-explosion-close-mixed",
+        "stream": false
+      }
+    ]
+  },
+  "flamethrowerburn": {
+    "sounds": [
+      {
+        "name": "mutationcraft:214456__quaker540__hq-flamethrower-burning",
+        "stream": false
+      }
+    ]
+  },
+  "humanstagesliving": {
+    "sounds": [
+      {
+        "name": "mutationcraft:163440__under7dude__zombie-1",
+        "stream": false
+      }
+    ]
+  },
+  "assimilatedfoxliving": {
+    "sounds": [
+      {
+        "name": "mutationcraft:485009__inspectorj__fox-vocal-cry-distant-01",
+        "stream": false
+      }
+    ]
+  },
+  "assimilatedpolarbearliving": {
+    "sounds": [
+      {
+        "name": "mutationcraft:large_black_bear_single_roar_-_quicksounds.com",
+        "stream": false
+      }
+    ]
+  },
+  "assimilatedpolarbeardeath": {
+    "sounds": [
+      {
+        "name": "mutationcraft:winged_creature_cry_roar_-_quicksounds.com",
+        "stream": false
+      }
+    ]
+  },
+  "evokerliving": {
+    "sounds": [
+      {
+        "name": "mutationcraft:evokerliving",
+        "stream": false
+      }
+    ]
+  },
+  "evokersummonfangs": {
+    "sounds": [
+      {
+        "name": "mutationcraft:evokersummonfangs",
+        "stream": false
+      }
+    ]
+  },
+  "evokersummonvex": {
+    "sounds": [
+      {
+        "name": "mutationcraft:evokersummonvex",
+        "stream": false
+      }
+    ]
+  },
+  "carnivoraeliving": {
+    "sounds": [
+      {
+        "name": "mutationcraft:guts_wet_human_guts_-_quicksounds.com",
+        "stream": false
+      }
+    ]
+  },
+  "easalarm": {
+    "sounds": [
+      {
+        "name": "mutationcraft:370184__mpaol2023__eas-alarm",
+        "stream": false
+      }
+    ]
+  },
+  "ambulance": {
+    "sounds": [
+      {
+        "name": "mutationcraft:610056__chungus43a__alarmsiren-sound-01",
+        "stream": false
+      }
+    ]
+  },
+  "stage0": {
+    "sounds": [
+      {
+        "name": "mutationcraft:stage0",
+        "stream": false
+      }
+    ]
+  },
+  "stage1": {
+    "sounds": [
+      {
+        "name": "mutationcraft:stage1",
+        "stream": false
+      }
+    ]
+  },
+  "stage2": {
+    "sounds": [
+      {
+        "name": "mutationcraft:stage2",
+        "stream": false
+      }
+    ]
+  },
+  "stage3": {
+    "sounds": [
+      {
+        "name": "mutationcraft:stage3",
+        "stream": false
+      }
+    ]
+  },
+  "donkeyliving": {
+    "sounds": [
+      {
+        "name": "mutationcraft:donkey_-_quicksounds.com",
+        "stream": false
+      }
+    ]
+  }
+}

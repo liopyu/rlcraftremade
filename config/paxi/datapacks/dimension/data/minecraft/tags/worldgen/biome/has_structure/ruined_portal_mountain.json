@@ -1,0 +1,18 @@
+{
+  "values": [
+    "#minecraft:is_badlands",
+    "#minecraft:is_hill",
+    "minecraft:savanna_plateau",
+    "minecraft:windswept_savanna",
+    "minecraft:stony_shore",
+    "#minecraft:is_mountain",
+    "skylands:badlands",
+	"skylands:frozen_wastes",
+	"skylands:grove",
+    "skylands:meadow",
+	"skylands:stony_wastes",
+	"skylands:windswept_forest",
+	"skylands:windswept_plains",
+	"skylands:wooded_badlands"
+  ]
+}

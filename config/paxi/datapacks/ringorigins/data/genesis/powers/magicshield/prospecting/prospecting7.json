@@ -1,0 +1,13 @@
+{
+    "type": "origins:modify_break_speed",
+    "condition": {
+       "type": "origins:scoreboard",
+       "objective": "prospecting",
+       "comparison": "==",
+       "compare_to": 7
+   },
+    "modifier": {
+        "operation": "multiply_base",
+        "value": 0.21
+    }
+}

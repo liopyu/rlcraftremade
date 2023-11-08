@@ -1,0 +1,962 @@
+{
+  "wythers:coastal_mangroves": {
+    "r": 82,
+    "g": 85,
+    "b": 37
+  },
+  "wythers:tropical_grassland": {
+    "r": 179,
+    "g": 209,
+    "b": 122
+  },
+  "wythers:tropical_forest": {
+    "r": 85,
+    "g": 116,
+    "b": 26
+  },
+  "minecraft:mangrove_swamp": {
+    "r": 52,
+    "g": 66,
+    "b": 26
+  },
+  "wythers:desert_lakes": {
+    "r": 73,
+    "g": 238,
+    "b": 161
+  },
+  "wythers:tropical_beach": {
+    "r": 250,
+    "g": 253,
+    "b": 109
+  },
+  "wythers:flooded_jungle": {
+    "r": 109,
+    "g": 217,
+    "b": 127
+  },
+  "wythers:tepui": {
+    "r": 56,
+    "g": 56,
+    "b": 56
+  },
+  "wythers:tropical_rainforest": {
+    "r": 20,
+    "g": 123,
+    "b": 22
+  },
+  "wythers:jungle_river": {
+    "r": 13,
+    "g": 125,
+    "b": 97
+  },
+  "wythers:dry_tropical_grassland": {
+    "r": 202,
+    "g": 199,
+    "b": 125
+  },
+  "wythers:dry_tropical_forest": {
+    "r": 105,
+    "g": 102,
+    "b": 33
+  },
+  "wythers:humid_tropical_grassland": {
+    "r": 140,
+    "g": 188,
+    "b": 52
+  },
+  "wythers:eucalyptus_jungle": {
+    "r": 52,
+    "g": 91,
+    "b": 53
+  },
+  "wythers:outback": {
+    "r": 219,
+    "g": 128,
+    "b": 0
+  },
+  "wythers:ayers_rock": {
+    "r": 169,
+    "g": 74,
+    "b": 0
+  },
+  "wythers:outback_desert": {
+    "r": 240,
+    "g": 94,
+    "b": 15
+  },
+  "wythers:volcanic_crater": {
+    "r": 115,
+    "g": 43,
+    "b": 12
+  },
+  "wythers:savanna_basaltic_incursions": {
+    "r": 203,
+    "g": 178,
+    "b": 128
+  },
+  "wythers:flooded_savanna": {
+    "r": 86,
+    "g": 164,
+    "b": 81
+  },
+  "wythers:savanna_river": {
+    "r": 26,
+    "g": 183,
+    "b": 136
+  },
+  "wythers:tropical_forest_river": {
+    "r": 25,
+    "g": 169,
+    "b": 126
+  },
+  "wythers:flooded_rainforest": {
+    "r": 7,
+    "g": 110,
+    "b": 62
+  },
+  "wythers:bayou": {
+    "r": 125,
+    "g": 170,
+    "b": 149
+  },
+  "wythers:dripleaf_swamp": {
+    "r": 88,
+    "g": 233,
+    "b": 78
+  },
+  "wythers:danakil_desert": {
+    "r": 255,
+    "g": 149,
+    "b": 0
+  },
+  "wythers:billabong": {
+    "r": 44,
+    "g": 165,
+    "b": 84
+  },
+  "wythers:eucalyptus_woodland": {
+    "r": 87,
+    "g": 72,
+    "b": 0
+  },
+  "wythers:sparse_eucalyptus_woodland": {
+    "r": 131,
+    "g": 90,
+    "b": 2
+  },
+  "wythers:eucalyptus_salubris_woodland": {
+    "r": 204,
+    "g": 123,
+    "b": 56
+  },
+  "wythers:red_desert": {
+    "r": 240,
+    "g": 116,
+    "b": 15
+  },
+  "wythers:chaparral": {
+    "r": 219,
+    "g": 201,
+    "b": 112
+  },
+  "wythers:kwongan_heath": {
+    "r": 143,
+    "g": 135,
+    "b": 91
+  },
+  "wythers:highland_tropical_rainforest": {
+    "r": 42,
+    "g": 127,
+    "b": 6
+  },
+  "wythers:sparse_bamboo_jungle": {
+    "r": 92,
+    "g": 230,
+    "b": 115
+  },
+  "wythers:forbidden_forest": {
+    "r": 95,
+    "g": 70,
+    "b": 43
+  },
+  "wythers:autumnal_forest": {
+    "r": 139,
+    "g": 67,
+    "b": 9
+  },
+  "wythers:cool_forest": {
+    "r": 32,
+    "g": 131,
+    "b": 70
+  },
+  "wythers:tundra": {
+    "r": 86,
+    "g": 179,
+    "b": 114
+  },
+  "wythers:birch_taiga": {
+    "r": 41,
+    "g": 158,
+    "b": 64
+  },
+  "wythers:autumnal_birch_forest": {
+    "r": 175,
+    "g": 137,
+    "b": 35
+  },
+  "wythers:boreal_forest_yellow": {
+    "r": 226,
+    "g": 171,
+    "b": 18
+  },
+  "wythers:giant_sequoia_forest": {
+    "r": 177,
+    "g": 61,
+    "b": 22
+  },
+  "wythers:cactus_desert": {
+    "r": 232,
+    "g": 209,
+    "b": 94
+  },
+  "wythers:ancient_emerald_beech_forest": {
+    "r": 115,
+    "g": 228,
+    "b": 63
+  },
+  "wythers:ancient_golden_beech_forest": {
+    "r": 241,
+    "g": 202,
+    "b": 59
+  },
+  "wythers:ancient_moss_forest": {
+    "r": 1,
+    "g": 116,
+    "b": 1
+  },
+  "wythers:sakura_forest": {
+    "r": 227,
+    "g": 150,
+    "b": 173
+  },
+  "wythers:ancient_copper_beech_forest": {
+    "r": 255,
+    "g": 121,
+    "b": 0
+  },
+  "wythers:phantasmal_forest": {
+    "r": 0,
+    "g": 230,
+    "b": 203
+  },
+  "wythers:ancient_taiga": {
+    "r": 35,
+    "g": 55,
+    "b": 11
+  },
+  "wythers:temperate_rainforest": {
+    "r": 48,
+    "g": 79,
+    "b": 18
+  },
+  "wythers:harvest_fields": {
+    "r": 153,
+    "g": 125,
+    "b": 26
+  },
+  "wythers:spring_flower_fields": {
+    "r": 102,
+    "g": 255,
+    "b": 0
+  },
+  "wythers:sandy_jungle": {
+    "r": 187,
+    "g": 213,
+    "b": 93
+  },
+  "wythers:sparse_eucalyptus_jungle": {
+    "r": 90,
+    "g": 123,
+    "b": 76
+  },
+  "wythers:bamboo_swamp": {
+    "r": 73,
+    "g": 171,
+    "b": 116
+  },
+  "wythers:bamboo_jungle_swamp": {
+    "r": 73,
+    "g": 171,
+    "b": 90
+  },
+  "wythers:waterlily_swamp": {
+    "r": 102,
+    "g": 206,
+    "b": 100
+  },
+  "wythers:bamboo_jungle_highlands": {
+    "r": 42,
+    "g": 122,
+    "b": 55
+  },
+  "wythers:huangshan_highlands": {
+    "r": 130,
+    "g": 186,
+    "b": 167
+  },
+  "wythers:lantern_river": {
+    "r": 255,
+    "g": 240,
+    "b": 252
+  },
+  "wythers:jade_highlands": {
+    "r": 48,
+    "g": 120,
+    "b": 87
+  },
+  "wythers:maple_mountains": {
+    "r": 162,
+    "g": 43,
+    "b": 22
+  },
+  "wythers:calcite_coast": {
+    "r": 205,
+    "g": 229,
+    "b": 204
+  },
+  "wythers:icy_shore": {
+    "r": 204,
+    "g": 204,
+    "b": 204
+  },
+  "wythers:marsh": {
+    "r": 128,
+    "g": 183,
+    "b": 108
+  },
+  "wythers:fen": {
+    "r": 107,
+    "g": 115,
+    "b": 78
+  },
+  "wythers:berry_bog": {
+    "r": 165,
+    "g": 49,
+    "b": 96
+  },
+  "wythers:cold_plains": {
+    "r": 109,
+    "g": 176,
+    "b": 132
+  },
+  "wythers:crimson_tundra": {
+    "r": 169,
+    "g": 45,
+    "b": 76
+  },
+  "wythers:ice_cap": {
+    "r": 0,
+    "g": 255,
+    "b": 204
+  },
+  "wythers:thermal_taiga": {
+    "r": 255,
+    "g": 174,
+    "b": 0
+  },
+  "wythers:spring_flower_forest": {
+    "r": 88,
+    "g": 254,
+    "b": 129
+  },
+  "wythers:autumnal_flower_forest": {
+    "r": 153,
+    "g": 100,
+    "b": 26
+  },
+  "wythers:tsingy_forest": {
+    "r": 104,
+    "g": 151,
+    "b": 83
+  },
+  "wythers:pantanal": {
+    "r": 78,
+    "g": 177,
+    "b": 79
+  },
+  "wythers:deep_dark_forest": {
+    "r": 0,
+    "g": 6,
+    "b": 31
+  },
+  "minecraft:deep_dark": {
+    "r": 0,
+    "g": 0,
+    "b": 0
+  },
+  "wythers:underground": {
+    "r": 136,
+    "g": 136,
+    "b": 136
+  },
+  "wythers:tibesti_mountains": {
+    "r": 0,
+    "g": 0,
+    "b": 0
+  },
+  "wythers:mud_pools": {
+    "r": 40,
+    "g": 24,
+    "b": 1
+  },
+  "wythers:deep_desert": {
+    "r": 255,
+    "g": 255,
+    "b": 128
+  },
+  "wythers:salt_lakes_pink": {
+    "r": 254,
+    "g": 236,
+    "b": 236
+  },
+  "wythers:salt_lakes_turquoise": {
+    "r": 215,
+    "g": 253,
+    "b": 254
+  },
+  "wythers:salt_lakes_white": {
+    "r": 212,
+    "g": 212,
+    "b": 212
+  },
+  "wythers:guelta": {
+    "r": 220,
+    "g": 193,
+    "b": 116
+  },
+  "wythers:desert_beach": {
+    "r": 255,
+    "g": 255,
+    "b": 128
+  },
+  "wythers:gravelly_river": {
+    "r": 64,
+    "g": 81,
+    "b": 109
+  },
+  "wythers:gravelly_beach": {
+    "r": 136,
+    "g": 136,
+    "b": 136
+  },
+  "wythers:wooded_desert": {
+    "r": 198,
+    "g": 206,
+    "b": 85
+  },
+  "wythers:dry_savanna": {
+    "r": 197,
+    "g": 240,
+    "b": 117
+  },
+  "wythers:wooded_savanna": {
+    "r": 128,
+    "g": 178,
+    "b": 36
+  },
+  "wythers:andesite_crags": {
+    "r": 164,
+    "g": 153,
+    "b": 121
+  },
+  "wythers:subtropical_grassland": {
+    "r": 137,
+    "g": 228,
+    "b": 63
+  },
+  "wythers:savanna_badlands": {
+    "r": 139,
+    "g": 173,
+    "b": 67
+  },
+  "wythers:jacaranda_savanna": {
+    "r": 185,
+    "g": 125,
+    "b": 207
+  },
+  "wythers:flowering_pantanal": {
+    "r": 234,
+    "g": 93,
+    "b": 222
+  },
+  "wythers:lapacho_plains": {
+    "r": 255,
+    "g": 122,
+    "b": 206
+  },
+  "wythers:ancient_oak_swamp": {
+    "r": 50,
+    "g": 85,
+    "b": 27
+  },
+  "wythers:ancient_mossy_swamp": {
+    "r": 11,
+    "g": 92,
+    "b": 0
+  },
+  "wythers:phantasmal_swamp": {
+    "r": 0,
+    "g": 255,
+    "b": 204
+  },
+  "wythers:birch_swamp": {
+    "r": 75,
+    "g": 155,
+    "b": 117
+  },
+  "wythers:tangled_forest": {
+    "r": 95,
+    "g": 78,
+    "b": 33
+  },
+  "wythers:autumnal_swamp": {
+    "r": 255,
+    "g": 123,
+    "b": 0
+  },
+  "wythers:deep_underground": {
+    "r": 136,
+    "g": 136,
+    "b": 136
+  },
+  "wythers:warm_stony_shore": {
+    "r": 136,
+    "g": 136,
+    "b": 136
+  },
+  "wythers:cool_stony_peaks": {
+    "r": 136,
+    "g": 136,
+    "b": 136
+  },
+  "wythers:badlands_desert": {
+    "r": 255,
+    "g": 51,
+    "b": 0
+  },
+  "wythers:desert_river": {
+    "r": 0,
+    "g": 230,
+    "b": 203
+  },
+  "wythers:deep_desert_river": {
+    "r": 255,
+    "g": 255,
+    "b": 128
+  },
+  "wythers:icy_ocean": {
+    "r": 72,
+    "g": 149,
+    "b": 249
+  },
+  "wythers:icy_crags": {
+    "r": 136,
+    "g": 136,
+    "b": 136
+  },
+  "wythers:taiga_crags": {
+    "r": 99,
+    "g": 140,
+    "b": 121
+  },
+  "wythers:aspen_crags": {
+    "r": 189,
+    "g": 173,
+    "b": 127
+  },
+  "wythers:old_growth_taiga_crags": {
+    "r": 136,
+    "g": 136,
+    "b": 136
+  },
+  "wythers:temperate_rainforest_crags": {
+    "r": 83,
+    "g": 101,
+    "b": 83
+  },
+  "wythers:autumnal_crags": {
+    "r": 120,
+    "g": 78,
+    "b": 38
+  },
+  "wythers:subtropical_forest": {
+    "r": 69,
+    "g": 184,
+    "b": 20
+  },
+  "wythers:badlands_river": {
+    "r": 77,
+    "g": 168,
+    "b": 112
+  },
+  "wythers:cool_plains": {
+    "r": 63,
+    "g": 228,
+    "b": 104
+  },
+  "wythers:highland_plains": {
+    "r": 81,
+    "g": 194,
+    "b": 110
+  },
+  "wythers:highlands": {
+    "r": 138,
+    "g": 234,
+    "b": 175
+  },
+  "wythers:forested_highlands": {
+    "r": 35,
+    "g": 144,
+    "b": 111
+  },
+  "wythers:snowy_peaks": {
+    "r": 219,
+    "g": 241,
+    "b": 255
+  },
+  "wythers:snowy_tundra": {
+    "r": 220,
+    "g": 199,
+    "b": 199
+  },
+  "wythers:deep_snowy_taiga": {
+    "r": 154,
+    "g": 244,
+    "b": 221
+  },
+  "wythers:icy_river": {
+    "r": 141,
+    "g": 198,
+    "b": 252
+  },
+  "wythers:larch_taiga": {
+    "r": 222,
+    "g": 207,
+    "b": 130
+  },
+  "wythers:boreal_forest_red": {
+    "r": 143,
+    "g": 14,
+    "b": 0
+  },
+  "wythers:warm_birch_forest": {
+    "r": 243,
+    "g": 235,
+    "b": 18
+  },
+  "wythers:glacial_cliffs": {
+    "r": 167,
+    "g": 224,
+    "b": 236
+  },
+  "wythers:snowy_fen": {
+    "r": 228,
+    "g": 199,
+    "b": 175
+  },
+  "wythers:snowy_bog": {
+    "r": 230,
+    "g": 163,
+    "b": 163
+  },
+  "wythers:mediterranean_island": {
+    "r": 145,
+    "g": 174,
+    "b": 91
+  },
+  "wythers:frozen_island": {
+    "r": 255,
+    "g": 255,
+    "b": 255
+  },
+  "wythers:cold_island": {
+    "r": 93,
+    "g": 182,
+    "b": 132
+  },
+  "wythers:temperate_island": {
+    "r": 74,
+    "g": 131,
+    "b": 63
+  },
+  "wythers:tropical_island": {
+    "r": 103,
+    "g": 234,
+    "b": 77
+  },
+  "wythers:desert_island": {
+    "r": 194,
+    "g": 191,
+    "b": 91
+  },
+  "wythers:volcano": {
+    "r": 136,
+    "g": 136,
+    "b": 136
+  },
+  "wythers:tropical_volcano": {
+    "r": 86,
+    "g": 96,
+    "b": 82
+  },
+  "wythers:icy_volcano": {
+    "r": 189,
+    "g": 189,
+    "b": 189
+  },
+  "wythers:frigid_island": {
+    "r": 136,
+    "g": 136,
+    "b": 136
+  },
+  "wythers:deep_icy_ocean": {
+    "r": 136,
+    "g": 136,
+    "b": 136
+  },
+  "wythers:autumnal_plains": {
+    "r": 198,
+    "g": 177,
+    "b": 118
+  },
+  "wythers:autumnal_forest_edge": {
+    "r": 175,
+    "g": 131,
+    "b": 80
+  },
+  "wythers:cool_forest_edge": {
+    "r": 49,
+    "g": 170,
+    "b": 102
+  },
+  "wythers:forest_edge": {
+    "r": 71,
+    "g": 159,
+    "b": 65
+  },
+  "wythers:subtropical_forest_edge": {
+    "r": 115,
+    "g": 192,
+    "b": 53
+  },
+  "wythers:deepslate_shore": {
+    "r": 89,
+    "g": 95,
+    "b": 89
+  },
+  "wythers:pine_barrens": {
+    "r": 209,
+    "g": 226,
+    "b": 177
+  },
+  "wythers:sand_dunes": {
+    "r": 255,
+    "g": 249,
+    "b": 138
+  },
+  "wythers:black_beach": {
+    "r": 62,
+    "g": 40,
+    "b": 15
+  },
+  "wythers:black_river": {
+    "r": 0,
+    "g": 0,
+    "b": 0
+  },
+  "wythers:snowy_thermal_taiga": {
+    "r": 136,
+    "g": 136,
+    "b": 136
+  },
+  "wythers:thermal_taiga_crags": {
+    "r": 217,
+    "g": 130,
+    "b": 84
+  },
+  "wythers:old_growth_taiga_swamp": {
+    "r": 91,
+    "g": 61,
+    "b": 51
+  },
+  "wythers:flooded_temperate_rainforest": {
+    "r": 7,
+    "g": 110,
+    "b": 62
+  },
+  "wythers:mushroom_caves": {
+    "r": 206,
+    "g": 75,
+    "b": 75
+  },
+  "wythers:volcanic_chamber": {
+    "r": 115,
+    "g": 43,
+    "b": 12
+  },
+  "wythers:lush_dripstone_caves": {
+    "r": 184,
+    "g": 255,
+    "b": 77
+  },
+  "wythers:calcite_caverns": {
+    "r": 255,
+    "g": 255,
+    "b": 255
+  },
+  "wythers:lush_shroom_caves": {
+    "r": 130,
+    "g": 217,
+    "b": 168
+  },
+  "wythers:lichenous_caves": {
+    "r": 179,
+    "g": 219,
+    "b": 209
+  },
+  "wythers:mossy_caves": {
+    "r": 40,
+    "g": 101,
+    "b": 32
+  },
+  "wythers:fungous_dripstone_caves": {
+    "r": 180,
+    "g": 133,
+    "b": 80
+  },
+  "wythers:lush_fungous_dripstone_caves": {
+    "r": 151,
+    "g": 129,
+    "b": 23
+  },
+  "wythers:mossy_dripstone_caves": {
+    "r": 49,
+    "g": 119,
+    "b": 24
+  },
+  "wythers:lichenous_dripstone_caves": {
+    "r": 136,
+    "g": 136,
+    "b": 136
+  },
+  "wythers:deep_dark_incursion": {
+    "r": 0,
+    "g": 45,
+    "b": 51
+  },
+  "wythers:mushroom_island": {
+    "r": 95,
+    "g": 180,
+    "b": 121
+  },
+  "wythers:mediterranean_island_thermal_springs": {
+    "r": 255,
+    "g": 255,
+    "b": 255
+  },
+  "wythers:jungle_island": {
+    "r": 60,
+    "g": 146,
+    "b": 42
+  },
+  "wythers:red_rock_canyon": {
+    "r": 115,
+    "g": 42,
+    "b": 17
+  },
+  "wythers:badlands_canyon": {
+    "r": 134,
+    "g": 71,
+    "b": 19
+  },
+  "wythers:granite_canyon": {
+    "r": 187,
+    "g": 133,
+    "b": 88
+  },
+  "wythers:jungle_canyon": {
+    "r": 56,
+    "g": 71,
+    "b": 42
+  },
+  "wythers:stony_canyon": {
+    "r": 136,
+    "g": 136,
+    "b": 136
+  },
+  "wythers:cool_stony_canyons": {
+    "r": 186,
+    "g": 186,
+    "b": 186
+  },
+  "wythers:snowy_canyon": {
+    "r": 255,
+    "g": 255,
+    "b": 255
+  },
+  "green": {
+    "r": 0,
+    "g": 255,
+    "b": 17
+  },
+  "wythers:windswept_jungle": {
+    "r": 136,
+    "g": 136,
+    "b": 136
+  },
+  "wythers:tropical_forest_canyon": {
+    "r": 90,
+    "g": 109,
+    "b": 84
+  },
+  "wythers:eucalyptus_deanei_forest": {
+    "r": 136,
+    "g": 136,
+    "b": 136
+  },
+  "wythers:eucalyptus_jungle_canyon": {
+    "r": 136,
+    "g": 136,
+    "b": 136
+  },
+  "wythers:bamboo_jungle_canyon": {
+    "r": 76,
+    "g": 144,
+    "b": 102
+  },
+  "wythers:scrubland": {
+    "r": 163,
+    "g": 161,
+    "b": 108
+  },
+  "wythers:scrub_forest": {
+    "r": 119,
+    "g": 118,
+    "b": 80
+  },
+  "wythers:wistman_woods": {
+    "r": 53,
+    "g": 71,
+    "b": 51
+  },
+  "wythers:cold_stony_shore": {
+    "r": 176,
+    "g": 176,
+    "b": 176
+  },
+  "wythers:desert_pinnacles": {
+    "r": 148,
+    "g": 130,
+    "b": 16
+  }
+}

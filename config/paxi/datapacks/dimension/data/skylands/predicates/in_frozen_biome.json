@@ -1,0 +1,79 @@
+{
+  "condition": "minecraft:alternative",
+  "terms": [
+    {
+      "condition": "minecraft:location_check",
+      "predicate": {
+        "biome": "skylands:frozen_wastes"
+      }
+    },
+    {
+      "condition": "minecraft:location_check",
+      "predicate": {
+        "biome": "skylands:snowy_plains"
+      }
+    },
+    {
+      "condition": "minecraft:location_check",
+      "predicate": {
+        "biome": "skylands:snowy_taiga"
+      }
+    },
+    {
+      "condition": "minecraft:location_check",
+      "predicate": {
+        "biome": "skylands:grove"
+      }
+    },
+    {
+      "condition": "minecraft:location_check",
+      "predicate": {
+        "biome": "skylands:crystal_forest"
+      }
+    },
+    {
+      "condition": "minecraft:location_check",
+      "predicate": {
+        "biome": "skylands:stony_wastes",
+		"position": {
+		  "y": {
+		    "min": 200
+		  }
+		}
+      }
+    },
+    {
+      "condition": "minecraft:location_check",
+      "predicate": {
+        "biome": "skylands:windswept_plains",
+		"position": {
+		  "y": {
+		    "min": 200
+		  }
+		}
+      }
+    },
+    {
+      "condition": "minecraft:location_check",
+      "predicate": {
+        "biome": "skylands:taiga",
+		"position": {
+		  "y": {
+		    "min": 200
+		  }
+		}
+      }
+    },
+    {
+      "condition": "minecraft:location_check",
+      "predicate": {
+        "biome": "skylands:old_growth_taiga",
+		"position": {
+		  "y": {
+		    "min": 200
+		  }
+		}
+      }
+    }
+  ]
+}

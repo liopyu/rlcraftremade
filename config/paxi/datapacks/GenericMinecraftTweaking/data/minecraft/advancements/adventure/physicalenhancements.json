@@ -1,0 +1,28 @@
+{
+    "parent": "minecraft:adventure/kill_a_mob",
+    "criteria": {
+      "example": {
+        "trigger": "minecraft:impossible"
+      }
+    },
+    "display": {
+      "announce_to_chat": true,
+      "description": {
+        "text": "Start your combat skill tree.",
+        "color": "dark_green",
+        "bold": false,
+        "underlined": false
+    },
+      "frame": "challenge",
+      "hidden": false,
+      "icon": {
+        "item": "quark:diamond_heart"
+    },
+      "show_toast": true,
+      "title": {
+        "text": "How to become OP for dummies..",
+        "bold": true,
+        "color": "gold"
+    }
+  }
+  }

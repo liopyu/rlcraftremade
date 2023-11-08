@@ -1,0 +1,32 @@
+{
+    "item.shieldsplus.wooden_shield": "Wooden shield",
+    "item.shieldsplus.stone_shield": "Stone shield",
+    "item.shieldsplus.copper_shield": "Copper shield",
+    "item.shieldsplus.golden_shield": "Golden shield",
+    "item.minecraft.shield": "Iron shield",
+    "item.shieldsplus.diamond_shield": "Diamond shield",
+    "item.shieldsplus.netherite_shield": "Netherite shield",
+    "shieldsplus:damage_blocked": "%s damage blocked",
+    "shieldsplus:reinforced_bonus": "(+%s from Reinforced)",
+    "shieldsplus:reflection_malus": "(-%s from Reflection)",
+    "shieldsplus:damage_reflected": "%s%% damage reflected",
+    "shieldsplus:capped_damage_reflected": "(up to %s damage reflected)",
+
+    "enchantment.shieldsplus.recoil": "Recoil",
+    "enchantment.shieldsplus.reflection": "Reflection",
+    "enchantment.shieldsplus.reinforced": "Reinforced",
+    "enchantment.shieldsplus.ablaze": "Ablaze",
+    "enchantment.shieldsplus.lightweight": "Lightweight",
+    "enchantment.shieldsplus.fast_recovery": "Fast Recovery",
+    "enchantment.shieldsplus.shield_bash": "Shield Bash",
+    "enchantment.shieldsplus.parry": "Parry",
+
+    "enchantment.shieldsplus.recoil.desc": "Knocks back entities and returns projectiles to sender",
+    "enchantment.shieldsplus.reflection.desc": "Damages entities by 12.5% per level of the damage dealt",
+    "enchantment.shieldsplus.reinforced.desc": "Increases damage blocked by 0.5 per level",
+    "enchantment.shieldsplus.ablaze.desc": "Sets attacking entities and projectiles on fire",
+    "enchantment.shieldsplus.lightweight.desc": "Makes the player move faster when blocking",
+    "enchantment.shieldsplus.fast_recovery.desc": "Reduces the Shield cooldown by 0.6 seconds",
+    "enchantment.shieldsplus.shield_bash.desc": "Block with the Shield for 1.5 seconds. After that, tap sneak to bash and damage any entity in your path",
+    "enchantment.shieldsplus.parry.desc": "Parry with the shield"
+}

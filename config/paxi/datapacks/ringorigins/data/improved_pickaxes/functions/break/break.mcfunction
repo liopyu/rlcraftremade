@@ -1,0 +1,8 @@
+#by bad_programmer
+execute as @e[tag=titan] run execute if score @s titanenabled matches 1 run execute if score @s toggletag matches 1 run execute if block ~ ~ ~ #minecraft:titanbreakables run setblock ~ ~ ~ air destroy
+execute as @e[tag=titan] run execute if score @s titanenabled matches 1 run execute if score @s toggletag matches 1 run execute positioned ~1 ~ ~ if block ~ ~ ~ #minecraft:titanbreakables run setblock ~ ~ ~ air destroy
+execute as @e[tag=titan] run execute if score @s titanenabled matches 1 run execute if score @s toggletag matches 1 run execute positioned ~ ~1 ~ if block ~ ~ ~ #minecraft:titanbreakables run setblock ~ ~ ~ air destroy
+execute as @e[tag=titan] run execute if score @s titanenabled matches 1 run execute if score @s toggletag matches 1 run execute positioned ~ ~ ~1 if block ~ ~ ~ #minecraft:titanbreakables run setblock ~ ~ ~ air destroy
+execute as @e[tag=titan] run execute if score @s titanenabled matches 1 run execute if score @s toggletag matches 1 run execute positioned ~ ~ ~-1 if block ~ ~ ~ #minecraft:titanbreakables run setblock ~ ~ ~ air destroy
+execute as @e[tag=titan] run execute if score @s titanenabled matches 1 run execute if score @s toggletag matches 1 run execute positioned ~ ~-1 ~ if block ~ ~ ~ #minecraft:titanbreakables run setblock ~ ~ ~ air destroy
+execute as @e[tag=titan] run execute if score @s titanenabled matches 1 run execute if score @s toggletag matches 1 run execute positioned ~-1 ~ ~ if block ~ ~ ~ #minecraft:titanbreakables run setblock ~ ~ ~ air destroy

@@ -1,0 +1,15 @@
+{
+  "values": [
+    "minecraft:village_plains",
+    "minecraft:village_desert",
+    "minecraft:village_savanna",
+    "minecraft:village_snowy",
+    "minecraft:village_taiga",
+    "skylands:village_badlands",
+    "skylands:village_plains",
+    "skylands:village_desert",
+    "skylands:village_savanna",
+    "skylands:village_snowy",
+    "skylands:village_taiga"
+  ]
+}

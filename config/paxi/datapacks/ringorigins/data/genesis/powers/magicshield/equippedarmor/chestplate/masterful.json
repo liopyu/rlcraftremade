@@ -1,0 +1,51 @@
+{
+   "type": "origins:multiple",
+   "name": "Arcane",
+   "stuff": 
+   {
+      "type": "origins:conditioned_attribute",
+   "condition": {
+    "type": "origins:scoreboard",
+    "objective": "masterfulcLevel",
+    "comparison": "==",
+    "compare_to": 1
+},
+      "modifier": {
+          "name": "Max health increase",
+          "attribute": "minecraft:generic.armor_toughness",
+          "value": 1,
+          "operation": "addition"
+      }
+  },
+   "arcane": 
+   {
+      "type": "origins:conditioned_attribute",
+   "condition": {
+    "type": "origins:scoreboard",
+    "objective": "masterfulcLevel",
+    "comparison": "==",
+    "compare_to": 1
+},
+      "modifier": {
+          "name": "Max health increase",
+          "attribute": "minecraft:generic.armor",
+          "value": 0.25,
+          "operation": "addition"
+      }
+  },
+   "magicdefence": 
+   {
+    "type": "origins:conditioned_attribute",
+   "condition": {
+    "type": "origins:scoreboard",
+    "objective": "masterfulcLevel",
+    "comparison": "==",
+    "compare_to": 1
+},
+    "modifier": {
+        "attribute": "minecraft:generic.knockback_resistance",
+        "value": 0.5,
+        "operation": "addition"
+    }
+}
+}

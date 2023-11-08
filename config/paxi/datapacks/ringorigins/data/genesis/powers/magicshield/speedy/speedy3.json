@@ -1,0 +1,15 @@
+{
+    "type": "origins:conditioned_attribute",
+   "condition": {
+      "type": "origins:scoreboard",
+      "objective": "speedy",
+      "comparison": "==",
+      "compare_to": 3
+  },
+    "modifier": {
+        "name": "Max health increase",
+        "attribute": "minecraft:generic.movement_speed",
+        "value": 0.15,
+        "operation": "multiply_base"
+    }
+}

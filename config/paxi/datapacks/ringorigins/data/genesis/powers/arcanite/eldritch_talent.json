@@ -1,0 +1,33 @@
+{
+  "type": "origins:target_action_on_hit",
+  "entity_action": {
+    "type": "origins:spawn_entity",
+    "entity_type": "minecraft:lightning_bolt"
+  },
+  "cooldown": 100,
+    "hud_render": {
+      "should_render": true,
+      "bar_index": 2
+    },
+  "condition": {
+    "type": "origins:and",
+    "conditions": [
+      {
+        "type": "origins:resource",
+        "resource": "genesis:arcanite/mana",
+        "comparison": ">",
+        "compare_to": 19
+      },
+      {
+        "type": "origins:advancement",
+        "advancement": "arcanite:adept"
+      },
+      {
+        "type": "origins:power_active",
+        "power": "genesis:arcanite/toggle"
+      }
+
+    ]
+  },
+  "hidden": true
+}

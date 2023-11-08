@@ -1,0 +1,23 @@
+{
+  "values": [
+    "minecraft:snowy_plains",
+    "minecraft:ice_spikes",
+    "minecraft:frozen_peaks",
+    "minecraft:jagged_peaks",
+    "minecraft:snowy_slopes",
+    "minecraft:frozen_ocean",
+    "minecraft:deep_frozen_ocean",
+    "minecraft:grove",
+    "minecraft:deep_dark",
+    "minecraft:frozen_river",
+    "minecraft:snowy_taiga",
+    "minecraft:snowy_beach",
+    "#minecraft:is_end",
+	"skylands:crystal_forest",
+	"skylands:faux_end_highlands",
+	"skylands:frozen_wastes",
+	"skylands:grove",
+	"skylands:snowy_plains",
+	"skylands:snowy_taiga"
+  ]
+}

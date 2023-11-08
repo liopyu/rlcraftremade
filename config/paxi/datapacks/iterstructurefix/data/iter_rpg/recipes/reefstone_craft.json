@@ -1,0 +1,36 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "iter_rpg:seashell"
+    },
+    {
+      "tag": "minecraft:sand"
+    },
+    {
+      "item": "iter_rpg:seashell"
+    },
+    {
+      "tag": "minecraft:sand"
+    },
+    {
+      "item": "minecraft:cobblestone"
+    },
+    {
+      "tag": "minecraft:sand"
+    },
+    {
+      "item": "iter_rpg:seashell"
+    },
+    {
+      "tag": "minecraft:sand"
+    },
+    {
+      "item": "iter_rpg:seashell"
+    }
+  ],
+  "result": {
+    "item": "iter_rpg:reef_stone",
+    "count": 6
+  }
+}

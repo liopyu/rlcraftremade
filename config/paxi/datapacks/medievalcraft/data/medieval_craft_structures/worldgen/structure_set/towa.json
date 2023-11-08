@@ -1,0 +1,25 @@
+{
+	"structures": [
+		{
+			"structure": "medieval_craft_structures:towa",
+			"weight": 1
+		}
+	],
+	"placement": {
+		
+		"spacing": 60,
+		"separation": 30,
+		"salt": 1927583252,
+		"type": "minecraft:random_spread",
+		"exclusion_zone":{
+			"chunk_count":16,
+			"other_set":[
+			"seafaring:treevillage",
+			"keebsz:cobblestone_battletower",
+			"betteroceanmonuments:ocean_monument",
+			"seafaring:newmoonport",
+			"medieval_craft_structures:castelo0"
+			]
+			}
+	}
+}

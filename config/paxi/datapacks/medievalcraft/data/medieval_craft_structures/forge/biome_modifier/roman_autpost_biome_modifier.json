@@ -1,0 +1,8 @@
+{
+  "type": "forge:add_features",
+  "biomes": [
+    "skylands:dummy"
+],
+  "features": "medieval_craft_structures:roman_autpost",
+  "step": "surface_structures"
+}

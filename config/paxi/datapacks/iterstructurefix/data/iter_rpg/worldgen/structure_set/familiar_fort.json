@@ -1,0 +1,15 @@
+{
+    "structures": [
+      {
+        "structure": "iter_rpg:familiar_fort",
+        "weight": 1
+      }
+      
+    ],
+    "placement": {
+      "type": "minecraft:random_spread",
+      "spacing": 60,
+      "separation": 30,
+      "salt": 192759984
+    }
+  }

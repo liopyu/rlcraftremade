@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+    "iter_rpg:ocean_scythe",
+    "iter_rpg:ocean_axe",
+    "iter_rpg:ocean_hoe",
+    "iter_rpg:ocean_sword",
+    "iter_rpg:ocean_flail",
+    "iter_rpg:ocean_shovel",
+    "iter_rpg:ocean_pickaxe"
+  ]
+}

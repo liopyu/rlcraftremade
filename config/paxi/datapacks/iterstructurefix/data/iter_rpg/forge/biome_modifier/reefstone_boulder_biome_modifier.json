@@ -1,0 +1,13 @@
+{
+  "type": "forge:add_features",
+  "biomes": [
+    "warm_ocean",
+    "ocean",
+    "lukewarm_ocean",
+    "beach",
+    "deep_lukewarm_ocean",
+    "deep_ocean"
+  ],
+  "features": "iter_rpg:reefstone_boulder",
+  "step": "surface_structures"
+}

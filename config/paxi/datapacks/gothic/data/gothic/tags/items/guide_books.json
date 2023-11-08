@@ -1,0 +1,16 @@
+{
+  "replace": false,
+  "values": [
+    "gothic:book_extract_pelt",
+    "gothic:book_extract_fat",
+    "gothic:book_extract_claws",
+    "gothic:book_read_tablets",
+    "gothic:book_extract_plates",
+    "gothic:book_extract_mandibles",
+    "gothic:book_extract_wings",
+    "gothic:book_extract_hearts",
+    "gothic:book_extract_fangs",
+    "gothic:book_extract_horns",
+    "gothic:book_extract_stinger"
+  ]
+}

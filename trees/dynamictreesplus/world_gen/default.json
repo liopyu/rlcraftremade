@@ -1,0 +1,66 @@
+[
+  {
+    "select": { "name": "minecraft:desert" },
+    "apply": {
+      "species": {
+        "random": {
+          "dynamictreesplus:pillar_cactus": 6,
+          "dynamictreesplus:pipe_cactus": 1
+        }
+      },
+      "density": { "math": { "add": [ { "mul": [ "noise", 0.6 ] },  0.4 ] } },
+      "chance": 0.1
+    }
+  },
+  {
+    "select": { "tag": "#minecraft:is_badlands", "name": "!minecraft:wooded_badlands" },
+    "apply": {
+      "species": "dynamictreesplus:saguaro_cactus",
+      "density": { "math": { "add": [ { "mul": [ "noise", 0.6 ] }, 0.4 ] } },
+      "chance": 0.3
+    }
+  },
+  {
+    "_comment": "Since wooded badlands need trees as well, up the chance slightly to compensate for lower tree count.",
+    "_todo": "In future there should be an option to have species selection depend on soil.",
+    "select": { "name": "minecraft:wooded_badlands" },
+    "apply": {
+      "species": {
+        "random": {
+          "oak": 2,
+          "dynamictreesplus:saguaro_cactus": 1
+        }
+      },
+      "chance": 0.9
+    }
+  },
+
+  {
+    "select": { "name": "minecraft:mushroom_fields" },
+    "apply": {
+      "species": {
+        "random": {
+          "dynamictreesplus:red_mushroom": 8,
+          "dynamictreesplus:brown_mushroom": 6,
+          "dynamictreesplus:mega_red_mushroom": 2,
+          "dynamictreesplus:mega_brown_mushroom": 1
+        }
+      },
+      "chance": 0.75
+    }
+  },
+  {
+    "select": { "name": "minecraft:dark_forest" },
+    "apply": {
+      "species": {
+        "random": {
+          "dark_oak": 24,
+          "dynamictreesplus:red_mushroom": 2,
+          "dynamictreesplus:brown_mushroom": 1
+        }
+      },
+      "density" : { "math": { "div" : [ "noise", 3.0 ] } },
+      "multipass" : true
+    }
+  }
+]

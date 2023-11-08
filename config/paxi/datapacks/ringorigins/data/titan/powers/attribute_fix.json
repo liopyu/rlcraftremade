@@ -1,0 +1,30 @@
+{
+  "hidden":true,
+  "type":"origins:attribute",
+  "modifiers":[
+    {
+      "attribute":"minecraft:generic.attack_damage",
+      "operation":"multiply_base",
+      "value":1
+   },
+     
+     
+   {
+    "attribute":"minecraft:generic.knockback_resistance",
+    "operation":"multiply_base",
+    "value":0.75
+ },
+ {
+  "attribute":"puffish_skills:player.jump",
+  "operation":"addition",
+  "value":0.1
+},
+ {
+  "attribute":"minecraft:generic.attack_speed",
+  "operation":"multiply_base",
+  "value":-0.5
+}
+   
+  ],
+    "update_health": false
+}

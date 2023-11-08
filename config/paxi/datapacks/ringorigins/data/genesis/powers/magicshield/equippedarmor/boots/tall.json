@@ -1,0 +1,20 @@
+{
+   "type": "origins:multiple",
+   "name": "Arcane",
+   
+   "arcane": 
+   {
+    "type": "origins:conditioned_attribute",
+    "condition": {
+     "type": "origins:scoreboard",
+     "objective": "tallbLevel",
+     "comparison": "==",
+     "compare_to": 1
+ },
+      "modifier": {
+          "attribute": "forge:step_height_addition",
+          "value": 0.5,
+          "operation": "addition"
+      }
+  }
+}

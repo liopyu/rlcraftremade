@@ -1,0 +1,114 @@
+{
+    "type": "minecraft:chest",
+    "pools": [
+      
+      {
+        "rolls": {
+          "type": "minecraft:uniform",
+          "min": 2.0,
+          "max": 2.0
+        },
+        "bonus_rolls": 0.0,
+        "entries": [
+          {
+            "weight": 1,
+            "type": "minecraft:empty"
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 10,
+            "quality": 3,
+            "functions": [
+              {
+                "function": "minecraft:set_count",
+                "count": {
+                  "type": "minecraft:uniform",
+                  "min": 1.0,
+                  "max": 2.0
+                },
+                "add": false
+              }
+            ],
+            "name": "minecraft:book"
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 10,
+            "functions": [
+              {
+                "function": "minecraft:set_count",
+                "count": {
+                  "type": "minecraft:uniform",
+                  "min": 1.0,
+                  "max": 1.0
+                },
+                "add": false
+              }
+            ],
+            "name": "minecraft:writable_book"
+          }
+        ]
+      },
+      {
+        "rolls": {
+          "type": "minecraft:uniform",
+          "min": 1.0,
+          "max": 1.0
+        },
+        "bonus_rolls": 0.0,
+        "entries": [
+          {
+            "type": "placebo:stack_entry",
+            "weight": 1,
+            "quality": 10,
+            "min": 1,
+            "max": 1,
+            "stack": {
+              "item": "xpbook:xp_tome",
+              "count": 1,
+              "nbt": "{xp: 1395}"
+            }
+          },
+          {
+            "type": "placebo:stack_entry",
+            "weight": 1,
+            "quality": 10,
+            "min": 1,
+            "max": 1,
+            "stack": {
+              "item": "xpbook:xp_tome",
+              "count": 1,
+              "nbt": "{xp: 600}"
+            }
+          },
+          {
+            "type": "placebo:stack_entry",
+            "weight": 1,
+            "quality": 10,
+            "min": 1,
+            "max": 1,
+            "stack": {
+              "item": "xpbook:xp_tome",
+              "count": 1,
+              "nbt": "{xp: 788}"
+            }
+          },
+          {
+            "type": "placebo:stack_entry",
+            "weight": 1,
+            "quality": 10,
+            "min": 1,
+            "max": 1,
+            "stack": {
+              "item": "xpbook:xp_tome",
+              "count": 1,
+              "nbt": "{xp: 400}"
+            }
+          }
+        ]
+      }
+      
+      
+      
+    ]
+  }

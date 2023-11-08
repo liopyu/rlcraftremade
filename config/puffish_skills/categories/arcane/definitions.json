@@ -1,0 +1,124 @@
+{
+	"+100maxmana": {
+		"title": "+100 Max Mana",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "ars_nouveau:mendosteen_pod"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "ars_nouveau:ars_nouveau.perk.flat_max_mana",
+					"value": 100,
+					"operation": "addition"
+				}
+			}
+		]
+	},
+	"magictreeroot": {
+		"title": "Magical Enhancement Anyone?",
+		"frame": "challenge",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "ars_nouveau:apprentice_robes"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "ars_nouveau:ars_nouveau.perk.flat_max_mana",
+					"value": 100,
+					"operation": "addition"
+				}
+			},
+			{
+				"type": "puffish_skills:command",
+				"data": {
+					"command": "execute at @s run execute as @p run advancement grant @s only ars_nouveau:pufferfishskillsmagic"
+				}
+			}
+		]
+	},
+	"+2manaregen": {
+		"title": "+2 Mana Regen",
+		"icon": {
+			"type": "effect",
+			"data": {
+				"effect": "ars_nouveau:mana_regen"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "ars_nouveau:ars_nouveau.perk.mana_regen",
+					"value": 2,
+					"operation": "addition"
+				}
+			}
+		]
+	},
+	"+2warding": {
+		"title": "+2 Magic Protection",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "ars_nouveau:bastion_pod"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "ars_nouveau:ars_nouveau.perk.warding",
+					"value": 2,
+					"operation": "addition"
+				}
+			}
+		]
+	},
+	"wixie": {
+		"title": "+50% Potion Duration",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "ars_nouveau:abjuration_essence"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "ars_nouveau:ars_nouveau.perk.wixie",
+					"value": 1,
+					"operation": "addition"
+				}
+			}
+		]
+	},
+	"+5%maxmana": {
+		"title": "+5% Max Mana",
+		"icon": {
+			"type": "effect",
+			"data": {
+				"effect": "rpgskillable:mind"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "ars_nouveau:ars_nouveau.perk.percent_max_mana",
+					"value": 0.05,
+					"operation": "multiply_total"
+				}
+			}
+		]
+	}
+
+}

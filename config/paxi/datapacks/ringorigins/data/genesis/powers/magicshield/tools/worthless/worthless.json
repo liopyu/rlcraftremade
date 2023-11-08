@@ -1,0 +1,42 @@
+{
+    "type": "origins:multiple",
+    "name": "Arcane",
+    
+    "arcane": 
+    {
+      "type": "origins:modify_attribute",
+      "attribute": "minecraft:generic.attack_speed",
+      "modifier": {
+          "operation": "multiply_base",
+          "value": -0.1
+      }
+  },
+   "speeder":
+    {
+        "type": "origins:conditioned_attribute",
+    "modifier": {
+        "attribute": "puffish_skills:player.mining_speed",
+        "operation": "addition",
+        "value": -0.8,
+        "name": "Increased sprinting speed"
+    }
+    },
+  "damage": 
+    {
+        "type": "origins:modify_attribute",
+        "attribute": "minecraft:generic.attack_damage",
+        "modifier": {
+            "operation": "multiply_base",
+            "value": -0.1
+        }
+  },
+  "reach": 
+    {
+        "type": "origins:modify_attribute",
+        "attribute": "forge:reach_distance",
+        "modifier": {
+            "operation": "addition",
+            "value": -1
+        }
+  }
+ }

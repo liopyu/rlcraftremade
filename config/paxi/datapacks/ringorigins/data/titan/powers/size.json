@@ -1,0 +1,153 @@
+{
+  "name":"§bBig Genes",
+  "description":"Your kind are known to easily traverse mountains on a whim. (+300% Size/+100% Base Health)",
+  "type":"origins:multiple",
+  "big":{
+    "type": "origins:action_on_callback",
+    "entity_action_chosen": {
+      "type": "origins:and",
+      "actions": [
+          {
+        "type": "origins:execute_command",
+        "command": "scale set pehkui:height 3 @s"
+    },
+    {
+      "type": "origins:execute_command",
+      "command": "tag @s add titan"
+  },
+    {
+      "type": "origins:execute_command",
+      "command": "scale set pehkui:block_reach 1.5 @s"
+  },
+  {
+      "type": "origins:execute_command",
+      "command": "scale set pehkui:entity_reach 2 @s"
+  },
+    {
+      "type": "origins:execute_command",
+      "command": "scale set pehkui:width 3 @s"
+  },
+  {
+    "type": "origins:execute_command",
+    "command": "scale set pehkui:motion 1.5 @s"
+},
+{
+  "type": "origins:execute_command",
+  "command": "scale set pehkui:falling 0.7 @s"
+},
+
+
+    
+{
+"type": "origins:execute_command",
+"command": "attribute @s forge:step_height_addition base set 1"
+}
+  ]
+},
+    
+    "entity_action_respawned": {
+      "type": "origins:and",
+      "actions": [
+        {
+          "type": "origins:execute_command",
+          "command": "tag @s add titan"
+      },
+          {
+              "type": "origins:execute_command",
+              "command": "scale set pehkui:height 3 @s"
+          },
+          {
+            "type": "origins:execute_command",
+            "command": "scale set pehkui:block_reach 1.5 @s"
+        },
+        {
+            "type": "origins:execute_command",
+            "command": "scale set pehkui:entity_reach 2 @s"
+        },
+          {
+            "type": "origins:execute_command",
+            "command": "scale set pehkui:width 3 @s"
+        },
+        {
+          "type": "origins:execute_command",
+          "command": "scale set pehkui:motion 1.5 @s"
+      },
+      {
+        "type": "origins:execute_command",
+        "command": "scale set pehkui:falling 0.7 @s"
+    },
+    
+    
+    
+    {
+      "type": "origins:execute_command",
+      "command": "attribute @s forge:step_height_addition base set 1"
+    }
+  ]
+},
+    "execute_chosen_when_orb": true,
+    "entity_action_lost": {
+      "type": "origins:and",
+      "actions": [
+        {
+          "type": "origins:execute_command",
+          "command": "tag @s remove titan"
+      },
+        {
+      "type": "origins:execute_command",
+      "command": "scale reset @s"
+  },
+    
+    
+    
+  {
+    "type": "origins:execute_command",
+    "command": "attribute @s forge:step_height_addition base set 0.5"
+  }
+]
+},
+  "entity_action_added": {
+      "type": "origins:and",
+      "actions": [
+        
+          {
+              "type": "origins:execute_command",
+              "command": "scale set pehkui:height 3 @s"
+          },
+          {
+            "type": "origins:execute_command",
+            "command": "tag @s add titan"
+        },
+          {
+            "type": "origins:execute_command",
+            "command": "scale set pehkui:block_reach 1.5 @s"
+        },
+        {
+            "type": "origins:execute_command",
+            "command": "scale set pehkui:entity_reach 2 @s"
+        },
+          {
+            "type": "origins:execute_command",
+            "command": "scale set pehkui:width 3 @s"
+        },
+        {
+          "type": "origins:execute_command",
+          "command": "scale set pehkui:motion 1.5 @s"
+      },
+      {
+        "type": "origins:execute_command",
+        "command": "scale set pehkui:falling 0.7 @s"
+    },
+    
+    
+    
+    {
+      "type": "origins:execute_command",
+      "command": "attribute @s forge:step_height_addition base set 1"
+    }
+  ]
+}
+  
+  
+  }
+}

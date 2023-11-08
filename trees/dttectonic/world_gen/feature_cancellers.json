@@ -1,0 +1,69 @@
+[
+	{
+		"_comment": "Cancel any trees from wythers biomes.",
+		"select": { "name": "wythers:.*" },
+		"cancellers": {
+			"type": "tree",
+			"namespaces": [ "minecraft", "wythers" ]
+		}
+	},
+	{
+		"_comment": "Cancel any trees from tectonic biomes.",
+		"select": { "name": "tectonic:.*" },
+		"cancellers": {
+			"type": "tree",
+			"namespaces": [ "minecraft", "tectonic" ]
+		}
+	},
+	{
+		"_comment": "Cancel any cacti from tectonic biomes.",
+		"select": { "name": "tectonic:.*" },
+		"only_if_loaded": "dynamictreesplus",
+		"cancellers": {
+			"types": [  "tree", "dynamictreesplus:cactus"],
+			"namespaces": [ "minecraft", "tectonic" ]
+		}
+	},
+	{
+		"__comment" : "Try to fix wooded badlands not cancelling vanilla trees",
+		"select": { "name": "minecraft:wooded_badlands" },
+		"cancellers": {
+			"type": "tree",
+			"namespaces": [ "minecraft", "tectonic" ]
+		}
+	},
+	{
+		"__comment" : "Try to fix dark forest not cancelling vanilla trees",
+		"select": { "name": "minecraft:dark_forest" },
+		"cancellers": {
+			"type": "tree",
+			"namespaces": [ "minecraft", "tectonic", "wythers" ]
+		}
+	},
+	{
+		"__comment" : "Also remove trees from minecraft desert (to help with dirt_like blocks in desert)",
+		"select": { "name": "minecraft:desert" },
+		"cancellers": {
+			"type": "tree",
+			"namespaces": [ "minecraft", "tectonic" ]
+		}
+	},
+	{
+		"_comment": "Cancel any cacti from minecraft desert",
+		"select": { "name": "minecraft:desert" },
+		"only_if_loaded": "dynamictreesplus",
+		"cancellers": {
+			"types": [  "tree", "dynamictreesplus:cactus"],
+			"namespaces": [ "minecraft", "tectonic" ]
+		}
+	},
+
+	{
+		"_comment": "Until DT-BOP is updated...",
+		"select": { "name": "biomesoplenty:boreal_forest" },
+		"cancellers": {
+			"type": "tree",
+			"namespaces": [ "minecraft", "biomesoplenty" ]
+		}
+	}
+]

@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=south": { "model": "block/reforging_station_south" },
+        "facing=west": { "model": "block/reforging_station", "y": 90 },
+        "facing=north": { "model": "block/reforging_station_north", "y": 180 },
+        "facing=east": { "model": "block/reforging_station_east", "y": 270 }
+    }
+}

@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:netherite_chestplate",
+    "gothic:guardian_armor_chestplate"
+  ]
+}

@@ -1,0 +1,109 @@
+
+#Tier Config. This config is synced from server to client.
+[tier]
+
+	[tier.energy_cubes]
+		basicStorage = "4000000"
+		basicOutput = "4000"
+		advancedStorage = "16000000"
+		advancedOutput = "16000"
+		eliteStorage = "64000000"
+		eliteOutput = "64000"
+		ultimateStorage = "256000000"
+		ultimateOutput = "256000"
+		creativeStorage = "18446744073709551615.9999"
+		creativeOutput = "18446744073709551615.9999"
+
+	[tier.fluid_tanks]
+		basicStorage = 4000
+		basicOutput = 2000
+		advancedStorage = 8000
+		advancedOutput = 4000
+		eliteStorage = 16000
+		eliteOutput = 8000
+		ultimateStorage = 32000
+		ultimateOutput = 16000
+		creativeStorage = 2147483647
+		creativeOutput = 1073741823
+
+	[tier.chemical_tanks]
+		basicStorage = 16000
+		basicOutput = 8000
+		advancedStorage = 32000
+		advancedOutput = 16000
+		eliteStorage = 64000
+		eliteOutput = 32000
+		ultimateStorage = 128000
+		ultimateOutput = 64000
+		creativeStorage = 9223372036854775807
+		creativeOutput = 4611686018427387903
+
+	[tier.bins]
+		basicStorage = 4096
+		advancedStorage = 8192
+		eliteStorage = 32768
+		ultimateStorage = 262144
+		creativeStorage = 2147483647
+
+	[tier.induction]
+		basicStorage = "8000000000"
+		advancedStorage = "64000000000"
+		eliteStorage = "512000000000"
+		ultimateStorage = "4000000000000"
+		basicOutput = "256000"
+		advancedOutput = "2048000"
+		eliteOutput = "16384000"
+		ultimateOutput = "131072000"
+
+	[tier.transmitters]
+
+		[tier.transmitters.energy]
+			basicCapacity = "8000"
+			advancedCapacity = "128000"
+			eliteCapacity = "1024000"
+			ultimateCapacity = "8192000"
+
+		[tier.transmitters.fluid]
+			basicCapacity = 2000
+			basicPullAmount = 250
+			advancedCapacity = 8000
+			advancedPullAmount = 1000
+			eliteCapacity = 32000
+			elitePullAmount = 8000
+			ultimateCapacity = 128000
+			ultimatePullAmount = 32000
+
+		[tier.transmitters.chemical]
+			basicCapacity = 4000
+			basicPullAmount = 750
+			advancedCapacity = 16000
+			advancedPullAmount = 2000
+			eliteCapacity = 256000
+			elitePullAmount = 64000
+			ultimateCapacity = 1024000
+			ultimatePullAmount = 256000
+
+		[tier.transmitters.items]
+			basicPullAmount = 1
+			basicSpeed = 5
+			advancedPullAmount = 16
+			advancedSpeed = 10
+			elitePullAmount = 32
+			eliteSpeed = 20
+			ultimatePullAmount = 64
+			ultimateSpeed = 50
+
+		[tier.transmitters.heat]
+			basicInverseConduction = 5.0
+			basicHeatCapacity = 1.0
+			basicInsulation = 10.0
+			advancedInverseConduction = 5.0
+			advancedHeatCapacity = 1.0
+			advancedInsulation = 400.0
+			eliteInverseConduction = 5.0
+			eliteHeatCapacity = 1.0
+			eliteInsulation = 8000.0
+			ultimateInverseConduction = 5.0
+			ultimateHeatCapacity = 1.0
+			ultimateInsulation = 100000.0
+

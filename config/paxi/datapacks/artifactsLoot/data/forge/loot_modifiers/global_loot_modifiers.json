@@ -1,0 +1,14 @@
+{
+  "entries": [
+    "artifacts:inject/chests/bastion_treasure",
+    "artifacts:inject/chests/jungle_temple",
+    "artifacts:inject/chests/end_city_treasure",
+    "artifacts:inject/chests/woodland_mansion",
+    "artifacts:inject/chests/buried_treasure",
+    "artifacts:inject/entities/cow",
+    "artifacts:inject/chests/desert_pyramid",
+    "artifacts:inject/chests/nether_bridge",
+    "artifacts:inject/chests/bastion_hoglin_stable"
+  ],
+  "replace": false
+}

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:random_selector",
+  "config": {
+    "default": "skylands:crystal_spruce",
+    "features": [
+      {
+        "chance": 0.5,
+        "feature": "skylands:crystal_pine"
+      }
+    ]
+  }
+}
